@@ -27,4 +27,4 @@
 !!! tip "wer vs wen vs wem"
     wer (nom) -> wen (akk) -> wem (dat). Who -> whom -> to whom.
 
-> Log slips in `../08-Practice-Lab/01-mistakes.md`.
+> Log slips in [mistakes.md](../08-Practice-Lab/01-mistakes.md).

@@ -12,7 +12,7 @@
 | **Task 2: Mitteilung** | One sentence prompt | 20-30 word message | 15 |
 | **Total** | | | 30 points |
 
-**Passing rule:** Write something in every box, write the message. Empty = 0 points.
+**Passing rule:** Write something in every box, write the message. ==Empty = 0 points.==
 
 ---
 
@@ -20,20 +20,22 @@
 
 ### Your data (MEMORIZE - write this 10 times by hand)
 
-```
-Vorname: Hamed
-Familienname: Okhovvat
-Geburtsdatum: 21.09.1985
-Geburtsort: Teheran
-Straße und Hausnummer: Erika-Mann-Straße 12
-Postleitzahl: 80636
-Wohnort: München
-Telefonnummer: 0176 12345678
-Nationalität: iranisch
-Familienstand: verheiratet
-Beruf: Softwareentwickler
-Muttersprache: Persisch
-```
+??? success "Cover, recall, then expand to check"
+
+    ```
+    Vorname: Hamed
+    Familienname: Okhovvat
+    Geburtsdatum: 21.09.1985
+    Geburtsort: Teheran
+    Straße und Hausnummer: Erika-Mann-Straße 12
+    Postleitzahl: 80636
+    Wohnort: München
+    Telefonnummer: 0176 12345678
+    Nationalität: iranisch
+    Familienstand: verheiratet
+    Beruf: Softwareentwickler
+    Muttersprache: Persisch
+    ```
 
 ### Every possible field you might see
 
@@ -134,471 +136,511 @@ Muttersprache: Persisch
 
 ### Template 1: Invitation - Einladung
 
-**Version A: Birthday party (friend)**
-```
-Liebe Anna,
+=== "A: Birthday party (friend)"
 
-ich habe am Samstag Geburtstag. Möchtest du zu meiner Party kommen?
-Die Party ist um 19 Uhr bei mir zu Hause.
+    ```
+    Liebe Anna,
 
-Viele Grüße
-Hamed
-```
+    ich habe am Samstag Geburtstag. Möchtest du zu meiner Party kommen?
+    Die Party ist um 19 Uhr bei mir zu Hause.
 
-**Version B: Dinner invitation (friend)**
-```
-Lieber Thomas,
+    Viele Grüße
+    Hamed
+    ```
 
-möchtest du am Freitag mit mir im Restaurant essen?
-Wir treffen uns um 19 Uhr vor dem Restaurant.
+=== "B: Dinner invitation (friend)"
 
-Liebe Grüße
-Hamed
-```
+    ```
+    Lieber Thomas,
 
-**Version C: Cinema invitation (friend)**
-```
-Hallo zusammen,
+    möchtest du am Freitag mit mir im Restaurant essen?
+    Wir treffen uns um 19 Uhr vor dem Restaurant.
 
-wollen wir am Samstag ins Kino gehen? Der Film beginnt um 20 Uhr.
-Schreib mir bitte, ob ihr kommen könnt.
+    Liebe Grüße
+    Hamed
+    ```
 
-Viele Grüße
-Hamed
-```
+=== "C: Cinema invitation (friend)"
 
-**Version D: Coffee invitation (friend)**
-```
-Liebe Fatima,
+    ```
+    Hallo zusammen,
 
-kommst du am Sonntag mit mir in die Stadt? Wir können im Café treffen.
-Um 15 Uhr am Bahnhof?
+    wollen wir am Samstag ins Kino gehen? Der Film beginnt um 20 Uhr.
+    Schreib mir bitte, ob ihr kommen könnt.
 
-Viele Grüße
-Hamed
-```
+    Viele Grüße
+    Hamed
+    ```
 
-**Version E: Walk invitation (friend)**
-```
-Lieber Karim,
+=== "D: Coffee invitation (friend)"
 
-sollen wir am Samstag zusammen spazieren gehen?
-Wir treffen uns um 10 Uhr im Park.
+    ```
+    Liebe Fatima,
 
-Viele Grüße
-Hamed
-```
+    kommst du am Sonntag mit mir in die Stadt? Wir können im Café treffen.
+    Um 15 Uhr am Bahnhof?
 
-**Version F: Formal invitation (authority)**
-```
-Sehr geehrte Damen und Herren,
+    Viele Grüße
+    Hamed
+    ```
 
-ich möchte Sie herzlich zu unserem Kursabend einladen.
-Der Abend findet am Freitag um 18 Uhr in der Schule statt.
+=== "E: Walk invitation (friend)"
 
-Mit freundlichen Grüßen
-Hamed Okhovvat
-```
+    ```
+    Lieber Karim,
+
+    sollen wir am Samstag zusammen spazieren gehen?
+    Wir treffen uns um 10 Uhr im Park.
+
+    Viele Grüße
+    Hamed
+    ```
+
+=== "F: Formal invitation (authority)"
+
+    ```
+    Sehr geehrte Damen und Herren,
+
+    ich möchte Sie herzlich zu unserem Kursabend einladen.
+    Der Abend findet am Freitag um 18 Uhr in der Schule statt.
+
+    Mit freundlichen Grüßen
+    Hamed Okhovvat
+    ```
 
 ---
 
 ### Template 2: Apology / Can't come - Entschuldigung
 
-**Version A: Sick (friend)**
-```
-Liebe Anna,
+=== "A: Sick (friend)"
 
-es tut mir leid, ich kann heute nicht zum Kurs kommen.
-Ich bin krank und habe einen Termin beim Arzt.
+    ```
+    Liebe Anna,
 
-Viele Grüße
-Hamed
-```
+    es tut mir leid, ich kann heute nicht zum Kurs kommen.
+    Ich bin krank und habe einen Termin beim Arzt.
 
-**Version B: Busy (friend)**
-```
-Lieber Thomas,
+    Viele Grüße
+    Hamed
+    ```
 
-ich kann leider morgen nicht zum Treffen kommen.
-Ich muss arbeiten. Können wir uns am Dienstag treffen?
+=== "B: Busy (friend)"
 
-Viele Grüße
-Hamed
-```
+    ```
+    Lieber Thomas,
 
-**Version C: No time (friend)**
-```
-Hallo Fatima,
+    ich kann leider morgen nicht zum Treffen kommen.
+    Ich muss arbeiten. Können wir uns am Dienstag treffen?
 
-es tut mir leid, ich habe am Samstag keine Zeit.
-Ich lerne für die Prüfung. Vielleicht nächstes Wochenende?
+    Viele Grüße
+    Hamed
+    ```
 
-Viele Grüße
-Hamed
-```
+=== "C: No time (friend)"
 
-**Version D: Traveling (friend)**
-```
-Lieber Karim,
+    ```
+    Hallo Fatima,
 
-ich kann am Freitag nicht zur Party kommen.
-Ich fahre nach Berlin. Ich rufe dich später an.
+    es tut mir leid, ich habe am Samstag keine Zeit.
+    Ich lerne für die Prüfung. Vielleicht nächstes Wochenende?
 
-Viele Grüße
-Hamed
-```
+    Viele Grüße
+    Hamed
+    ```
 
-**Version E: Formal apology (authority)**
-```
-Sehr geehrter Herr Weber,
+=== "D: Traveling (friend)"
 
-es tut mir leid, ich kann heute nicht zum Kurs kommen.
-Ich bin krank und habe einen Arzttermin.
+    ```
+    Lieber Karim,
 
-Mit freundlichen Grüßen
-Hamed Okhovvat
-```
+    ich kann am Freitag nicht zur Party kommen.
+    Ich fahre nach Berlin. Ich rufe dich später an.
 
-**Version F: Forgot (friend)**
-```
-Liebe Anna,
+    Viele Grüße
+    Hamed
+    ```
 
-tut mir leid, ich habe unser Treffen vergessen.
-Kann ich mich entschuldigen? Lass uns am Montag treffen.
+=== "E: Formal apology (authority)"
 
-Viele Grüße
-Hamed
-```
+    ```
+    Sehr geehrter Herr Weber,
+
+    es tut mir leid, ich kann heute nicht zum Kurs kommen.
+    Ich bin krank und habe einen Arzttermin.
+
+    Mit freundlichen Grüßen
+    Hamed Okhovvat
+    ```
+
+=== "F: Forgot (friend)"
+
+    ```
+    Liebe Anna,
+
+    tut mir leid, ich habe unser Treffen vergessen.
+    Kann ich mich entschuldigen? Lass uns am Montag treffen.
+
+    Viele Grüße
+    Hamed
+    ```
 
 ---
 
 ### Template 3: Thank you - Dank
 
-**Version A: Birthday gift (friend)**
-```
-Liebe Anna,
+=== "A: Birthday gift (friend)"
 
-vielen Dank für das Geschenk. Ich freue mich sehr!
-Es ist sehr nett von dir.
+    ```
+    Liebe Anna,
 
-Viele Grüße
-Hamed
-```
+    vielen Dank für das Geschenk. Ich freue mich sehr!
+    Es ist sehr nett von dir.
 
-**Version B: Help (friend)**
-```
-Lieber Thomas,
+    Viele Grüße
+    Hamed
+    ```
 
-danke für deine Hilfe gestern. Das war sehr nett von dir.
-Ich habe es geschafft!
+=== "B: Help (friend)"
 
-Liebe Grüße
-Hamed
-```
+    ```
+    Lieber Thomas,
 
-**Version C: Invitation (friend)**
-```
-Liebe Fatima,
+    danke für deine Hilfe gestern. Das war sehr nett von dir.
+    Ich habe es geschafft!
 
-vielen Dank für die Einladung. Ich habe mich sehr gefreut!
-Die Party war super.
+    Liebe Grüße
+    Hamed
+    ```
 
-Viele Grüße
-Hamed
-```
+=== "C: Invitation (friend)"
 
-**Version D: Coffee/treat (friend)**
-```
-Hallo Anna,
+    ```
+    Liebe Fatima,
 
-danke für den Kaffee. Er war sehr lecker!
-Es war schön, dich zu treffen.
+    vielen Dank für die Einladung. Ich habe mich sehr gefreut!
+    Die Party war super.
 
-Viele Grüße
-Hamed
-```
+    Viele Grüße
+    Hamed
+    ```
 
-**Version E: Formal thank you (authority)**
-```
-Sehr geehrte Damen und Herren,
+=== "D: Coffee/treat (friend)"
 
-vielen Dank für Ihre Hilfe. Ich habe die Unterlagen bekommen.
-Das ist sehr nett von Ihnen.
+    ```
+    Hallo Anna,
 
-Mit freundlichen Grüßen
-Hamed Okhovvat
-```
+    danke für den Kaffee. Er war sehr lecker!
+    Es war schön, dich zu treffen.
 
-**Version F: For a letter/message (friend)**
-```
-Lieber Herr Weber,
+    Viele Grüße
+    Hamed
+    ```
 
-danke für Ihre Nachricht. Es freut mich, von Ihnen zu hören.
-Ich wünsche Ihnen alles Gute.
+=== "E: Formal thank you (authority)"
 
-Mit freundlichen Grüßen
-Hamed Okhovvat
-```
+    ```
+    Sehr geehrte Damen und Herren,
+
+    vielen Dank für Ihre Hilfe. Ich habe die Unterlagen bekommen.
+    Das ist sehr nett von Ihnen.
+
+    Mit freundlichen Grüßen
+    Hamed Okhovvat
+    ```
+
+=== "F: For a letter/message (friend)"
+
+    ```
+    Lieber Herr Weber,
+
+    danke für Ihre Nachricht. Es freut mich, von Ihnen zu hören.
+    Ich wünsche Ihnen alles Gute.
+
+    Mit freundlichen Grüßen
+    Hamed Okhovvat
+    ```
 
 ---
 
 ### Template 4: Suggest meeting - Termin vorschlagen
 
-**Version A: Café (friend)**
-```
-Liebe Anna,
+=== "A: Café (friend)"
 
-können wir uns am Montag treffen? Um 18 Uhr im Café?
-Schreib mir bitte, ob es dir passt.
+    ```
+    Liebe Anna,
 
-Viele Grüße
-Hamed
-```
+    können wir uns am Montag treffen? Um 18 Uhr im Café?
+    Schreib mir bitte, ob es dir passt.
 
-**Version B: Park (friend)**
-```
-Lieber Thomas,
+    Viele Grüße
+    Hamed
+    ```
 
-sollen wir am Samstag im Park spazieren gehen?
-Um 10 Uhr vor dem Café? Wie findest du das?
+=== "B: Park (friend)"
 
-Viele Grüße
-Hamed
-```
+    ```
+    Lieber Thomas,
 
-**Version C: Restaurant (friend)**
-```
-Hallo Fatima,
+    sollen wir am Samstag im Park spazieren gehen?
+    Um 10 Uhr vor dem Café? Wie findest du das?
 
-möchtest du am Freitag mit mir im Restaurant essen?
-Um 19 Uhr? Ich kenne ein gutes Restaurant.
+    Viele Grüße
+    Hamed
+    ```
 
-Viele Grüße
-Hamed
-```
+=== "C: Restaurant (friend)"
 
-**Version D: Cinema (friend)**
-```
-Lieber Karim,
+    ```
+    Hallo Fatima,
 
-wollen wir am Samstag ins Kino gehen?
-Der Film beginnt um 20 Uhr. Kannst du kommen?
+    möchtest du am Freitag mit mir im Restaurant essen?
+    Um 19 Uhr? Ich kenne ein gutes Restaurant.
 
-Viele Grüße
-Hamed
-```
+    Viele Grüße
+    Hamed
+    ```
 
-**Version E: Study group (friend)**
-```
-Hallo zusammen,
+=== "D: Cinema (friend)"
 
-können wir am Mittwoch zusammen lernen?
-Um 16 Uhr in der Bibliothek. Wer kommt?
+    ```
+    Lieber Karim,
 
-Viele Grüße
-Hamed
-```
+    wollen wir am Samstag ins Kino gehen?
+    Der Film beginnt um 20 Uhr. Kannst du kommen?
 
-**Version F: Formal meeting (authority)**
-```
-Sehr geehrter Herr Weber,
+    Viele Grüße
+    Hamed
+    ```
 
-könnten wir uns nächste Woche treffen? Ich hätte gerne einen Termin.
-Wann passt es Ihnen?
+=== "E: Study group (friend)"
 
-Mit freundlichen Grüßen
-Hamed Okhovvat
-```
+    ```
+    Hallo zusammen,
+
+    können wir am Mittwoch zusammen lernen?
+    Um 16 Uhr in der Bibliothek. Wer kommt?
+
+    Viele Grüße
+    Hamed
+    ```
+
+=== "F: Formal meeting (authority)"
+
+    ```
+    Sehr geehrter Herr Weber,
+
+    könnten wir uns nächste Woche treffen? Ich hätte gerne einen Termin.
+    Wann passt es Ihnen?
+
+    Mit freundlichen Grüßen
+    Hamed Okhovvat
+    ```
 
 ---
 
 ### Template 5: Cancel / Change plan - Absage
 
-**Version A: Sick (friend)**
-```
-Liebe Anna,
+=== "A: Sick (friend)"
 
-es tut mir leid, ich kann morgen nicht kommen.
-Ich bin krank. Können wir uns am Dienstag treffen?
+    ```
+    Liebe Anna,
 
-Viele Grüße
-Hamed
-```
+    es tut mir leid, ich kann morgen nicht kommen.
+    Ich bin krank. Können wir uns am Dienstag treffen?
 
-**Version B: Work (friend)**
-```
-Lieber Thomas,
+    Viele Grüße
+    Hamed
+    ```
 
-ich kann leider am Freitag nicht zum Kino kommen.
-Ich muss arbeiten. Lass uns am Sonntag gehen.
+=== "B: Work (friend)"
 
-Viele Grüße
-Hamed
-```
+    ```
+    Lieber Thomas,
 
-**Version C: Changed mind (friend)**
-```
-Hallo Fatima,
+    ich kann leider am Freitag nicht zum Kino kommen.
+    Ich muss arbeiten. Lass uns am Sonntag gehen.
 
-tut mir leid, ich kann am Samstag nicht kommen.
-Ich habe viel zu tun. Nächstes Wochenende?
+    Viele Grüße
+    Hamed
+    ```
 
-Viele Grüße
-Hamed
-```
+=== "C: Changed mind (friend)"
 
-**Version D: Found alternative (friend)**
-```
-Lieber Karim,
+    ```
+    Hallo Fatima,
 
-ich kann morgen nicht zum Treffen kommen.
-Aber ich habe einen anderen Termin vorgeschlagen. Schreib mir bitte.
+    tut mir leid, ich kann am Samstag nicht kommen.
+    Ich habe viel zu tun. Nächstes Wochenende?
 
-Viele Grüße
-Hamed
-```
+    Viele Grüße
+    Hamed
+    ```
 
-**Version E: Formal cancellation (authority)**
-```
-Sehr geehrte Damen und Herren,
+=== "D: Found alternative (friend)"
 
-es tut mir leid, ich muss meinen Termin am Freitag absagen.
-Ich bin leider krank. Können wir einen neuen Termin machen?
+    ```
+    Lieber Karim,
 
-Mit freundlichen Grüßen
-Hamed Okhovvat
-```
+    ich kann morgen nicht zum Treffen kommen.
+    Aber ich habe einen anderen Termin vorgeschlagen. Schreib mir bitte.
+
+    Viele Grüße
+    Hamed
+    ```
+
+=== "E: Formal cancellation (authority)"
+
+    ```
+    Sehr geehrte Damen und Herren,
+
+    es tut mir leid, ich muss meinen Termin am Freitag absagen.
+    Ich bin leider krank. Können wir einen neuen Termin machen?
+
+    Mit freundlichen Grüßen
+    Hamed Okhovvat
+    ```
 
 ---
 
 ### Template 6: Share information - Information
 
 
-**Version A: Meeting point (friend)**
-```
-Hallo Fatima,
+=== "A: Meeting point (friend)"
 
-wir treffen uns am Samstag um 15 Uhr am Bahnhof.
-Bitte komm pünktlich!
+    ```
+    Hallo Fatima,
 
-Viele Grüße
-Hamed
-```
+    wir treffen uns am Samstag um 15 Uhr am Bahnhof.
+    Bitte komm pünktlich!
 
-**Version B: Party info (friend)**
-```
-Liebe Anna,
+    Viele Grüße
+    Hamed
+    ```
 
-ich habe am Freitag Geburtstag. Die Party ist um 20 Uhr bei mir zu Hause.
-Bitte komm! Ich freue mich!
+=== "B: Party info (friend)"
 
-Viele Grüße
-Hamed
-```
+    ```
+    Liebe Anna,
 
-**Version C: Course info (friend)**
-```
-Hallo Thomas,
+    ich habe am Freitag Geburtstag. Die Party ist um 20 Uhr bei mir zu Hause.
+    Bitte komm! Ich freue mich!
 
-der Kurs beginnt am Montag um 9 Uhr.
-Raum 302 in der Schule. Vergiss es nicht!
+    Viele Grüße
+    Hamed
+    ```
 
-Viele Grüße
-Hamed
-```
+=== "C: Course info (friend)"
 
-**Version D: Change of plan (friend)**
-```
-Lieber Karim,
+    ```
+    Hallo Thomas,
 
-wir treffen uns nicht am Bahnhof, sondern im Café.
-Um 15 Uhr wie geplant.
+    der Kurs beginnt am Montag um 9 Uhr.
+    Raum 302 in der Schule. Vergiss es nicht!
 
-Viele Grüße
-Hamed
-```
+    Viele Grüße
+    Hamed
+    ```
 
-**Version E: Formal information (authority)**
-```
-Sehr geehrte Damen und Herren,
+=== "D: Change of plan (friend)"
 
-ich möchte Ihnen mitteilen, dass ich am Montag nicht kommen kann.
-Ich habe einen Arzttermin. Vielen Dank für Ihr Verständnis.
+    ```
+    Lieber Karim,
 
-Mit freundlichen Grüßen
-Hamed Okhovvat
-```
+    wir treffen uns nicht am Bahnhof, sondern im Café.
+    Um 15 Uhr wie geplant.
+
+    Viele Grüße
+    Hamed
+    ```
+
+=== "E: Formal information (authority)"
+
+    ```
+    Sehr geehrte Damen und Herren,
+
+    ich möchte Ihnen mitteilen, dass ich am Montag nicht kommen kann.
+    Ich habe einen Arzttermin. Vielen Dank für Ihr Verständnis.
+
+    Mit freundlichen Grüßen
+    Hamed Okhovvat
+    ```
 
 ---
 
 ### Template 7: Ask for something - Bitte
 
 
-**Version A: Appointment (formal)**
-```
-Sehr geehrte Damen und Herren,
+=== "A: Appointment (formal)"
 
-ich möchte bitte einen Termin für den Pass machen.
-Wann ist es möglich?
+    ```
+    Sehr geehrte Damen und Herren,
 
-Mit freundlichen Grüßen
-Hamed Okhovvat
-```
+    ich möchte bitte einen Termin für den Pass machen.
+    Wann ist es möglich?
 
-**Version B: Doctor (formal)**
-```
-Sehr geehrte Damen und Herren,
+    Mit freundlichen Grüßen
+    Hamed Okhovvat
+    ```
 
-ich bräuchte bitte einen Termin beim Arzt.
-Haben Sie diese Woche noch frei?
+=== "B: Doctor (formal)"
 
-Mit freundlichen Grüßen
-Hamed Okhovvat
-```
+    ```
+    Sehr geehrte Damen und Herren,
 
-**Version C: Information (formal)**
-```
-Sehr geehrte Damen und Herren,
+    ich bräuchte bitte einen Termin beim Arzt.
+    Haben Sie diese Woche noch frei?
 
-ich möchte mich über den Deutschkurs informieren.
-Was kostet der Kurs und wann beginnt er?
+    Mit freundlichen Grüßen
+    Hamed Okhovvat
+    ```
 
-Mit freundlichen Grüßen
-Hamed Okhovvat
-```
+=== "C: Information (formal)"
 
-**Version D: Help (friend)**
-```
-Lieber Thomas,
+    ```
+    Sehr geehrte Damen und Herren,
 
-kannst du mir bitte helfen? Ich brauche Hilfe beim Umzug.
-Am Samstag um 10 Uhr. Kannst du?
+    ich möchte mich über den Deutschkurs informieren.
+    Was kostet der Kurs und wann beginnt er?
 
-Viele Grüße
-Hamed
-```
+    Mit freundlichen Grüßen
+    Hamed Okhovvat
+    ```
 
-**Version E: Borrow something (friend)**
-```
-Liebe Anna,
+=== "D: Help (friend)"
 
-kann ich bitte dein Buch leihen? Ich brauche es für die Schule.
-Ich gebe es dir morgen zurück.
+    ```
+    Lieber Thomas,
 
-Viele Grüße
-Hamed
-```
+    kannst du mir bitte helfen? Ich brauche Hilfe beim Umzug.
+    Am Samstag um 10 Uhr. Kannst du?
 
-**Version F: Ask for address (friend)**
-```
-Hallo Fatima,
+    Viele Grüße
+    Hamed
+    ```
 
-wie ist bitte deine Adresse? Ich möchte dir eine Karte schicken.
-Schreib mir bitte.
+=== "E: Borrow something (friend)"
 
-Viele Grüße
-Hamed
-```
+    ```
+    Liebe Anna,
+
+    kann ich bitte dein Buch leihen? Ich brauche es für die Schule.
+    Ich gebe es dir morgen zurück.
+
+    Viele Grüße
+    Hamed
+    ```
+
+=== "F: Ask for address (friend)"
+
+    ```
+    Hallo Fatima,
+
+    wie ist bitte deine Adresse? Ich möchte dir eine Karte schicken.
+    Schreib mir bitte.
+
+    Viele Grüße
+    Hamed
+    ```
 
 ---
 
@@ -765,4 +807,4 @@ Write all 7, then check them against the templates above.
 
 ---
 
-> **Final rule:** The exam is not a literature test. Clear + correct + complete = pass. Write short, write simple, write now.
+> **Final rule:** The exam is not a literature test. ==Clear + correct + complete = pass.== Write short, write simple, write now.

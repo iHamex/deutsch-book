@@ -40,4 +40,6 @@ repository. It will NEVER happen again.
 ---
 
 Other conventions for editing content live in `.RULES-FORMATTING.md` (repo
-root). Read it before creating or editing any markdown file.
+root). Read it before creating or editing any markdown file. The visual
+element standard (which Material element carries which content) lives in
+`.RULES-VISUAL.md` - read it before writing any lesson content.

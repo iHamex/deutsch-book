@@ -16,7 +16,7 @@ level: "A1"
 - **New learner:** read Parts 01 to 08 in order, then 09 for speaking.
 - **Review before exam:** go to 07-Exam-Mastery only.
 - **Daily speaking:** go to 06-Daily-Communication + 09-Fluency-Speaking.
-- **Fix a mistake:** go to 08-Practice-Lab/01-mistakes.md, find the rule, jump to the Part that explains it.
+- **Fix a mistake:** go to [mistakes.md](08-Practice-Lab/01-mistakes.md), find the rule, jump to the Part that explains it.
 
 **Rule:** do not jump randomly. The numbers ARE the order.
 
@@ -26,23 +26,24 @@ level: "A1"
 
 | Part | Folder | Goal | Time | When |
 |---|---|---|---|---|
-| **01** | [01-Foundations](01-Foundations/00-INDEX.md) | Numbers, dates, time, and time words | 2 hours | First day |
-| **02** | [02-Grammar-Core](02-Grammar-Core/00-INDEX.md) | Articles, cases, pronouns, prepositions, negation - the skeleton | 4 hours | Week 1 |
-| **03** | [03-Verbs](03-Verbs/00-INDEX.md) | All verb conjugation, modals, tenses, imperative, future | 4 hours | Week 1-2 |
-| **04** | [04-Sentence-Building](04-Sentence-Building/00-INDEX.md) | Build correct sentences: word order, questions, comparison, da/wo | 3 hours | Week 2 |
-| **05** | [05-Vocabulary-Topics](05-Vocabulary-Topics/00-INDEX.md) | Thematic words: family, food, housing, weather, city, health | 3 hours | Week 2-3 |
-| **06** | [06-Daily-Communication](06-Daily-Communication/00-INDEX.md) | 210+ spoken phrases for everyday life | Ongoing | Daily |
-| **07** | [07-Exam-Mastery](07-Exam-Mastery/00-INDEX.md) | Telc A1 exam: cheat sheets, writing, hören, lesen | 3 hours | Before exam |
-| **08** | [08-Practice-Lab](08-Practice-Lab/00-INDEX.md) | Where you drill: sentences, skeletons, mistakes | Daily | Daily |
-| **09** | [09-Fluency-Speaking](09-Fluency-Speaking/00-INDEX.md) | Speaking phase: become comfortable, not perfect | Ongoing | Daily |
+| **01** | [Foundations](01-Foundations/00-INDEX.md) | Numbers, dates, time, and time words | 2 hours | First day |
+| **02** | [Grammar-Core](02-Grammar-Core/00-INDEX.md) | Articles, cases, pronouns, prepositions, negation - the skeleton | 4 hours | Week 1 |
+| **03** | [Verbs](03-Verbs/00-INDEX.md) | All verb conjugation, modals, tenses, imperative, future | 4 hours | Week 1-2 |
+| **04** | [Sentence-Building](04-Sentence-Building/00-INDEX.md) | Build correct sentences: word order, questions, comparison, da/wo | 3 hours | Week 2 |
+| **05** | [Vocabulary-Topics](05-Vocabulary-Topics/00-INDEX.md) | Thematic words: family, food, housing, weather, city, health | 3 hours | Week 2-3 |
+| **06** | [Daily-Communication](06-Daily-Communication/00-INDEX.md) | 210+ spoken phrases for everyday life | Ongoing | Daily |
+| **07** | [Exam-Mastery](07-Exam-Mastery/00-INDEX.md) | Telc A1 exam: cheat sheets, writing, hören, lesen | 3 hours | Before exam |
+| **08** | [Practice-Lab](08-Practice-Lab/00-INDEX.md) | Where you drill: sentences, skeletons, mistakes | Daily | Daily |
+| **09** | [Fluency-Speaking](09-Fluency-Speaking/00-INDEX.md) | Speaking phase: become comfortable, not perfect | Ongoing | Daily |
 
-**Total core:** Parts 01-05. **Application:** Parts 06-09.
+- **Total core:** Parts 01-05.
+- **Application:** Parts 06-09.
 
 ---
 
 ## File Naming
 
-Every file has a number prefix `01-`, `02-` so Obsidian sorts it correctly. Read `00-INDEX.md` in each folder before the numbered files.
+Every file has a number prefix `01-`, `02-` so Obsidian sorts it correctly. Read [00-INDEX.md](07-Exam-Mastery/00-INDEX.md) in each folder before the numbered files.
 
 Files are self-contained: each has tables, real sentences, and a practice line at the end.
 

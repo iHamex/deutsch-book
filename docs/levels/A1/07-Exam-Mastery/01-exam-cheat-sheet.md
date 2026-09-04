@@ -34,14 +34,13 @@
 
 **Task 1 - Form:** Copy Section 1 exactly. Empty box = lost points. Spelling almost never matters.
 
-**Task 2 - Message (4 lines):**
-
-```
-Liebe/Lieber [Name],
-[2-3 sentences: present only, V2 correct]
-Viele Grüße
-Hamed
-```
+!!! example "Task 2 - Message (4 lines)"
+    ```
+    Liebe/Lieber [Name],
+    [2-3 sentences: present only, V2 correct]
+    Viele Grüße
+    Hamed
+    ```
 
 **Templates:**
 

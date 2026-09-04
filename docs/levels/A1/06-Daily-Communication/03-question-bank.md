@@ -5,17 +5,18 @@
 !!! info "Source verified"
     All questions verified against official telc A1 and Goethe-Zertifikat A1 practice materials.
 
-> **Source:** Official telc A1 format (telc.net), Goethe-Zertifikat A1 (same exam), ../02-Grammar-Core/07-grammar-essentials.md §20, vocabulary-modules.md. All content verified against official practice materials.
+> **Source:** Official telc A1 format (telc.net), Goethe-Zertifikat A1 (same exam), [07-grammar-essentials.md §20](../02-Grammar-Core/07-grammar-essentials.md#20-schilder-verkehrsmittel-signs-and-transport-lesen-loves-signs), vocabulary-modules.md. All content verified against official practice materials.
 
 ---
 
 ## The Formula (memorize this first)
 
-**Every card = ONE question. The formula is always the same:**
+!!! tip "Every card = ONE question"
+    The formula is always the same:
 
-```
-W-word + verb + Sie?
-```
+    ```
+    W-word + verb + Sie?
+    ```
 
 That's it. That's the whole exam for Teil 2.
 
@@ -272,7 +273,7 @@ That's it. That's the whole exam for Teil 2.
 
 ## PART A2: SIGNS AND SYMBOLS (Schilder und Zeichen)
 
-### Official telc A1 signs vocabulary (from ../02-Grammar-Core/07-grammar-essentials.md §20 + official sources)
+### Official telc A1 signs vocabulary (from [07-grammar-essentials.md §20](../02-Grammar-Core/07-grammar-essentials.md#20-schilder-verkehrsmittel-signs-and-transport-lesen-loves-signs) + official sources)
 
 **Building signs (Gebäude):**
 

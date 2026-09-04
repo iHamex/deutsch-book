@@ -1,6 +1,6 @@
 # Opposites - Gegenteile (The Easy Way)
 
-> Opposites = instant vocabulary booster. Learn one word, get the second for free.
+> Opposites = instant vocabulary booster. Learn one word, get the second for free.  
 > Every pair comes with a real example sentence so you see the word in action, not just in a list.
 
 ---

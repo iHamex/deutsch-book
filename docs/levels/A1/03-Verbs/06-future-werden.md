@@ -11,7 +11,7 @@
 | **become** (A1) | werden + adjective/noun | Ich **werde** müde. / Es **wird** kalt. | I get tired. / It gets cold. |
 | **future** (A2) | werden + Infinitiv at END | Ich **werde** morgen **fahren**. | I will drive tomorrow. |
 
-> You already know werden in `conjugations.md:145-162` and `grammar-essentials.md:578-580`. This file adds the future job.
+> You already know werden in [conjugations.md §werden](01-conjugations.md#werden-to-become-adjective-noun) and [grammar-essentials.md §21](../02-Grammar-Core/07-grammar-essentials.md#21-the-last-verbs-high-frequency-ones-you-havent-seen-yet). This file adds the future job.
 
 ---
 
@@ -81,13 +81,21 @@
 
 ## 5. Quick practice - cover German, recall
 
-- I will come tomorrow -> Ich werde morgen kommen.
-- Tomorrow I will drive -> Morgen werde ich fahren.
-- Will you come? -> Wirst du kommen?
-- It will rain tomorrow -> Es wird morgen regnen.
-- Spoken alternative: Tomorrow I drive -> Morgen fahre ich.
+- I will come tomorrow
+- Tomorrow I will drive
+- Will you come?
+- It will rain tomorrow
+- Spoken alternative: Tomorrow I drive
+
+??? success "Antworten - expand to check"
+
+    1. Ich werde morgen kommen.
+    2. Morgen werde ich fahren.
+    3. Wirst du kommen?
+    4. Es wird morgen regnen.
+    5. Morgen fahre ich.
 
 !!! tip "Spoken vs Futur"
     Spoken prefers present + time word: `Morgen fahre ich`. Futur is for promises/predictions.
 
-> Log slips in `../08-Practice-Lab/01-mistakes.md`. For A1 exam, present + time word is enough. Futur I is your A2 bridge.
+> Log slips in [mistakes.md](../08-Practice-Lab/01-mistakes.md). For A1 exam, present + time word is enough. Futur I is your A2 bridge.

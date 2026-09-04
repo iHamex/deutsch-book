@@ -1,14 +1,14 @@
 # Deutsch Book
 
-Your complete A1 German fundamentals - grammar, verbs, sentence building, vocabulary, daily communication, exam mastery, practice, and fluency. Built from your own knowledge base, organized like a real book.
+Your complete German course from zero to A2 - grammar, verbs, sentence building, vocabulary, daily communication, exam mastery, practice, and fluency. Built from your own knowledge base, organized like a real book.
 
 ## Welcome
 
-This book takes you from zero to A1 solid - and then bridges into everyday speaking. It is not a random collection of notes: it is 9 parts that build on each other, exactly like a course.
+This book takes you from zero to A2 solid - A1 fundamentals first, then A2 Aufbau, then everyday speaking. It is not a random collection of notes: it is parts that build on each other, exactly like a course.
 
 ## Book Structure
 
-### The 9 Parts
+### A1 Level - The 9 Parts
 
 | Part | What it covers | Goal |
 |---|---|---|
@@ -22,7 +22,24 @@ This book takes you from zero to A1 solid - and then bridges into everyday speak
 | **[Part 08 - Practice Lab](levels/A1/08-Practice-Lab/00-INDEX.md)** | Mistake log, sentence bank, skeletons, daily practice | Turn knowing into doing - where mistakes die |
 | **[Part 09 - Fluency Speaking](levels/A1/09-Fluency-Speaking/00-INDEX.md)** | Speaking phase: situations, coach rules, your state | Become comfortable, not perfect |
 
-**Total core:** Parts 01-05. **Application:** Parts 06-09.
+- **Total core:** Parts 01-05.
+- **Application:** Parts 06-09.
+
+### A2 Level - The 8 Parts (requires A1 solid)
+
+| Part | What it covers | Goal |
+|---|---|---|
+| **[Part 01 - Verbs and Tenses](levels/A2/01-Verbs-Tenses/00-INDEX.md)** | Präteritum full, Perfekt deep, Plusquamperfekt, Futur, Konjunktiv II | Narrate the past, be polite |
+| **[Part 02 - Sentences and Clauses](levels/A2/02-Sentences-Clauses/00-INDEX.md)** | als/wenn/während/bevor/damit, zu-Infinitiv, Relativsätze, indirekte Fragen | Connect sentences like A2 |
+| **[Part 03 - Cases and Articles](levels/A2/03-Cases-Articles/00-INDEX.md)** | Wechselpräpositionen, full adjectives, preposition verbs/nouns, Genitiv | Own positions and endings |
+| **[Part 04 - Reflexive and Passive](levels/A2/04-Reflexive-Passive/00-INDEX.md)** | Reflexive verbs (+ prepositions), Passiv Präsens | Daily routine + read signs |
+| **[Part 05 - Vocabulary Topics](levels/A2/05-Vocabulary-Topics/00-INDEX.md)** | 12 telc themes: Medien, Verkehr, Wohnung, Ämter, Beruf, Gesundheit, Bank | Words for real situations |
+| **[Part 06 - Daily Communication](levels/A2/06-Daily-Communication/00-INDEX.md)** | Alltagsgespräche, Telefonieren, Meinung begründen, kleine Geschichten | Hold real conversations |
+| **[Part 07 - Exam Mastery](levels/A2/07-Exam-Mastery/00-INDEX.md)** | Telc A2 cheat sheet, Lesen, Hören, Schreiben, Sprechen, sample tests | Pass telc A2 (60/36) |
+| **[Part 08 - Practice Lab](levels/A2/08-Practice-Lab/00-INDEX.md)** | A2 mistake log, sentence bank, skeletons | Turn knowing into doing |
+
+- **Total core:** Parts 01-05.
+- **Application:** Parts 06-08.
 
 ## How to Use This Book
 

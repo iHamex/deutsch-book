@@ -1,10 +1,10 @@
 # Speaking Survival - telc A1 Sprechen (Complete Guide)
 
-> This is your ONE-STOP-SHOP for the oral exam. Everything you need: format, scoring,
-> every possible question, every formula, every reaction, emergency phrases, anti-mistake
+> This is your ONE-STOP-SHOP for the oral exam. Everything you need: format, scoring,  
+> every possible question, every formula, every reaction, emergency phrases, anti-mistake  
 > reminders, and pacing strategy. Learn this file = you survive the speaking exam.
 >
-> Source: official telc A1 format (telc.net, verified 2026-08-28), Goethe-Zertifikat A1
+> Source: official telc A1 format (telc.net, verified 2026-08-28), Goethe-Zertifikat A1  
 > (same exam), plus all practice material from this repo.
 
 !!! danger "Exam vs Daily"
@@ -36,12 +36,12 @@ in the whole exam - memorize your script cold.
 
 ### Your identity script (say this out loud until it is automatic)
 
-> Guten Tag. Ich heiße Hamed Okhovvat.
-> Ich komme aus dem Iran.
-> Ich wohne in der Erika-Mann-Straße 12, in München.
-> Ich bin 40 Jahre alt. Mein Geburtstag ist am 21. September 1985.
-> Ich bin verheiratet. Meine Frau heißt Melika. Ich habe keine Kinder.
-> Ich bin Softwareentwickler bei Check24.
+> Guten Tag. Ich heiße Hamed Okhovvat.  
+> Ich komme aus dem Iran.  
+> Ich wohne in der Erika-Mann-Straße 12, in München.  
+> Ich bin 40 Jahre alt. Mein Geburtstag ist am 21. September 1985.  
+> Ich bin verheiratet. Meine Frau heißt Melika. Ich habe keine Kinder.  
+> Ich bin Softwareentwickler bei Check24.  
 > Ich spreche Persisch, Englisch und ein bisschen Deutsch.
 
 ### ALL possible Teil 1 questions (21 from official practice)
@@ -76,9 +76,9 @@ The examiner may ask any of these. Know every answer cold.
 
 If the examiner asks "Was waren Sie früher?" or "Wie lange arbeiten Sie schon?", you can extend:
 
-> Ich bin Softwareentwickler bei Check24, aber früher war ich Teamleiter bei einigen Firmen.
-> Ich habe mehr als 20 Jahre Erfahrung.
-> Ich habe Cockpit-Software für unsere Anbieter gemacht und mache täglich Aufgaben, zum Beispiel API-Entwicklung oder neue Features.
+> Ich bin Softwareentwickler bei Check24, aber früher war ich Teamleiter bei einigen Firmen.  
+> Ich habe mehr als 20 Jahre Erfahrung.  
+> Ich habe Cockpit-Software für unsere Anbieter gemacht und mache täglich Aufgaben, zum Beispiel API-Entwicklung oder neue Features.  
 > Früher habe ich bei der Firma Asiatech Cloud und bei Sabanet gearbeitet.
 
 **English:** I am a software developer at Check24, but previously I was team leader at some companies. I have more than 20 years of experience. I made cockpit software for our providers and do daily tasks, for example API development or new features. Previously I worked at the company Asiatech Cloud and at Sabanet.
@@ -350,7 +350,7 @@ earns zero. Even "Also, ich glaube, es ist Montag" is better than nothing.
 
 ## 5. Anti-Mistake Reminders (speaking-specific)
 
-These are your known weak spots from ../08-Practice-Lab/01-mistakes.md. Print them, read them
+These are your known weak spots from [mistakes.md](../08-Practice-Lab/01-mistakes.md). Print them, read them
 before the exam.
 
 | Mistake | Rule | Right | Your trap |
@@ -429,49 +429,55 @@ Memorize these. They are worth points by themselves.
 
 ### The 5 question types (pick ONE per card)
 
-**1. W-questions (most common)**
+=== "1. W-questions (most common)"
 
-Formula: W-word + verb + Sie...?
+    Formula: W-word + verb + Sie...?
 
-| W-word | Means | Example |
-|---|---|---|
-| Wo | where | Wo wohnen Sie? |
-| Was | what | Was essen Sie gern? |
-| Wie | how | Wie lange lernen Sie Deutsch? |
-| Wann | when | Wann haben Sie Freizeit? |
-| Wie oft | how often | Wie oft kochen Sie? |
-| Warum | why | Warum lernen Sie Deutsch? |
-| Wohin | where to | Wohin reisen Sie gern? |
-| Wie viel | how much | Wie viel kostet das Buch? |
-| Wie viele | how many | Wie viele Kinder haben Sie? |
+    | W-word | Means | Example |
+    |---|---|---|
+    | Wo | where | Wo wohnen Sie? |
+    | Was | what | Was essen Sie gern? |
+    | Wie | how | Wie lange lernen Sie Deutsch? |
+    | Wann | when | Wann haben Sie Freizeit? |
+    | Wie oft | how often | Wie oft kochen Sie? |
+    | Warum | why | Warum lernen Sie Deutsch? |
+    | Wohin | where to | Wohin reisen Sie gern? |
+    | Wie viel | how much | Wie viel kostet das Buch? |
+    | Wie viele | how many | Wie viele Kinder haben Sie? |
 
-**2. Yes/no questions (the swap trick)**
+=== "2. Yes/no questions (the swap trick)"
 
-Verb first, then subject:
+    Verb first, then subject:
 
-| Pattern | Statement | Question |
-|---|---|---|
-| Regular verb | Er wohnt in Berlin. | Wohnt er in Berlin? |
-| Modal verb | Du kannst gut schwimmen. | Kannst du gut schwimmen? |
-| Separable verb | Du kaufst heute ein. | Kaufst du heute ein? |
+    | Pattern | Statement | Question |
+    |---|---|---|
+    | Regular verb | Er wohnt in Berlin. | Wohnt er in Berlin? |
+    | Modal verb | Du kannst gut schwimmen. | Kannst du gut schwimmen? |
+    | Separable verb | Du kaufst heute ein. | Kaufst du heute ein? |
 
-**3. Welche / Was für + noun**
+=== "3. Welche / Was für + noun"
 
-- Welche Sprache lernen Sie?
-- Welche Größe haben Sie?
-- Was für ein Auto haben Sie?
+    | Pattern | Example |
+    |---|---|
+    | Welche + noun | Welche Sprache lernen Sie? |
+    | Welche + noun | Welche Größe haben Sie? |
+    | Was für + noun | Was für ein Auto haben Sie? |
 
-**4. Requests (Teil 3)**
+=== "4. Requests (Teil 3)"
 
-- Können Sie mir bitte helfen?
-- Können Sie mir bitte die Speisekarte bringen?
-- Können Sie mir bitte den Weg zeigen?
+    | Situation | Request |
+    |---|---|
+    | general help | Können Sie mir bitte helfen? |
+    | restaurant | Können Sie mir bitte die Speisekarte bringen? |
+    | directions | Können Sie mir bitte den Weg zeigen? |
 
-**5. Wissen Sie, wo/wann/wie...?**
+=== "5. Wissen Sie, wo/wann/wie...?"
 
-- Wissen Sie, wo der Bahnhof ist?
-- Wissen Sie, wann das Geschäft öffnet?
-- Wissen Sie, wie viel das kostet?
+    | Topic | Question |
+    |---|---|
+    | place | Wissen Sie, wo der Bahnhof ist? |
+    | time | Wissen Sie, wann das Geschäft öffnet? |
+    | price | Wissen Sie, wie viel das kostet? |
 
 ### Question starters by topic
 
@@ -492,82 +498,75 @@ Verb first, then subject:
 
 ## 9. Conversations to Practice (real exam simulations)
 
-### Scenario A - Cafe (Teil 3 simulation)
+=== "A: Cafe"
 
-> Sie: Guten Tag! Ich möchte einen Kaffee, bitte.
-> Kellner: Mochten Sie auch etwas essen?
-> Sie: Ich möchte ein Stück Kuchen, bitte.
-> Kellner: Wie ist der Kuchen?
-> Sie: Der Kuchen ist sehr gut, er ist frisch.
-> Kellner: Das macht 4,50 Euro.
-> Sie: Kann ich mit Karte bezahlen?
-> Kellner: Vielen Dank und auf Wiedersehen!
-> Sie: Danke, auf Wiedersehen!
+    > Sie: Guten Tag! Ich möchte einen Kaffee, bitte.  
+    > Kellner: Mochten Sie auch etwas essen?  
+    > Sie: Ich möchte ein Stück Kuchen, bitte.  
+    > Kellner: Wie ist der Kuchen?  
+    > Sie: Der Kuchen ist sehr gut, er ist frisch.  
+    > Kellner: Das macht 4,50 Euro.  
+    > Sie: Kann ich mit Karte bezahlen?  
+    > Kellner: Vielen Dank und auf Wiedersehen!  
+    > Sie: Danke, auf Wiedersehen!
+=== "B: Shopping"
 
-### Scenario B - Shopping (Teil 3 simulation)
+    > Verkäufer: Guten Tag! Kann ich Ihnen helfen?  
+    > Sie: Hallo, guten Tag. Ich suche ein T-Shirt in Größe XL.  
+    > Verkäufer: Hier, bitte. Mochten Sie es anprobieren?  
+    > Sie: Vielen Dank, aber das ist zu klein.  
+    > Sie: Können Sie mir bitte eine größere Größe bringen?  
+    > Verkäufer: Hier, bitte - Größe 2XL. Passt das?  
+    > Sie: Super! Das passt! Ich nehme das.  
+    > Verkäufer: Das macht 24,99 Euro. Bar oder mit Karte?  
+    > Sie: Mit Karte, bitte.
+=== "C: Train station"
 
-> Verkäufer: Guten Tag! Kann ich Ihnen helfen?
-> Sie: Hallo, guten Tag. Ich suche ein T-Shirt in Größe XL.
-> Verkäufer: Hier, bitte. Mochten Sie es anprobieren?
-> Sie: Vielen Dank, aber das ist zu klein.
-> Sie: Können Sie mir bitte eine größere Größe bringen?
-> Verkäufer: Hier, bitte - Größe 2XL. Passt das?
-> Sie: Super! Das passt! Ich nehme das.
-> Verkäufer: Das macht 24,99 Euro. Bar oder mit Karte?
-> Sie: Mit Karte, bitte.
+    > Sie: Guten Tag! Ich möchte eine Fahrkarte nach Berlin, bitte. Der Zug fährt um 14:45 Uhr.  
+    > Schalter: Einmal oder hin und zurück?  
+    > Sie: Hin und zurück, bitte.  
+    > Schalter: Das macht 72,90 Euro.  
+    > Sie: Mit Karte, bitte.  
+    > Schalter: Hier ist Ihre Fahrkarte. Der Zug fährt ab Gleis 12. Gute Reise!  
+    > Sie: Danke sehr! Schones Wochenende! Tschuss!
+=== "D: Doctor"
 
-### Scenario C - Train station (Teil 3 simulation)
+    > Arzt: Guten Tag! Was fehlt Ihnen?  
+    > Sie: Ich habe Kopfschmerzen und Fieber.  
+    > Arzt: Sind Sie erkaltet?  
+    > Sie: Ja, ich brauche etwas gegen die Erkaltung.  
+    > Arzt: Hier ist das Rezept.  
+    > Sie: Vielen Dank!  
+    > Arzt: Gern geschehen! Und gute Besserung!  
+    > Sie: Danke, gleichfalls! Auf Wiedersehen!
+=== "E: Directions"
 
-> Sie: Guten Tag! Ich möchte eine Fahrkarte nach Berlin, bitte. Der Zug fährt um 14:45 Uhr.
-> Schalter: Einmal oder hin und zurück?
-> Sie: Hin und zurück, bitte.
-> Schalter: Das macht 72,90 Euro.
-> Sie: Mit Karte, bitte.
-> Schalter: Hier ist Ihre Fahrkarte. Der Zug fährt ab Gleis 12. Gute Reise!
-> Sie: Danke sehr! Schones Wochenende! Tschuss!
+    > Sie: Entschuldigung, wo ist der Supermarkt?  
+    > Passant: Der Edeka ist links, der Lidl ist rechts.  
+    > Sie: Und wie komme ich zum Edeka?  
+    > Passant: Gehen Sie geradeaus, dann links. Der Edeka ist neben der Bank.  
+    > Sie: Danke schon, Tschuss!
+=== "F: Phone call"
 
-### Scenario D - Doctor (Teil 3 simulation)
+    > Sie: Hallo, hier ist Hamed. Kann ich bitte mit Frau Schmidt sprechen?  
+    > Kollegin: Einen Moment, bitte.  
+    > Sie: Danke.  
+    > Kollegin: Sie ist leider nicht da.  
+    > Sie: Kann ich eine Nachricht hinterlassen?  
+    > Kollegin: Ja, naturlich.  
+    > Sie: Bitte sagen Sie ihr, ich rufe spater noch mal an.  
+    > Kollegin: Gern geschehen!  
+    > Sie: Auf Wiederhören!
+=== "G: Small talk (Teil 1 extension)"
 
-> Arzt: Guten Tag! Was fehlt Ihnen?
-> Sie: Ich habe Kopfschmerzen und Fieber.
-> Arzt: Sind Sie erkaltet?
-> Sie: Ja, ich brauche etwas gegen die Erkaltung.
-> Arzt: Hier ist das Rezept.
-> Sie: Vielen Dank!
-> Arzt: Gern geschehen! Und gute Besserung!
-> Sie: Danke, gleichfalls! Auf Wiedersehen!
-
-### Scenario E - Directions (Teil 3 simulation)
-
-> Sie: Entschuldigung, wo ist der Supermarkt?
-> Passant: Der Edeka ist links, der Lidl ist rechts.
-> Sie: Und wie komme ich zum Edeka?
-> Passant: Gehen Sie geradeaus, dann links. Der Edeka ist neben der Bank.
-> Sie: Danke schon, Tschuss!
-
-### Scenario F - Phone call (Teil 3 simulation)
-
-> Sie: Hallo, hier ist Hamed. Kann ich bitte mit Frau Schmidt sprechen?
-> Kollegin: Einen Moment, bitte.
-> Sie: Danke.
-> Kollegin: Sie ist leider nicht da.
-> Sie: Kann ich eine Nachricht hinterlassen?
-> Kollegin: Ja, naturlich.
-> Sie: Bitte sagen Sie ihr, ich rufe spater noch mal an.
-> Kollegin: Gern geschehen!
-> Sie: Auf Wiederhören!
-
-### Scenario G - Small talk (Teil 1 extension)
-
-> Kollege: Hallo Hamed! Wie geht's dir?
-> Sie: Mir geht es gut. Und dir?
-> Kollege: Was machst du am Freitag? Können wir ein Bier trinken?
-> Sie: Am Freitag habe ich Zeit. Ein Bier hort sich gut an!
-> Kollege: Kennst du einen Biergarten?
-> Sie: Ja, das klingt gut. Aber wann? Hast du um 18 Uhr Zeit?
-> Kollege: Ja, perfekt! Bis Freitag!
-> Sie: Bis dann! Tschuss!
-
+    > Kollege: Hallo Hamed! Wie geht's dir?  
+    > Sie: Mir geht es gut. Und dir?  
+    > Kollege: Was machst du am Freitag? Können wir ein Bier trinken?  
+    > Sie: Am Freitag habe ich Zeit. Ein Bier hort sich gut an!  
+    > Kollege: Kennst du einen Biergarten?  
+    > Sie: Ja, das klingt gut. Aber wann? Hast du um 18 Uhr Zeit?  
+    > Kollege: Ja, perfekt! Bis Freitag!  
+    > Sie: Bis dann! Tschuss!
 ---
 
 ## 10. The Word-Order Master (speaking essentials)

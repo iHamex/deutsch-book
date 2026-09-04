@@ -44,12 +44,12 @@
 | **pl** | - (no ein) | **keine** Kinder | **keinen** Kindern | no children |
 
 > **Plural:** ein has NO plural. kein HAS plural: keine (nom/akk) and keinen (dative). Das sind **keine** Kinder. / Ich sehe **keine** Kinder. / Ich spiele mit **keinen** Kindern.
-> Full kein table in `A1/02-Grammar-Core/07-grammar-essentials.md:02` but this table is enough.
+> Full kein table in [07-grammar-essentials.md §2](07-grammar-essentials.md#2-articles-derdiedas-eineine-keinkeine) but this table is enough.
 
 **Rule:**
 
 - **kein** = negates a noun with ein/no article: Ich habe **keinen** Bruder.
-- **nicht** = negates verb/adjective/definite noun: Das ist **nicht** mein Buch. See `A1/02-Grammar-Core/06-negation.md:01`.
+- **nicht** = negates verb/adjective/definite noun: Das ist **nicht** mein Buch. See [06-negation.md §1](06-negation.md#1-the-two-tools-kein-vs-nicht).
 
 ---
 
@@ -74,7 +74,7 @@
 
 ## 5. Possessives - mein / dein / sein ...
 
-Ending copies the article of the **owned thing**, same as ein. Full table in `A1/02-Grammar-Core/02-possessive-articles.md:02`.
+Ending copies the article of the **owned thing**, same as ein. Full table in [02-possessive-articles.md §2](02-possessive-articles.md#2-with-noun-mein-buch-article-noun-present).
 
 - **mein** Vater (m, nom) / **meine** Mutter (f, nom) / **mein** Kind (n, nom)
 - Ich habe **meinen** Bruder (m, akk)
@@ -151,7 +151,7 @@ If no adjective, you already know the article. If an adjective stands BEFORE the
 - **Location (Wo? where) = Dativ -> -en:** Ich wohne in ein**em** klein**en** Haus. / Das Buch liegt auf dem alt**en** Tisch. / Ich stehe vor der groß**en** Tür.
 - **Movement (Wohin? where to) = Akkusativ -> varies:** Ich gehe in ein klein**es** Haus. / Er legt das Buch auf den alt**en** Tisch. / Sie hängt das Bild an die weiß**e** Wand.
 
-> **Rule:** Wohin? = Akkusativ. Wo? = Dativ. After a dative article (dem/einem/der/einer), adjective is always **-en**. See also `A1/02-Grammar-Core/05-prepositions.md:03`.
+> **Rule:** Wohin? = Akkusativ. Wo? = Dativ. After a dative article (dem/einem/der/einer), adjective is always **-en**. See also [05-prepositions.md §3](05-prepositions.md#3-two-way-prepositions-wechselprapositionen-the-a1-trap).
 
 ---
 
@@ -199,4 +199,4 @@ Relative clauses use **der/die/das** as "who/which/that" and send the verb to th
 
 ---
 
-> *Re-test targets: M1, M8, M9, M15. Tie back to `A1/08-Practice-Lab/01-mistakes.md`.*
+> *Re-test targets: [M1](../08-Practice-Lab/01-mistakes.md#m1-dative-after-gehoren-case), [M8](../08-Practice-Lab/01-mistakes.md#m8-du-ihr-sie-split-concept), [M9](../08-Practice-Lab/01-mistakes.md#m9-dative-articles-for-nouns-case), [M15](../08-Practice-Lab/01-mistakes.md#m15-two-way-prepositions-location-dative-case). Tie back to [mistakes.md](../08-Practice-Lab/01-mistakes.md).*

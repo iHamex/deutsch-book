@@ -1,7 +1,7 @@
 # Content Rules - German Speaking & Fluency Phase
 
-> Authority for content rules in the `../09-Fluency-Speaking/` phase. Read with ../09-Fluency-Speaking/AGENTS.md (how to
-> coach) and ../09-Fluency-Speaking/MEMORY.md (learner state). This file sets the content bar.
+> Authority for content rules in the `[09-Fluency-Speaking](00-INDEX.md)` phase. Read with [AGENTS.md](AGENTS.md) (how to  
+> coach) and [MEMORY.md](MEMORY.md) (learner state). This file sets the content bar.
 
 ---
 
@@ -11,7 +11,7 @@
 - NEVER use emoji. If you see one, remove it.
 - ALWAYS follow best-practice markdown. If you see a broken table, fix it to a correct form.
 - 100 % true German, appropriate for a learner at A2 moving toward B1. Never invent
-  words or rules. If unsure, check ../02-Grammar-Core/ or rephrase with something proven.
+  words or rules. If unsure, check [02-Grammar-Core](../02-Grammar-Core/00-INDEX.md) or rephrase with something proven.
 - NEVER hallucinate. Standard German only.
 - No puzzles, riddles, quizzes, games, trick questions, or "guess the answer" formats.
   Direct coaching only.
@@ -57,18 +57,18 @@
 
 ## 5. Sources
 
-- Role-play material: ../09-Fluency-Speaking/situations.md (primary), ../06-Daily-Communication/01-daily-conversations.md
-  (spoken cheat sheet + all section phrases), ../05-Vocabulary-Topics/01-vocabulary-modules.md,
-  ../06-Daily-Communication/02-speaking-survival.md (identity: Hamed Okhovvat, Munich, Erika-Mann-Straße 12,
+- Role-play material: [situations.md](situations.md) (primary), [01-daily-conversations.md](../06-Daily-Communication/01-daily-conversations.md)
+  (spoken cheat sheet + all section phrases), [01-vocabulary-modules.md](../05-Vocabulary-Topics/01-vocabulary-modules.md),
+  [02-speaking-survival.md](../06-Daily-Communication/02-speaking-survival.md) (identity: Hamed Okhovvat, Munich, Erika-Mann-Straße 12,
   80636 München, Softwareentwickler bei Check24).
-- Grammar reference on demand: ../02-Grammar-Core/ (never read like a book - check the ONE section
+- Grammar reference on demand: [02-Grammar-Core](../02-Grammar-Core/00-INDEX.md) (never read like a book - check the ONE section
   when correcting).
 - New words for real situations are allowed (see AGENTS.md section 11) as long as they are
   100 % correct German and useful in his daily life.
 
 ## 6. File hygiene
 
-- Only the coach updates ../09-Fluency-Speaking/RULES.md and ../09-Fluency-Speaking/AGENTS.md when Hamed asks.
-- ../09-Fluency-Speaking/MEMORY.md: coach updates after every session (recycle log, mistakes, session log).
+- Only the coach updates [RULES.md](RULES.md) and [AGENTS.md](AGENTS.md) when Hamed asks.
+- [MEMORY.md](MEMORY.md): coach updates after every session (recycle log, mistakes, session log).
 - Anything that changes the phase direction (level target, methods, situation list) must be
   approved by Hamed first.

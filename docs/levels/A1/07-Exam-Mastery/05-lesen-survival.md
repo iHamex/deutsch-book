@@ -1,6 +1,6 @@
 # Lesen Survival - telc A1 Reading (The Easy Way)
 
-> The official format (telc page): **Lesen has 3 Teile and Schreiben 2 Teile, together 45 min**. Task types: matching (Zuordnung) and multiple choice. Your sign vocabulary (`../02-Grammar-Core/07-grammar-essentials.md` §20) is the weapon for Teil 1.
+> The official format (telc page): **Lesen has 3 Teile and Schreiben 2 Teile, together 45 min**. Task types: matching (Zuordnung) and multiple choice. Your sign vocabulary ([07-grammar-essentials.md §20](../02-Grammar-Core/07-grammar-essentials.md#20-schilder-verkehrsmittel-signs-and-transport-lesen-loves-signs)) is the weapon for Teil 1.
 
 ---
 
@@ -35,18 +35,18 @@
 
 | Topic | File |
 | --- | --- |
-| Signs and transport | `../02-Grammar-Core/07-grammar-essentials.md` §20 |
-| Places in the city | `../02-Grammar-Core/07-grammar-essentials.md` §14 |
-| Opening hours and time | `numbers-dates.md` §8 |
-| Food, health, train station | `vocabulary-modules.md` §3, §5, §6 |
-| Invitations and notes | `exam-writing.md` (the templates ARE reading texts) |
+| Signs and transport | [07-grammar-essentials.md §20](../02-Grammar-Core/07-grammar-essentials.md#20-schilder-verkehrsmittel-signs-and-transport-lesen-loves-signs) |
+| Places in the city | [07-grammar-essentials.md §14](../02-Grammar-Core/07-grammar-essentials.md#14-orte-in-der-stadt-places-for-directions-lesen) |
+| Opening hours and time | [numbers-dates.md §8](../01-Foundations/01-numbers-dates.md#8-time-die-uhrzeit-the-complete-guide) |
+| Food, health, train station | [vocabulary-modules.md §§3/5/6](../05-Vocabulary-Topics/01-vocabulary-modules.md#3-food-drinks-expand-your-food-vocabulary-beyond-bread-milk) |
+| Invitations and notes | [exam-writing.md](02-exam-writing.md) (the templates ARE reading texts) |
 
 ---
 
 ## Your last-week plan
 
-- Do the official Übungstest 1 Lesen twice (links in `../telc-a1-sample-tests.md`).
-- Daily 2 min: skim the sign list in `../02-Grammar-Core/07-grammar-essentials.md` §20.
-- Read one message template from `exam-writing.md` daily - you are training Lesen and Schreiben at the same time.
+- Do the official Übungstest 1 Lesen twice (links in [06-telc-sample-tests.md](06-telc-sample-tests.md)).
+- Daily 2 min: skim the sign list in [07-grammar-essentials.md §20](../02-Grammar-Core/07-grammar-essentials.md#20-schilder-verkehrsmittel-signs-and-transport-lesen-loves-signs).
+- Read one message template from [exam-writing.md](02-exam-writing.md) daily - you are training Lesen and Schreiben at the same time.
 
 > Every sentence in this file is aligned with the official telc A1 format and your existing material. No new grammar - just exam strategy.

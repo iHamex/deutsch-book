@@ -64,23 +64,27 @@ This is often called the German **sentence bracket**.
 
 Only the helper changes with the subject. The Partizip II does **not** change.
 
-| Person | **haben** | Example | English |
-|---|---|---|---|
-| ich | habe | Ich **habe** gearbeitet. | I worked. |
-| du | hast | Du **hast** gearbeitet. | You worked. |
-| er/sie/es | hat | Er **hat** gearbeitet. | He worked. |
-| wir | haben | Wir **haben** gearbeitet. | We worked. |
-| ihr | habt | Ihr **habt** gearbeitet. | You (all) worked. |
-| sie/Sie | haben | Sie **haben** gearbeitet. | They / you (formal) worked. |
+=== "haben"
 
-| Person | **sein** | Example | English |
-|---|---|---|---|
-| ich | bin | Ich **bin** gegangen. | I went. |
-| du | bist | Du **bist** gegangen. | You went. |
-| er/sie/es | ist | Sie **ist** gegangen. | She went. |
-| wir | sind | Wir **sind** gegangen. | We went. |
-| ihr | seid | Ihr **seid** gegangen. | You (all) went. |
-| sie/Sie | sind | Sie **sind** gegangen. | They / you (formal) went. |
+    | Person | **haben** | Example | English |
+    |---|---|---|---|
+    | ich | habe | Ich **habe** gearbeitet. | I worked. |
+    | du | hast | Du **hast** gearbeitet. | You worked. |
+    | er/sie/es | hat | Er **hat** gearbeitet. | He worked. |
+    | wir | haben | Wir **haben** gearbeitet. | We worked. |
+    | ihr | habt | Ihr **habt** gearbeitet. | You (all) worked. |
+    | sie/Sie | haben | Sie **haben** gearbeitet. | They / you (formal) worked. |
+
+=== "sein"
+
+    | Person | **sein** | Example | English |
+    |---|---|---|---|
+    | ich | bin | Ich **bin** gegangen. | I went. |
+    | du | bist | Du **bist** gegangen. | You went. |
+    | er/sie/es | ist | Sie **ist** gegangen. | She went. |
+    | wir | sind | Wir **sind** gegangen. | We went. |
+    | ihr | seid | Ihr **seid** gegangen. | You (all) went. |
+    | sie/Sie | sind | Sie **sind** gegangen. | They / you (formal) went. |
 
 Notice that **gearbeitet** and **gegangen** never change:
 
@@ -311,36 +315,40 @@ In a question, English often translates **schon** as **already** or **yet**:
 
 Use these dependable A1 patterns:
 
-#### Pattern A - No object
+=== "A - No object"
 
-> **subject + helper + schon + Partizip II**
+    > **subject + helper + schon + Partizip II**
 
-- Ich habe **schon gegessen**.
-- Wir sind **schon angekommen**.
+    - Ich habe **schon gegessen**.
+    - Wir sind **schon angekommen**.
 
-#### Pattern B - With a noun object
+=== "B - With a noun object"
 
-> **subject + helper + object + schon + Partizip II**
+    > **subject + helper + object + schon + Partizip II**
 
-- Ich habe **die E-Mail schon geschrieben**.
-- Er hat **den Bericht schon gelesen**.
+    - Ich habe **die E-Mail schon geschrieben**.
+    - Er hat **den Bericht schon gelesen**.
 
-#### Pattern C - With a short pronoun
+=== "C - With a short pronoun"
 
-> **subject + helper + pronoun + schon + Partizip II**
+    > **subject + helper + pronoun + schon + Partizip II**
 
-- Ich habe **es schon gemacht**.
-- Sie hat **ihn schon angerufen**.
+    - Ich habe **es schon gemacht**.
+    - Sie hat **ihn schon angerufen**.
 
-#### Pattern D - With a prepositional phrase
+=== "D - With a prepositional phrase"
 
-- Ich habe **schon mit dem Team gesprochen**.
-- Wir sind **schon nach Berlin gefahren**.
+    > **subject + helper + schon + prepositional phrase + Partizip II**
 
-#### Pattern E - Start with a time expression
+    - Ich habe **schon mit dem Team gesprochen**.
+    - Wir sind **schon nach Berlin gefahren**.
 
-- Heute habe ich **schon gearbeitet**.
-- Um acht Uhr hat sie **schon gefrühstückt**.
+=== "E - Start with a time expression"
+
+    > **time + helper + subject + schon + Partizip II**
+
+    - Heute habe ich **schon gearbeitet**.
+    - Um acht Uhr hat sie **schon gefrühstückt**.
 
 The exact position can change with emphasis. The patterns above are natural and safe at A1.
 
@@ -1705,7 +1713,7 @@ Everything else in the tables above uses **haben** - your default helper.
 
 ### Perfekt
 
-> **haben/sein in position 2 + Partizip II at the end**
+> **haben/sein in ==position 2== + Partizip II ==at the end==**
 
 - Ich **habe** gestern **gearbeitet**.
 - Gestern **habe** ich **gearbeitet**.
@@ -1742,10 +1750,10 @@ Everything else in the tables above uses **haben** - your default helper.
 
 Before you finish a past-tense sentence, ask:
 
-1. Is this a normal completed action? Use the **Perfekt**.
-2. Did I choose the correct helper?
-3. Is the conjugated verb in position 2?
-4. Is the Partizip II at the end?
-5. Is the subject after the verb when another element comes first?
-6. If the answer is negative, do I need **nicht**, **kein-**, or **noch nicht**?
+- [ ] Is this a normal completed action? Use the **Perfekt**.
+- [ ] Did I choose the correct helper?
+- [ ] Is the conjugated verb in position 2?
+- [ ] Is the Partizip II at the end?
+- [ ] Is the subject after the verb when another element comes first?
+- [ ] If the answer is negative, do I need **nicht**, **kein-**, or **noch nicht**?
 

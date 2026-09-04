@@ -2,19 +2,16 @@
 
 > Goal: turn knowing into doing. This is where mistakes die.
 
-!!! tip "How to use this Part"
-    Read files in numbered order `01 -> 02 -> 03`. Each file is top-to-bottom like a book chapter. Do the practice at the end.
-
 ---
 
 ## Files in this Part
 
 | # | File | What you do | Time |
 |---|---|---|---|
-| 01 | [01-mistakes.md](01-mistakes.md) | Log every real error (rule, wrong, right, re-test). Never delete, only strike through after correct from memory. | 5 min/session |
-| 02 | [02-sentences.md](02-sentences.md) | ~190 English -> German chunk bank, 20+ sections | Drill |
-| 03 | [03-sentence-skeletons.md](03-sentence-skeletons.md) | Skeleton patterns for building sentences | Drill |
-| 04 | [04-daily-practice/](04-daily-practice/2026-08-21.md) | Dated daily practice logs | - |
+| 01 | [mistakes.md](01-mistakes.md) | Log every real error (rule, wrong, right, re-test). Never delete, only strike through after correct from memory. | 5 min/session |
+| 02 | [sentences.md](02-sentences.md) | ~190 English -> German chunk bank, 20+ sections | Drill |
+| 03 | [sentence-skeletons.md](03-sentence-skeletons.md) | Skeleton patterns for building sentences | Drill |
+| 04 | [daily-practice/](04-daily-practice/2026-08-21.md) | Dated daily practice logs | - |
 
 ---
 
@@ -27,7 +24,7 @@
 
 ## How this connects
 
-- To fix a mistake: find its file in Parts 01-04 (e.g., M2 weil -> ../04-Sentence-Building/01-word-order.md)
+- To fix a mistake: find its file in Parts 01-04 (e.g., M2 weil -> [04-Sentence-Building](../04-Sentence-Building/00-INDEX.md)01-word-order.md)
 - After drill: go to [09-Fluency-Speaking](../09-Fluency-Speaking/00-INDEX.md) to use it live.
 
 ## Tip

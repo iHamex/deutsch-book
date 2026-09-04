@@ -20,7 +20,7 @@
 | Das ist **ein** Buch. | Das ist **kein** Buch. | That is not a book. |
 | Wir haben **Zeit**. | Wir haben **keine** Zeit. | We have no time. |
 
-> **kein** follows the same endings as **ein / mein**: masculine **keinen**, otherwise **kein/keine**. See `A1/02-Grammar-Core/01-cases-articles.md:07`.
+> **kein** follows the same endings as **ein / mein**: masculine **keinen**, otherwise **kein/keine**. See [01-cases-articles.md §3](01-cases-articles.md#3-indefinite-articles-ein-kein).
 
 **nicht - "not" (negates verb/adjective):**
 
@@ -109,7 +109,7 @@ This is where negation meets time. The same gar/nicht logic, now with time.
 | **nicht mehr** | not anymore (stopped) | Ich rauche **nicht mehr**. | I do not smoke anymore. |
 | **noch** | still | Ich rauche **noch**. | I still smoke. |
 
-> See also `A1/01-Foundations/02-time-words.md:02` for noch/schon/erst.
+> See also [02-time-words.md](../01-Foundations/02-time-words.md#1-the-big-4-noch-nicht-schon-erst-nur) for noch/schon/erst.
 
 **Position:** nicht mehr goes right before the verb at the end, or after the noun-object.
 
@@ -142,9 +142,8 @@ This is where negation meets time. The same gar/nicht logic, now with time.
 - Er ist **noch nicht** da.
 - Ich habe **noch keine** Zeit.
 
-**The Perfekt + zu combo (your sentence):**
-
-> Ich habe **noch keine Zeit gehabt**, in Deutschland zu skifahren. = I haven't had time yet to ski in Germany.
+!!! example "The Perfekt + zu combo (your sentence)"
+    > Ich habe **noch keine Zeit gehabt**, in Deutschland zu skifahren. = I haven't had time yet to ski in Germany.
 
 Pattern: Subject + habe + noch + keine/nicht + ... + gehabt + **zu + verb**
 
@@ -159,4 +158,4 @@ Pattern: Subject + habe + noch + keine/nicht + ... + gehabt + **zu + verb**
 
 ---
 
-> *Re-test target: clean kein/nicht split. Tie back to `A1/08-Practice-Lab/01-mistakes.md`.*
+> *Re-test target: clean kein/nicht split. Tie back to [mistakes.md](../08-Practice-Lab/01-mistakes.md).*

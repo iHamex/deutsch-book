@@ -3,7 +3,7 @@
 !!! success "How to use this file"
     Pick 5 phrases per day, say them OUT LOUD until automatic, then add 5 more. Not all at once.
 
-> This is your complete vocabulary catch-up: health, travel, family, food, greetings, colours.
+> This is your complete vocabulary catch-up: health, travel, family, food, greetings, colours.  
 > Each module = small, chunk-based, with real sentences you can say. No grammar lectures.
 
 ---
@@ -139,13 +139,13 @@
 - Wie oft muss ich das nehmen? (How often do I have to take this?)
 - Muss ich das Rezept abgeben? (Do I have to hand in the prescription?)
 
-**Doctor visit mini-dialogue (practise loud):**
-> Arzt: Was fehlt Ihnen? (What's wrong?)
-> Sie: **Ich habe Kopfschmerzen und Fieber.**
-> Arzt: Sind Sie erkältet?
-> Sie: **Ja, ich brauche etwas gegen die Erkältung.**
-> Arzt: Hier ist das Rezept.
-> Sie: **Vielen Dank!**
+!!! example "Doctor visit mini-dialogue (practise loud)"
+    > Arzt: Was fehlt Ihnen? (What's wrong?)  
+    > Sie: **Ich habe Kopfschmerzen und Fieber.**  
+    > Arzt: Sind Sie erkältet?  
+    > Sie: **Ja, ich brauche etwas gegen die Erkältung.**  
+    > Arzt: Hier ist das Rezept.  
+    > Sie: **Vielen Dank!**
 
 ---
 
@@ -172,12 +172,12 @@
 - Wo ist Gleis 5? (Where is platform 5?)
 - Wie viel kostet die Fahrkarte? (How much is the ticket?)
 
-**At the station mini-dialogue:**
-> Sie: **Guten Tag, ich möchte eine Fahrkarte nach Berlin, bitte. Einmal hin und zurück.**
-> Schalter: Einmal Berlin und zurück. Das macht 60 Euro.
-> Sie: **Um wie viel Uhr fährt der nächste Zug?**
-> Schalter: Um 14 Uhr, Gleis 3.
-> Sie: **Danke sehr!**
+!!! example "At the station mini-dialogue"
+    > Sie: **Guten Tag, ich möchte eine Fahrkarte nach Berlin, bitte. Einmal hin und zurück.**  
+    > Schalter: Einmal Berlin und zurück. Das macht 60 Euro.  
+    > Sie: **Um wie viel Uhr fährt der nächste Zug?**  
+    > Schalter: Um 14 Uhr, Gleis 3.  
+    > Sie: **Danke sehr!**
 
 ---
 

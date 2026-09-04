@@ -1,6 +1,6 @@
 # Hören Survival - telc A1 Listening (The Easy Way)
 
-> The official format (telc page): **3 Teile, ca. 20 min**. You hear short conversations and announcements. Task types: multiple choice and matching (Zuordnung). Your `numbers-dates.md` is the weapon for Teil 1, your phone chunks (`../02-Grammar-Core/07-grammar-essentials.md` §19) for Teil 3.
+> The official format (telc page): **3 Teile, ca. 20 min**. You hear short conversations and announcements. Task types: multiple choice and matching (Zuordnung). Your [numbers-dates.md](../01-Foundations/01-numbers-dates.md) is the weapon for Teil 1, your phone chunks ([07-grammar-essentials.md §19](../02-Grammar-Core/07-grammar-essentials.md#19-telefonieren-phone-chunks-horen-part-3-loves-this)) for Teil 3.
 
 ---
 
@@ -10,14 +10,14 @@
 ## What each part tests
 
 **Teil 1 - you WRITE what you hear.** Numbers, prices, times, dates, and names spelled letter by letter.
-- This is the easiest points in the whole exam if you know numbers and the alphabet (see `numbers-dates.md`).
+- This is the easiest points in the whole exam if you know numbers and the alphabet (see [numbers-dates.md](../01-Foundations/01-numbers-dates.md)).
 - Your name and city: H-A-M-E-D / M-Ü-N-C-H-E-N (the Ü is "U-Umlaut").
 
 **Teil 2 - short dialogues and announcements** (shop, train station, opening hours). Multiple choice.
 - Listen for: opening hours (geöffnet von ... bis ...), prices, days, directions (geradeaus, links, rechts).
 
 **Teil 3 - telephone conversations.** richtig/falsch.
-- Know the phone chunks by heart: "Hallo, hier ist ...", "Einen Moment, bitte", "Sie ist leider nicht da", "Ich rufe später noch mal an" (see `../02-Grammar-Core/07-grammar-essentials.md` §19).
+- Know the phone chunks by heart: "Hallo, hier ist ...", "Einen Moment, bitte", "Sie ist leider nicht da", "Ich rufe später noch mal an" (see [07-grammar-essentials.md §19](../02-Grammar-Core/07-grammar-essentials.md#19-telefonieren-phone-chunks-horen-part-3-loves-this)).
 
 ---
 
@@ -48,8 +48,8 @@
 
 ## Your last-week plan
 
-- Do the official Übungstest 1 Hören twice with audio (links in `../telc-a1-sample-tests.md`).
-- Daily 3 min: say your numbers 1-20 and the alphabet out loud (from `numbers-dates.md`).
+- Do the official Übungstest 1 Hören twice with audio (links in [06-telc-sample-tests.md](06-telc-sample-tests.md)).
+- Daily 3 min: say your numbers 1-20 and the alphabet out loud (from [numbers-dates.md](../01-Foundations/01-numbers-dates.md)).
 - Daily 2 min: repeat the phone chunks out loud until they are automatic.
 
 > Every sentence in this file is aligned with the official telc A1 format and your existing material. No new grammar - just exam strategy.

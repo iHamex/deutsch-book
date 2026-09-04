@@ -104,11 +104,20 @@ At A1, use **dieser** when you want to say "this/these".
 
 ## 6. Practice - cover German, recall
 
-- this man -> dieser Mann
-- this woman (dative, with) -> mit dieser Frau
-- this child (accusative, I see) -> Ich sehe dieses Kind.
-- these shoes -> diese Schuhe
-- with these shoes -> mit diesen Schuhen (plural dative adds -n)
-- I want this coffee -> Ich möchte diesen Kaffee.
+- this man
+- this woman (dative, with)
+- this child (accusative, I see)
+- these shoes
+- with these shoes
+- I want this coffee
 
-> Log slips in `../08-Practice-Lab/01-mistakes.md`.
+??? success "Antworten - expand to check"
+
+    1. dieser Mann
+    2. mit dieser Frau
+    3. Ich sehe dieses Kind.
+    4. diese Schuhe
+    5. mit diesen Schuhen (plural dative adds -n)
+    6. Ich möchte diesen Kaffee.
+
+> Log slips in [mistakes.md](../08-Practice-Lab/01-mistakes.md).

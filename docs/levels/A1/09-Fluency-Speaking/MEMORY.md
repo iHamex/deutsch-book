@@ -1,9 +1,9 @@
 # Fluency Memory - read first, every speaking session
 
-> This file is the state of the ../09-Fluency-Speaking/ phase. It exists so no context is lost between
-> sessions: learner profile, current level, recycle log (words he knows but forgets),
-> recurring mistakes, and the session log. ../09-Fluency-Speaking/AGENTS.md is the authority on HOW to
-> coach; ../09-Fluency-Speaking/RULES.md on content rules; this file on WHERE he stands.
+> This file is the state of the [09-Fluency-Speaking](00-INDEX.md) phase. It exists so no context is lost between  
+> sessions: learner profile, current level, recycle log (words he knows but forgets),  
+> recurring mistakes, and the session log. [AGENTS.md](AGENTS.md) is the authority on HOW to  
+> coach; [RULES.md](RULES.md) on content rules; this file on WHERE he stands.
 >
 > Role: read this before every session, update it after every session.
 
@@ -45,8 +45,8 @@ Focus areas (coach, bring these back in EVERY session):
 
 ## 3. Recycle log (words he KNOWS but FORGETS while speaking)
 
-> Coach: whenever Hamed hesitates, forgets, or says "wie sagt man...", add the word here
-> with the date. Bring each word back naturally in later sessions. Strike through only after
+> Coach: whenever Hamed hesitates, forgets, or says "wie sagt man...", add the word here  
+> with the date. Bring each word back naturally in later sessions. Strike through only after  
 > he produces it from memory with no hint.
 
 | Word | Meaning | First forgot | Recycle attempts | Status |
@@ -56,8 +56,8 @@ Focus areas (coach, bring these back in EVERY session):
 
 ## 4. Recurring mistakes (fluency log)
 
-> Format: one line per recurring mistake: wrong -> right, date. Add after a session when a
-> mistake repeats. Reference the full error history in ../08-Practice-Lab/01-mistakes.md.
+> Format: one line per recurring mistake: wrong -> right, date. Add after a session when a  
+> mistake repeats. Reference the full error history in [mistakes.md](../08-Practice-Lab/01-mistakes.md).
 
 | Mistake | Date | Note |
 |---|---|---|
@@ -74,13 +74,13 @@ Focus areas (coach, bring these back in EVERY session):
 | "letzte Monat" -> "letzten Monat" | 2026-09-03 | accusative for time |
 | "Meine Hobby" -> "Meine Hobbys" | 2026-09-03 | plural |
 
-> The shared master error log ../08-Practice-Lab/01-mistakes.md (M1-M13) still applies - re-test and
+> The shared master error log [mistakes.md](../08-Practice-Lab/01-mistakes.md) (M1-M13) still applies - re-test and  
 > strike through there too. This table is for fluency-specific repeats.
 
 ## 5. Situations mastered (rotate from situations.md)
 
-> Coach: mark a situation here when Hamed can survive it naturally without translating.
-> After roughly 3 clean run-throughs of a situation, change the variables (different shop,
+> Coach: mark a situation here when Hamed can survive it naturally without translating.  
+> After roughly 3 clean run-throughs of a situation, change the variables (different shop,  
 > different problem, harder follow-up questions) before marking mastered.
 
 | Situation | Status | Last practiced | Notes |
@@ -91,7 +91,7 @@ Focus areas (coach, bring these back in EVERY session):
 
 > One line per session: topic, level, open items, anything for next time.
 
-- 2026-09-02: Phase created. ../09-Fluency-Speaking/ directory + AGENTS.md + RULES.md + MEMORY.md +
+- 2026-09-02: Phase created. [09-Fluency-Speaking](00-INDEX.md) directory + AGENTS.md + RULES.md + MEMORY.md +
   situations.md + START-HERE.md. First speaking session to be scheduled.
 - 2026-09-02: Session 1. Topic: Weekend/Work/Fitness. Level: A2-ish. Open items: Word order
   (V2 after time), Dativ nach seit/mit, adjective endings. Good: "Lass mal" used naturally.

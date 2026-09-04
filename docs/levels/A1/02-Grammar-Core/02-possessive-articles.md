@@ -77,7 +77,11 @@ Use this when the noun is already known and you do **not** repeat it. It replace
 - Ist das dein Auto? - Ja, das ist **meins**.
 - Wessen Schlüssel ist das? - Das ist **ihrer** (hers). / Das ist **seiner** (his).
 - Hast du einen Stift? - Ja, das ist **meiner**. (der Stift, m)
-- Ich habe **keine** Kinder. -> Ich habe **keine**. (pl)
+- Ich habe **keine** Kinder.
+
+??? success "Antworten - expand to check"
+
+    1. Ich habe **keine**. (pl)
 - Hast du ein Auto? - Nein, ich habe **keins**. (n)
 
 ---
@@ -90,9 +94,18 @@ Use this when the noun is already known and you do **not** repeat it. It replace
 
 **Practice - cover German, recall:**
 
-- my book -> mein Buch / That is mine (book, das) -> Das ist meins.
-- your mother (du) -> deine Mutter
-- his child -> sein Kind
-- our friend (with) -> mit unserem Freund
-- I have no time -> ich habe keine Zeit / I have none -> Ich habe keins.
-- Is that yours? (car, das) -> Ist das deins?
+- my book
+- your mother (du)
+- his child
+- our friend (with)
+- I have no time
+- Is that yours? (car, das)
+
+??? success "Antworten - expand to check"
+
+    1. mein Buch / That is mine (book, das) -> Das ist meins.
+    2. deine Mutter
+    3. sein Kind
+    4. mit unserem Freund
+    5. ich habe keine Zeit / I have none -> Ich habe keins.
+    6. Ist das deins?

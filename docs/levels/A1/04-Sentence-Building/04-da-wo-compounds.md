@@ -111,15 +111,25 @@
 
 ## 6. Practice - cover German, recall
 
-- for it -> dafür
-- with it -> damit
-- What are you waiting for? (thing) -> Worauf wartest du?
-- I wait for it. -> Ich warte darauf.
-- What do you need it for? -> Wofür brauchst du das?
-- I look forward to it. -> Ich freue mich darauf. / Ich freu mich drauf.
-- We talk about it. -> Wir sprechen darüber. / Wir sprechen drüber.
+- for it
+- with it
+- What are you waiting for? (thing)
+- I wait for it.
+- What do you need it for?
+- I look forward to it.
+- We talk about it.
+
+??? success "Antworten - expand to check"
+
+    1. dafür
+    2. damit
+    3. Worauf wartest du?
+    4. Ich warte darauf.
+    5. Wofür brauchst du das?
+    6. Ich freue mich darauf. / Ich freu mich drauf.
+    7. Wir sprechen darüber. / Wir sprechen drüber.
 
 !!! tip "Thing vs Person"
     Thing -> wofür/dafür. Person -> für wen / für ihn. Never `für was` in writing.
 
-> Log slips in `../08-Practice-Lab/01-mistakes.md`.
+> Log slips in [mistakes.md](../08-Practice-Lab/01-mistakes.md).

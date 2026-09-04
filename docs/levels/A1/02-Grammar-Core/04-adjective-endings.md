@@ -1,6 +1,6 @@
 # Adjective Endings (A1) - Adjektivdeklination, the easy way
 
-> Why this file exists: adjectives in front of nouns change their ending, and this is mistake M11 in your log.
+> Why this file exists: adjectives in front of nouns change their ending, and this is mistake M11 in your log.  
 > At A1 you need ONE idea and a handful of chunks, not a grid of cases.
 
 ---
@@ -139,4 +139,4 @@ Learn each adjective inside a complete sentence and say it out loud:
 
 ---
 
-> Tie to M11 in `../08-Practice-Lab/01-mistakes.md`.
+> Tie to [M11](../08-Practice-Lab/01-mistakes.md#m11-adjective-endings-a1-later-topic) in [mistakes.md](../08-Practice-Lab/01-mistakes.md).

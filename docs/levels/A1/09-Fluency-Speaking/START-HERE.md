@@ -1,6 +1,6 @@
 # Start Here - Your Speaking & Fluency Phase
 
-> Read this once. It explains how the new phase works and how to start a session.
+> Read this once. It explains how the new phase works and how to start a session.  
 > The other files (AGENTS.md, RULES.md, MEMORY.md) are for the agents. This file is for you.
 
 ---
@@ -17,17 +17,17 @@ Move from "I know the words" to "I say the words without thinking."
 
 | File | Role |
 | --- | --- |
-| ../09-Fluency-Speaking/AGENTS.md | The coach ruleset: how the agent coaches you (all 11 points of your prompt) |
-| ../09-Fluency-Speaking/RULES.md | Content rules for this phase |
-| ../09-Fluency-Speaking/MEMORY.md | Your state: what you know, what you forget, your session history |
+| [AGENTS.md](AGENTS.md) | The coach ruleset: how the agent coaches you (all 11 points of your prompt) |
+| [RULES.md](RULES.md) | Content rules for this phase |
+| [MEMORY.md](MEMORY.md) | Your state: what you know, what you forget, your session history |
 
 ## 3. How to start a session (short commands - nothing to copy)
 
 The root AGENTS.md knows these triggers. All of them make the agent read this phase's files
 (AGENTS.md, RULES.md, MEMORY.md) itself and resume from the session log:
 
-> Let's practice speaking.
-> Go to the speaking directory and continue where we left off.
+> Let's practice speaking.  
+> Go to the speaking directory and continue where we left off.  
 > Sprachphase starten - wo haben wir aufgehört?
 
 That is it. The agent starts a German conversation immediately - no explanation, no exam,
@@ -37,7 +37,7 @@ To pick a topic yourself, add it:
 
 > ... Let's practice speaking. Thema: [im Supermarkt / beim Arzt / Smalltalk mit Kollegen / standup / ...]
 
-Or let the agent pick from ../09-Fluency-Speaking/situations.md - real situations: work, shops, DHL,
+Or let the agent pick from [situations.md](situations.md) - real situations: work, shops, DHL,
 Bahn, Bürgerbüro, Ausländerbehörde, bank, telephone, apartment viewing, new people,
 technical talk, job interview, casual chats.
 
@@ -63,11 +63,11 @@ technical talk, job interview, casual chats.
 - Better sentences: 2-5 to remember
 - One thing to practice next time
 
-Short. Then the agent updates ../09-Fluency-Speaking/MEMORY.md so nothing is lost.
+Short. Then the agent updates [MEMORY.md](MEMORY.md) so nothing is lost.
 
 ## 6. Small habits that double your progress
 
-- Before each session, say out loud 2 spoken-German rules from ../06-Daily-Communication/01-daily-conversations.md
+- Before each session, say out loud 2 spoken-German rules from [01-daily-conversations.md](../06-Daily-Communication/01-daily-conversations.md)
   (the spoken cheat sheet: ich hab, mal, doch, V1 statements). The cheat sheet is the fast
   path to sounding natural.
 - After each session, use ONE corrected sentence 3 times during your real day

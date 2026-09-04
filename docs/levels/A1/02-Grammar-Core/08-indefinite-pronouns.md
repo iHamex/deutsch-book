@@ -112,7 +112,7 @@ These **never change**, and they take **no article**. Use them like nouns:
 | **Man** kann hier parken. | You can park here. | General possibility |
 | Wie sagt **man** das? | How does one say that? | Asking for a word |
 
-> You saw man in `grammar-essentials.md:596-599` for signs. That is the same man.
+> You saw man in [grammar-essentials.md §21](07-grammar-essentials.md#21-the-last-verbs-high-frequency-ones-you-havent-seen-yet) for signs. That is the same man.
 
 **man vs jemand:**
 
@@ -138,13 +138,24 @@ These **never change**, and they take **no article**. Use them like nouns:
 
 ## 7. Practice - cover German, recall
 
-- someone waits -> Jemand wartet.
-- I see no one -> Ich sehe niemand / niemanden.
-- everyone is there -> Alle sind da.
-- I need something -> Ich brauche etwas.
-- I need nothing -> Ich brauche nichts.
-- One speaks German here -> Man spricht hier Deutsch.
-- I understood everything -> Ich habe alles verstanden.
-- Did you do something nice? -> Hast du etwas Schönes gemacht?
+- someone waits
+- I see no one
+- everyone is there
+- I need something
+- I need nothing
+- One speaks German here
+- I understood everything
+- Did you do something nice?
 
-> Log slips in `../08-Practice-Lab/01-mistakes.md`.
+??? success "Antworten - expand to check"
+
+    1. Jemand wartet.
+    2. Ich sehe niemand / niemanden.
+    3. Alle sind da.
+    4. Ich brauche etwas.
+    5. Ich brauche nichts.
+    6. Man spricht hier Deutsch.
+    7. Ich habe alles verstanden.
+    8. Hast du etwas Schönes gemacht?
+
+> Log slips in [mistakes.md](../08-Practice-Lab/01-mistakes.md).

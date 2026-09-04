@@ -111,7 +111,7 @@ These three look similar but mean different times.
 - Ich fahre **in** zwei Tagen nach Berlin. - I will go in two days. (future)
 - **vor** einer Woche war ich krank. / Er wohnt **seit** einem Jahr in München. / Der Kurs beginnt **in** einer Woche.
 
-> **Check:** vor = past (back), seit = since then until now, in = future (forward). If you use seit, verb stays in present: "Ich lerne seit...". See `A1/03-Verbs/05-tenses.md:378-388`.
+> **Check:** vor = past (back), seit = since then until now, in = future (forward). If you use seit, verb stays in present: "Ich lerne seit...". See [05-tenses.md §18](../03-Verbs/05-tenses.md#18-one-important-difference-schon-seit).
 
 ### 5b. wegen - because of (reason)
 
@@ -152,4 +152,4 @@ These three look similar but mean different times.
 
 ---
 
-> **Case note:** most of these are fixed chunks. The dative ones (mit, von, zu, bei, seit, aus, nach) pair with the DATIVE grids in `A1/02-Grammar-Core/01-cases-articles.md`. Tie errors to `A1/08-Practice-Lab/01-mistakes.md`.
+> **Case note:** most of these are fixed chunks. The dative ones (mit, von, zu, bei, seit, aus, nach) pair with the DATIVE grids in [01-cases-articles.md](01-cases-articles.md). Tie errors to [mistakes.md](../08-Practice-Lab/01-mistakes.md).

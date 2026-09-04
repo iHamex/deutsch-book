@@ -2,19 +2,16 @@
 
 > Goal: build any German sentence with correct verb position and connectors.
 
-!!! tip "How to use this Part"
-    Read files in numbered order `01 -> 02 -> 03`. Each file is top-to-bottom like a book chapter. Do the practice at the end.
-
 ---
 
 ## Files in this Part (read in order)
 
 | # | File | What you learn | Time |
 |---|---|---|---|
-| 01 | [01-word-order.md](01-word-order.md) | V2 statement, W-question, yes/no, time before place, modal/past bracket, weil/dass/wenn/ob/als/damit/bevor verb-final, wenn vs als, damit vs um...zu | 30 min |
-| 02 | [02-question-words.md](02-question-words.md) | wer/wen/wem, was/wo/wohin/woher/wann/warum/wieviel/welch- + womit/wofür | 15 min |
-| 03 | [03-comparative.md](03-comparative.md) | Komparativ -er + als, umlaut, irregular gut->besser, superlative am besten | 15 min |
-| 04 | [04-da-wo-compounds.md](04-da-wo-compounds.md) | dafür/damit/darüber/darauf vs wofür/womit/worüber, thing vs person, spoken drauf/drüber | 20 min |
+| 01 | [word-order.md](01-word-order.md) | V2 statement, W-question, yes/no, time before place, modal/past bracket, weil/dass/wenn/ob/als/damit/bevor verb-final, wenn vs als, damit vs um...zu | 30 min |
+| 02 | [question-words.md](02-question-words.md) | wer/wen/wem, was/wo/wohin/woher/wann/warum/wieviel/welch- + womit/wofür | 15 min |
+| 03 | [comparative.md](03-comparative.md) | Komparativ -er + als, umlaut, irregular gut->besser, superlative am besten | 15 min |
+| 04 | [da-wo-compounds.md](04-da-wo-compounds.md) | dafür/damit/darüber/darauf vs wofür/womit/worüber, thing vs person, spoken drauf/drüber | 20 min |
 
 ---
 

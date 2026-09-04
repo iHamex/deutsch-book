@@ -1,6 +1,6 @@
 # Numbers, Dates & Spelling - The Easy Way
 
-> Why this matters: **Hören Part 1** is almost always "write down the number/time/word you hear."
+> Why this matters: **Hören Part 1** is almost always "write down the number/time/word you hear."  
 > Numbers are the #1 easiest points in the whole exam. Let's make them automatic.
 
 ---
@@ -214,7 +214,7 @@ Mon, Diens, Mitt, Donners, Freit, Sams/Sonn, Sonn. Easy!
 
 ## 8. Time (die Uhrzeit) - THE COMPLETE GUIDE
 
-> This is one of the trickiest things in German for English speakers.
+> This is one of the trickiest things in German for English speakers.  
 > German counts time differently from English. Master this and you're ahead of most learners.
 
 ### The golden rule: German looks FORWARD, not backward
@@ -222,9 +222,8 @@ Mon, Diens, Mitt, Donners, Freit, Sams/Sonn, Sonn. Easy!
 In English, at 8:30 you say "half PAST eight" (looking back to 8).
 In German, at 8:30 you say "halb NEUN" (looking forward to 9).
 
-**halb = half (toward the NEXT hour)**
-
-This is the #1 mistake English speakers make. Burn this into your brain:
+!!! warning "halb = half (toward the NEXT hour)"
+    This is the #1 mistake English speakers make. Burn this into your brain:
 - halb eins = 12:30 (half toward ONE)
 - halb zwei = 1:30 (half toward TWO)
 - halb drei = 2:30 (half toward THREE)
@@ -330,8 +329,8 @@ Germans use the 24-hour clock for trains, appointments, opening hours.
 
 ### The exam trap: "halb" in Hören
 
-**In the listening test, they WILL say "halb" something.**
-If you hear "halb vier" and write 4:30, you're WRONG.
+!!! warning "In the listening test, they WILL say 'halb' something"
+    If you hear "halb vier" and write 4:30, you're WRONG.
 - halb vier = 3:30 (half toward four)
 - The number you hear is ONE AHEAD of what you write.
 
@@ -353,7 +352,8 @@ If you hear "halb vier" and write 4:30, you're WRONG.
 
 ## 9. Spelling / Buchstabieren (give me my name: HOT TEST AREA)
 
-**Hören almost always spells someone's name. You must recognize the letters.**
+!!! tip "Hören almost always spells someone's name"
+    You must recognize the letters.
 
 Key letters that Germans spell differently than you expect:
 - **Z** = "tset" (sounds like "tseht")
@@ -362,11 +362,11 @@ Key letters that Germans spell differently than you expect:
 - **ß** = "Eszett"
 - **Ü** = "U-Umlaut", **Ö** = "O-Umlaut", **Ä** = "A-Umlaut"
 
-**Practice one:**
-"Ich buchstabiere: H-A-M-E-D." → hmm, but H isn't the issue, it's similar.
+!!! example "Practice one"
+    - "Ich buchstabiere: H-A-M-E-D." → hmm, but H isn't the issue, it's similar.
 
-**Actually saying the alphabet (listen for challenging ones):**
-A=a, B=beh, C=tseh, D=deh, E=eh, F=eff, G=geh, H=hah, I=ee, J=yoht, K=kah, L=ell, M=emm, N=enn, O=oh, P=peh, Q=koo, R=err, S=ess, T=teh, U=oo, V=fau, W=veh, X=iks, Y=uepsilon, Z=tset
+!!! example "Actually saying the alphabet (listen for challenging ones)"
+    A=a, B=beh, C=tseh, D=deh, E=eh, F=eff, G=geh, H=hah, I=ee, J=yoht, K=kah, L=ell, M=emm, N=enn, O=oh, P=peh, Q=koo, R=err, S=ess, T=teh, U=oo, V=fau, W=veh, X=iks, Y=uepsilon, Z=tset
 
 **Why this matters:** In Sprechen Part 1 you spell YOUR name and YOUR city. In Hören you hear somebody else's spelled name.
 

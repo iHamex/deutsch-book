@@ -33,9 +33,8 @@ Anything can be first - subject, time, or a connector. The verb still stays at p
 | **Am Montag** | **lerne** | ich | **Am Montag lerne ich** in der Schule. |
 | **Im Winter** | **fahre** | ich | **Im Winter fahre ich** Ski. |
 
-**Connectors at position 1 - also, dann, danach, deshalb, deswegen:**
-
-These connectors mean "so / then / therefore / afterwards". They occupy position 1, so the verb jumps to position 2 and the subject follows.
+!!! tip "Connectors at position 1 - also, dann, danach, deshalb, deswegen"
+    These connectors mean "so / then / therefore / afterwards". They occupy position 1, so the verb jumps to position 2 and the subject follows.
 
 | Connector | Meaning | Correct | Wrong | English |
 |---|---|---|---|---|
@@ -178,7 +177,7 @@ Both express purpose (why you do something). The difference is the subject:
 - Ich gehe in den Supermarkt, **um** Brot **zu kaufen**.
 
 !!! tip "A1 use"
-    Start with **um ... zu** (no new subject needed), like English "to + verb". See also `A1/02-Grammar-Core/07-grammar-essentials.md:25` for Chance/Zeit/Lust + zu + Infinitiv.
+    Start with **um ... zu** (no new subject needed), like English "to + verb". See also [07-grammar-essentials.md §25](../02-Grammar-Core/07-grammar-essentials.md#25-zu-infinitiv-the-chance-to-drive-chance-zeit-lust-zu-verb) for Chance/Zeit/Lust + zu + Infinitiv.
 
 ---
 
@@ -223,6 +222,6 @@ These connectors do **NOT** change word order. Both clauses stay at position 2.
     3. **Is it und/oder/aber/denn?** Then verb stays at 2 in both clauses.
 
 !!! info "Re-test and cross-reference"
-    Re-test target: M2 (weil verb-final), M5 (statement vs question). Tie back to `A1/08-Practice-Lab/01-mistakes.md`.
+    Re-test target: [M2](../08-Practice-Lab/01-mistakes.md#m2-weil-clause-word-order-sentence-building) (weil verb-final), [M5](../08-Practice-Lab/01-mistakes.md#m5-statement-vs-question-ichsie-sentence-building) (statement vs question). Tie back to [mistakes.md](../08-Practice-Lab/01-mistakes.md).
     
-    Also see: Word-Order Master in `A1/06-Daily-Communication/02-speaking-survival.md:10` - same 3 rules in compact table.
+    Also see: Word-Order Master in [02-speaking-survival.md §10](../06-Daily-Communication/02-speaking-survival.md#10-the-word-order-master-speaking-essentials) - same 3 rules in compact table.

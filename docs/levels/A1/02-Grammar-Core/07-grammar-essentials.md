@@ -1,15 +1,15 @@
 # Reference - Grammar Essentials Overview (Do Not Read First)
 
-> **This file is a REFERENCE, not a chapter.** You have already learned each topic top to bottom in its own chapter (01-cases-articles, 02-possessive-articles, 03-demonstratives, etc.). Use this file only to **review** or **look up** a table quickly. Do not read it from scratch - read the 01-06 chapters in order instead. The unique topics here (Wetter, Wohnen, Kleidung, Stadt, es gibt, doch) are also in `A1/05-Vocabulary-Topics/`.
+> **This file is a REFERENCE, not a chapter.** You have already learned each topic top to bottom in its own chapter (01-cases-articles, 02-possessive-articles, 03-demonstratives, etc.). Use this file only to **review** or **look up** a table quickly. Do not read it from scratch - read the 01-06 chapters in order instead. The unique topics here (Wetter, Wohnen, Kleidung, Stadt, es gibt, doch) are also in `[05-Vocabulary-Topics](../05-Vocabulary-Topics/00-INDEX.md)`.
 
-!!! info "Focused practice sheets (drill these - they log to `A1/08-Practice-Lab/01-mistakes.md`)"
-    - `01-conjugations.md` - present tense, irregulars, modals, du/ihr/Sie
-    - `01-cases-articles.md` - N/A/D grids, pronouns, dative articles
-    - `01-word-order.md` - statement / question / weil rules
-    - `05-prepositions.md` - time + place chunks
-    - `06-negation.md` - kein vs nicht
-    - `05-tenses.md` - past + "schon"
-    - `02-dative-verbs.md` / `03-accusative-verbs.md` - verb-by-verb case practice
+!!! info "Focused practice sheets (drill these - they log to [mistakes.md](../08-Practice-Lab/01-mistakes.md))"
+    - [01-conjugations.md](../03-Verbs/01-conjugations.md) - present tense, irregulars, modals, du/ihr/Sie
+    - [01-cases-articles.md](01-cases-articles.md) - N/A/D grids, pronouns, dative articles
+    - [01-word-order.md](../04-Sentence-Building/01-word-order.md) - statement / question / weil rules
+    - [05-prepositions.md](05-prepositions.md) - time + place chunks
+    - [06-negation.md](06-negation.md) - kein vs nicht
+    - [05-tenses.md](../03-Verbs/05-tenses.md) - past + "schon"
+    - [02-dative-verbs.md](../03-Verbs/02-dative-verbs.md) / [03-accusative-verbs.md](../03-Verbs/03-accusative-verbs.md) - verb-by-verb case practice
 
 ---
 
@@ -228,9 +228,9 @@ Your family, your apartment, your work - you can't describe them without these.
 
 ---
 
-## 8. Word order - see `word-order.md`
+## 8. Word order - see [word-order.md](../04-Sentence-Building/01-word-order.md)
 
-> The full drill (statement / W-question / yes-no / time-before-place / modal-past / weil) now lives in **`word-order.md`** - practice there. Quick version below.
+> The full drill (statement / W-question / yes-no / time-before-place / modal-past / weil) now lives in **[word-order.md](../04-Sentence-Building/01-word-order.md)** - practice there. Quick version below.
 
 1. **Statement: verb at position 2.** Ich lerne Deutsch. / Heute lerne ich Deutsch. (never "Heute ich lerne")
 2. **W-question: W-word + verb + subject.** Wo wohnen Sie?
@@ -244,9 +244,9 @@ Your family, your apartment, your work - you can't describe them without these.
 
 ---
 
-## 9. Prepositions - see `prepositions.md`
+## 9. Prepositions - see [prepositions.md](05-prepositions.md)
 
-> The full time + place list and contractions now live in **`prepositions.md`** - practice there. Quick version below.
+> The full time + place list and contractions now live in **[prepositions.md](05-prepositions.md)** - practice there. Quick version below.
 
 **Time (learn as chunks, don't analyze the case):**
 
@@ -590,7 +590,7 @@ That's the only dative ending you need - everything else stays as in section 1.
 **werden (to become) - the 3rd auxiliary, A1 essential:**
 
 - Ich **werde** müde. (I'm getting tired.) · Es **wird** kalt. (It's getting cold.) · Sie **wird** 30. (She's turning 30.)
-- NOT the future tense (B1) - at A1 it means "become / get". Full table in `conjugations.md`.
+- NOT the future tense (B1) - at A1 it means "become / get". Full table in [conjugations.md](../03-Verbs/01-conjugations.md).
 
 **wissen (to know a fact):**
 
@@ -605,8 +605,8 @@ That's the only dative ending you need - everything else stays as in section 1.
 - Lassen Sie mich nachdenken. = Let me think.
 - Ich lasse mir die Haare schneiden. = I'm having my hair cut.
 
-**Exam-instruction words (you'll hear/read these in every test):**
-verstehen, wiederholen, ankreuzen (tick), zuordnen (match), schreiben, lesen, hören, sprechen
+!!! tip "Exam-instruction words (you'll hear/read these in every test)"
+    verstehen, wiederholen, ankreuzen (tick), zuordnen (match), schreiben, lesen, hören, sprechen
 
 **man (one / people / you - impersonal, signs love this):**
 

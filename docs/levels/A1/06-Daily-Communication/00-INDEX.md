@@ -2,18 +2,15 @@
 
 > Goal: sound natural, not textbook. German people drop letters, add mal/doch, and use fillers. This Part teaches the spoken version.
 
-!!! tip "How to use this Part"
-    Read files in numbered order `01 -> 02 -> 03`. Each file is top-to-bottom like a book chapter. Do the practice at the end.
-
 ---
 
 ## Files in this Part (read in order)
 
 | # | File | What you learn | Time |
 |---|---|---|---|
-| 01 | [01-daily-conversations.md](01-daily-conversations.md) | 210+ phrases: 10 spoken rules (drop -e, mal, shorten, fillers), honesty, uncertainty, joking, reactions, politeness, daily life, disagreeing, plans, feelings, work, phone, restaurant, da...hin, seeking agreement (oder? ne? gell?), hedging (wahrscheinlich/vielleicht/eigentlich), 30 daily chunks | 90 min (reference, pick 5/day) |
-| 02 | [02-speaking-survival.md](02-speaking-survival.md) | Identity script, small talk, survival sentences for Rathaus/phone/shops | 20 min |
-| 03 | [03-question-bank.md](03-question-bank.md) | Question collection for practice | 15 min |
+| 01 | [daily-conversations.md](01-daily-conversations.md) | 210+ phrases: 10 spoken rules (drop -e, mal, shorten, fillers), honesty, uncertainty, joking, reactions, politeness, daily life, disagreeing, plans, feelings, work, phone, restaurant, da...hin, seeking agreement (oder? ne? gell?), hedging (wahrscheinlich/vielleicht/eigentlich), 30 daily chunks | 90 min (reference, pick 5/day) |
+| 02 | [speaking-survival.md](02-speaking-survival.md) | Identity script, small talk, survival sentences for Rathaus/phone/shops | 20 min |
+| 03 | [question-bank.md](03-question-bank.md) | Question collection for practice | 15 min |
 
 ---
 

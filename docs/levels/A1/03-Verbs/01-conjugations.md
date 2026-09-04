@@ -1,12 +1,12 @@
 # Conjugations - COMPLETE A1 Reference (memorize once)
 
-> Every A1 verb = a **Person | Form | Example sentence** table.
-> Format from `dative-verbs.md`, now with a real German example per row.
+> Every A1 verb = a **Person | Form | Example sentence** table.  
+> Format from [dative-verbs.md](02-dative-verbs.md), now with a real German example per row.  
 > Case tags: **+AKK** = takes accusative object · **+DAT** = takes dative object · **+DAT +AKK** = person(dative) + thing(accusative).
 !!! tip "Learn as chunks"
     Not "helfen = help" but "Ich helfe dir" (+DAT). The +DAT tag tells you the case.
 
-> Log slips in `../08-Practice-Lab/01-mistakes.md`.
+> Log slips in [mistakes.md](../08-Practice-Lab/01-mistakes.md).
 
 ## Master verb index
 | Verb | Meaning | Case |
@@ -146,7 +146,7 @@
 | you (formal) | Sie haben. | Sie haben einen Termin. |
 
 ### werden (to become, + adjective / noun)
-> The third auxiliary! You need it for "to become / get": *Ich werde müde.* (I get tired.)
+> The third auxiliary! You need it for "to become / get": *Ich werde müde.* (I get tired.)  
 > NOT the future tense (that's B1) - at A1 it just means "become".
 
 | Person | Form | Example sentence |

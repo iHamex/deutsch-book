@@ -17,6 +17,16 @@
 
 .md-header__topic:first-child {
 	font-weight: normal !important;
+}
+
+/* Site title stays next to the logo at all times - top and scrolled, never fading out */
+.md-header__title--active .md-header__topic:first-child {
+	opacity: 1 !important;
+	transform: none !important;
+}
+
+/* Page title hidden in the top bar (it lives in the article H1) - avoids overlap */
+.md-header__topic[data-md-component="header-topic"] {
 	display: none !important;
 }
 
@@ -226,6 +236,8 @@ li code,
 	margin: 0.5rem 0;
 	color: #4a5568;
 	font-size: 1.125rem;
+	/* Keep source line breaks: letter and dialogue quotes render line-by-line, not as one run-on line */
+	white-space: pre-line;
 }
 
 /* Tables */

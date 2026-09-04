@@ -2,16 +2,13 @@
 
 > Goal: become COMFORTABLE speaking German in everyday life at Check24, shops, S-Bahn, Rathaus - not perfect, but fluent.
 
-!!! tip "How to use this Part"
-    Read files in numbered order `01 -> 02 -> 03`. Each file is top-to-bottom like a book chapter. Do the practice at the end.
-
 ---
 
 ## Files in this Part
 
 | # | File | What it is |
 |---|---|---|
-| 00 | [00-INDEX.md](00-INDEX.md) | This file |
+| 00 | [INDEX.md](00-INDEX.md) | This file |
 | - | [AGENTS.md](AGENTS.md) | Coach rules: how the agent coaches you (11 points) |
 | - | [RULES.md](RULES.md) | Content rules for this phase |
 | - | [MEMORY.md](MEMORY.md) | Your state: level, recycle log, recurring mistakes, session log |

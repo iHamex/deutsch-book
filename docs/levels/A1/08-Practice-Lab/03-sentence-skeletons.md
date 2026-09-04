@@ -1,15 +1,15 @@
 # Sentence Skeletons - Bausteine (Your Building Blocks)
 
-> You never build sentences word-by-word. You MATCH a pattern and fill ONE slot.
-> This file is the whole engine: every skeleton you need for the exam + daily life.
+> You never build sentences word-by-word. You MATCH a pattern and fill ONE slot.  
+> This file is the whole engine: every skeleton you need for the exam + daily life.  
 > Add new skeletons here as we discover them in our conversations.
 
 ---
 
 ## The Golden Rule
 
-**Don't translate. Match.**
-Every question = one skeleton + one filled slot. The card/topic tells you WHICH skeleton.
+!!! tip "Don't translate. Match."
+    Every question = one skeleton + one filled slot. The card/topic tells you WHICH skeleton.
 
 ---
 
@@ -76,11 +76,11 @@ Answer: **Ja, ...** / **Nein, ...** + full sentence.
 
 ## 5. The Intro Skeleton (telc Part 1)
 
-> Ich heiße ___.
-> Ich komme aus ___.
-> Ich wohne in ___.
-> Ich bin verheiratet.
-> Ich arbeite bei ___ als ___.
+> Ich heiße ___.  
+> Ich komme aus ___.  
+> Ich wohne in ___.  
+> Ich bin verheiratet.  
+> Ich arbeite bei ___ als ___.  
 > Ich spreche Persisch, Englisch und ein bisschen Deutsch.
 
 ---

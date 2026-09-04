@@ -188,7 +188,7 @@ German spoken daily is shorter than written German. Five changes make you sound 
 | Soothing a request | Komm **doch** rein! | Come on in! |
 | Correcting politely | Das ist **doch** nicht so schlimm. | It's really not that bad. |
 
-> **Doch** is the one-word answer to a negative question - the word English doesn't have. Full grammar in `../02-Grammar-Core/07-grammar-essentials.md` §16.
+> **Doch** is the one-word answer to a negative question - the word English doesn't have. Full grammar in [07-grammar-essentials.md §16](../02-Grammar-Core/07-grammar-essentials.md#16-doch-the-yes-actually-word).
 
 
 ---
@@ -366,9 +366,8 @@ You learned "verb at position 2". In spoken German, the verb jumps to position 1
 | The thing is... / You see... | **Nämlich...** | Explaining the reason (goes AFTER the verb) |
 | Thanks for the info. | **Danke für die Info!** (Danke für die Auskunft.) | After someone explains something - Info is the daily word |
 
-**"Nämlich" - the secret weapon for explanations:**
-
-"Nämlich" means "the thing is" or "you see" - it explains WHY. It goes AFTER the verb:
+!!! tip "'Nämlich' - the secret weapon for explanations"
+    "Nämlich" means "the thing is" or "you see" - it explains WHY. It goes AFTER the verb:
 
 - Ich kann nicht kommen, ich muss **nämlich** arbeiten. (I can't come, the thing is I have to work.)
 - Wir wollen **nämlich** draußen im Garten feiern. (You see, we want to celebrate outside in the garden.)
@@ -602,9 +601,8 @@ You learned "verb at position 2". In spoken German, the verb jumps to position 1
 | Ne? (casual) | **..., ne?** | Very spoken, friends only - Das ist gut, ne? |
 | Gell? (south) | **..., gell?** | Munich/Bavaria - Servus, gell? |
 
-**How to use oder - the one-word magic:**
-
-Just add **oder?** or **ne?** at the end of ANY statement:
+!!! tip "How to use oder - the one-word magic"
+    Just add **oder?** or **ne?** at the end of ANY statement:
 
 - Das Wetter ist schön, **oder?** - The weather is nice, right?
 - Du kommst morgen, **oder?** - You come tomorrow, right?
@@ -670,8 +668,7 @@ Just add **oder?** or **ne?** at the end of ANY statement:
 | So ... | **Also, ...** | Starting a result - Also, dann gehen wir. |
 | Then ... | **Dann ...** / **Na dann ...** | Next step |
 
-**Example flow:**
-
+!!! example "Example flow"
     - "**Weißt du,** ich habe viel zu tun. **Eigentlich** wollte ich heute frei machen, **aber vielleicht** schaffe ich es morgen. **Übrigens,** hast du morgen Zeit? **Jedenfalls,** sag mir Bescheid." (You know, I have a lot to do. Actually I wanted to take today off, but maybe I will make it tomorrow. By the way, do you have time tomorrow? Anyway, let me know.)
 
 ---
@@ -691,8 +688,7 @@ Just add **oder?** or **ne?** at the end of ANY statement:
 | Exactly! | **Genau!** | Strong agreement |
 | Of course! | **Na klar!** / **Klar!** | Enthusiastic yes |
 
-**Example:**
-
+!!! example "Example"
     - "Ich bin müde." - **Ich auch!** (Me too!)
     - "Ich habe keine Lust." - **Ich auch nicht!** (Me neither!)
     - "Kommst du morgen?" - **Hoffentlich!** / **Glaub schon!** (I hope so / I think so)

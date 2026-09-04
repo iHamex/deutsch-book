@@ -155,14 +155,14 @@
 
 | File | What it covers |
 |------|---------------|
-| `Topics/exam-cheat-sheet.md` | One-page last-48h sheet |
-| `Topics/exam-writing.md` | Form fields + message templates |
-| `Topics/speaking-survival.md` | Full Sprechen scripts + 21 Teil 1 questions |
-| `Topics/horen-survival.md` | Listening strategy + key words |
-| `Topics/lesen-survival.md` | Reading strategy + sign vocabulary |
-| `Topics/writing-survival.md` | 40 template versions for Task 2 |
-| `Topics/question-bank.md` | 130+ card questions for Teil 2 |
-| `Topics/numbers-dates.md` | Numbers, time, spelling (Hören weapon) |
+| [exam-cheat-sheet.md](01-exam-cheat-sheet.md) | One-page last-48h sheet |
+| [exam-writing.md](02-exam-writing.md) | Form fields + message templates |
+| [speaking-survival.md](../06-Daily-Communication/02-speaking-survival.md) | Full Sprechen scripts + 21 Teil 1 questions |
+| [horen-survival.md](04-horen-survival.md) | Listening strategy + key words |
+| [lesen-survival.md](05-lesen-survival.md) | Reading strategy + sign vocabulary |
+| [writing-survival.md](03-writing-survival.md) | 40 template versions for Task 2 |
+| [question-bank.md](../06-Daily-Communication/03-question-bank.md) | 130+ card questions for Teil 2 |
+| [numbers-dates.md](../01-Foundations/01-numbers-dates.md) | Numbers, time, spelling (Hören weapon) |
 
 ---
 

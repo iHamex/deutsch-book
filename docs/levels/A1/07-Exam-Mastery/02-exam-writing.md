@@ -1,14 +1,14 @@
 # Exam Writing - Form + Short Message (The Easy Way)
 
-> telc A1 Schreiben has exactly 2 tasks. Both are predictable.
-> Task 1: fill in a form (personal data).
-> Task 2: write a short message (like an SMS/note) about an everyday situation.
+> telc A1 Schreiben has exactly 2 tasks. Both are predictable.  
+> Task 1: fill in a form (personal data).  
+> Task 2: write a short message (like an SMS/note) about an everyday situation.  
 > There is NO long essay. You cannot fail if you learn the templates below.
 
 ---
 
 !!! note "Present tense only"
-    In Telc A1 Schreiben Task 2, use ONLY present tense. No Perfekt, no past.
+    In Telc A1 Schreiben Task 2, use ==ONLY present tense==. No Perfekt, no past.
 
 ## Task 1: The Form (Anmeldung / Formular)
 
@@ -32,18 +32,19 @@ You get a form with empty boxes. You must write your personal data.
 | Beruf | profession | Softwareentwickler |
 | Muttersprache | mother tongue | Persisch / Farsi |
 
-### The answer you need to have REHEARSED (write this once, reuse always):
+### The answer you need to have REHEARSED (cover it, recall it, then check):
 
-> Vorname: Hamed
-> Familienname: Okhovvat
-> Geburtsdatum: 21.09.1985
-> Adresse: Erika-Mann-Straße 12
-> PLZ: 80636
-> Wohnort: München
-> Telefon: 0176 12345678
-> Nationalität: iranisch
-> Familienstand: verheiratet
-> Beruf: Softwareentwickler
+??? success "My rehearsed answers - expand to check"
+    > Vorname: Hamed  
+    > Familienname: Okhovvat  
+    > Geburtsdatum: 21.09.1985  
+    > Adresse: Erika-Mann-Straße 12  
+    > PLZ: 80636  
+    > Wohnort: München  
+    > Telefon: 0176 12345678  
+    > Nationalität: iranisch  
+    > Familienstand: verheiratet  
+    > Beruf: Softwareentwickler
 
 **Practice move:** print/back answering for YOUR true details (name, street, birthday, phone) ten times until your hand writes them without thinking. That's the whole Task 1.
 
@@ -54,53 +55,55 @@ You get a form with empty boxes. You must write your personal data.
 You get one sentence like: "Sie haben am Samstag Geburtstag. Schreiben Sie eine kurze Einladung." or
 "Sie können heute nicht zum Kurs kommen. Schreiben Sie eine Nachricht."
 
-**You write 20-30 words. That's it.**
+!!! success "Only 20-30 words"
+    That's it. Clear and correct beats long and wrong.
 
-### The 5 magic templates (cover 95% of tasks):
+### The 5 magic templates (cover 95% of tasks - pick your situation):
 
-**1. Invitation (Einladung)**
+=== "Einladung (invitation)"
 
-> Liebe Anna,
-> ich habe am Samstag Geburtstag. Möchtest du zu meiner Party kommen? Die Party ist um 19 Uhr bei mir zu Hause.
-> Viele Grüße
-> Hamed
+    > Liebe Anna,  
+    > ich habe am Samstag Geburtstag. Möchtest du zu meiner Party kommen? Die Party ist um 19 Uhr bei mir zu Hause.  
+    > Viele Grüße  
+    > Hamed
 
-**2. Saying sorry / can't come (Absage)**
+=== "Absage (can't come)"
 
-> Lieber Herr Weber,
-> es tut mir leid, ich kann heute nicht zum Kurs kommen. Ich bin krank.
-> Viele Grüße
-> Hamed Okhovvat
+    > Lieber Herr Weber,  
+    > es tut mir leid, ich kann heute nicht zum Kurs kommen. Ich bin krank.  
+    > Viele Grüße  
+    > Hamed Okhovvat
 
-**3. Thank you (Dank)**
+=== "Dank (thank you)"
 
-> Liebe Anna,
-> vielen Dank für das Geschenk. Ich freue mich sehr.
-> Viele Grüße
-> Hamed
+    > Liebe Anna,  
+    > vielen Dank für das Geschenk. Ich freue mich sehr.  
+    > Viele Grüße  
+    > Hamed
 
-**4. Asking for a meeting (Termin)**
+=== "Termin (meeting)"
 
-> Liebe Anna,
-> können wir uns am Montag treffen? Um 18 Uhr im Café?
-> Viele Grüße
-> Hamed
+    > Liebe Anna,  
+    > können wir uns am Montag treffen? Um 18 Uhr im Café?  
+    > Viele Grüße  
+    > Hamed
 
-**5. General info / arrangement (Information)**
+=== "Info (arrangement)"
 
-> Hallo Fatima,
-> wir treffen uns am Samstag um 15 Uhr am Bahnhof. Kannst du kommen?
-> Viele Grüße
-> Hamed
+    > Hallo Fatima,  
+    > wir treffen uns am Samstag um 15 Uhr am Bahnhof. Kannst du kommen?  
+    > Viele Grüße  
+    > Hamed
 
 ---
 
 ### Structuring any message (copy this skeleton):
 
-> **Greeting:** Liebe/Lieber [Name] (or Hallo [Name])
-> **Body (2-3 short sentences):** state the situation + say what you want.
-> **Closing:** Viele Grüße / Liebe Grüße
-> **Signature:** Your name
+!!! example "Message skeleton - copy this"
+    - **Greeting:** Liebe/Lieber [Name] (or Hallo [Name])
+    - **Body (2-3 short sentences):** state the situation + say what you want.
+    - **Closing:** ==Viele Grüße== / Liebe Grüße
+    - **Signature:** Your name
 
 ### Useful set sentences to reuse:
 
@@ -120,7 +123,7 @@ Keep it 3-4 lines. Clear and correct beats long and wrong. Every "Viele Grüße"
 
 ---
 
-##  Don't waste time
+## Don't waste time
 - No essays, no past tense, no complex sentences.
 - The check is: did you cover the main point (invite / apologize / thank / arrange) + is it understandable?
 

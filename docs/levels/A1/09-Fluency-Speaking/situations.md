@@ -1,8 +1,8 @@
 # Situations - Real-Life German Practice
 
-> The situation bank for the ../09-Fluency-Speaking/ phase. Pick ONE situation per session, make it
-> realistic, role-play both sides, change the variables next time. A situation is a
-> conversation, not a vocabulary list. Use Hamed's real identity (MEMORY.md section 1) and
+> The situation bank for the [09-Fluency-Speaking](00-INDEX.md) phase. Pick ONE situation per session, make it  
+> realistic, role-play both sides, change the variables next time. A situation is a  
+> conversation, not a vocabulary list. Use Hamed's real identity (MEMORY.md section 1) and  
 > his real city (Munich) whenever useful.
 
 ---

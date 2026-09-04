@@ -180,6 +180,24 @@ nav:
       - "Coach Rules (AGENTS)": levels/A1/09-Fluency-Speaking/AGENTS.md
       - "Content Rules (RULES)": levels/A1/09-Fluency-Speaking/RULES.md
       - "State & Memory (MEMORY)": levels/A1/09-Fluency-Speaking/MEMORY.md
+  - A2 Level:
+    - Overview: levels/A2/index.md
+    - Verbs and Tenses:
+      - Part Index: levels/A2/01-Verbs-Tenses/00-INDEX.md
+    - Sentences and Clauses:
+      - Part Index: levels/A2/02-Sentences-Clauses/00-INDEX.md
+    - Cases and Articles:
+      - Part Index: levels/A2/03-Cases-Articles/00-INDEX.md
+    - Reflexive and Passive:
+      - Part Index: levels/A2/04-Reflexive-Passive/00-INDEX.md
+    - Vocabulary Topics:
+      - Part Index: levels/A2/05-Vocabulary-Topics/00-INDEX.md
+    - Daily Communication:
+      - Part Index: levels/A2/06-Daily-Communication/00-INDEX.md
+    - Exam Mastery:
+      - Part Index: levels/A2/07-Exam-Mastery/00-INDEX.md
+    - Practice Lab:
+      - Part Index: levels/A2/08-Practice-Lab/00-INDEX.md
 
 # Copyright Text
 copyright: © 2026 Hamed Okhovvat
