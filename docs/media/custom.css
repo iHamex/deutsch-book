@@ -31,7 +31,7 @@
 /* Override Material Theme Colors */
 [data-md-color-scheme="slate"] {
 	--md-default-bg-color: #0d1117;
-	--md-default-fg-color: #4a5568;
+	--md-default-fg-color: #c9d1d9;
 	--md-typeset-a-color: #ff6b35;
 }
 
@@ -43,7 +43,6 @@ body {
 .md-typeset {
 	font-size: 13px !important;
 	line-height: 1.8;
-	color: #4a5568;
 	font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
 gStack Layout */
 .md-c/* Main Content Container */
@@ -1078,11 +1077,6 @@ article.md-content__inner {
 	position: relative;
 }
 
-/* RisingSta	font-weight: 600;
-	position: relative;
-	color: #718096;
-}
-
 /* Better Code Block Container */
 .md-typeset .highlight {
 	margin: 3rem 0;
@@ -1202,4 +1196,151 @@ article.md-content__inner {
 
 .md-footer__link--prev:hover {
 	transform: translateX(-4px);
+}
+
+/* ============================================================
+   DARK MODE (slate) — text color overrides only
+   Light-mode rules above set dark text on white.
+   These override every hardcoded color: for dark surfaces.
+   ============================================================ */
+
+/* Body text */
+[data-md-color-scheme="slate"] .md-typeset,
+[data-md-color-scheme="slate"] .md-typeset p,
+[data-md-color-scheme="slate"] .md-typeset li,
+[data-md-color-scheme="slate"] .md-typeset em,
+[data-md-color-scheme="slate"] .md-typeset blockquote,
+[data-md-color-scheme="slate"] .md-typeset blockquote p,
+[data-md-color-scheme="slate"] .md-typeset table tbody td,
+[data-md-color-scheme="slate"] .md-typeset dl dd {
+	color: #c9d1d9;
+}
+
+/* Headings + strong */
+[data-md-color-scheme="slate"] .md-typeset h1,
+[data-md-color-scheme="slate"] .md-typeset h2,
+[data-md-color-scheme="slate"] .md-typeset strong {
+	color: #e6edf3;
+}
+
+/* Sub-headings */
+[data-md-color-scheme="slate"] .md-typeset h3,
+[data-md-color-scheme="slate"] .md-typeset h4,
+[data-md-color-scheme="slate"] .md-typeset h5,
+[data-md-color-scheme="slate"] .md-typeset h1 + p,
+[data-md-color-scheme="slate"] .md-typeset dl dt {
+	color: #d1d9e0;
+}
+
+/* Muted text */
+[data-md-color-scheme="slate"] .md-typeset .footnote,
+[data-md-color-scheme="slate"] .md-copyright__highlight,
+[data-md-color-scheme="slate"] .article-meta,
+[data-md-color-scheme="slate"] .md-typeset figcaption,
+[data-md-color-scheme="slate"] .md-search-result__meta {
+	color: #8b949e;
+}
+
+/* Inline code */
+[data-md-color-scheme="slate"] p code,
+[data-md-color-scheme="slate"] td code,
+[data-md-color-scheme="slate"] strong code,
+[data-md-color-scheme="slate"] li code,
+[data-md-color-scheme="slate"] .md-typeset code {
+	color: #f87171 !important;
+}
+
+/* Table headers */
+[data-md-color-scheme="slate"] .md-typeset table thead th {
+	color: #e6edf3;
+}
+
+/* Admonition titles — keep accent, just brighten */
+[data-md-color-scheme="slate"] .md-typeset .admonition-title {
+	color: #e6edf3;
+}
+[data-md-color-scheme="slate"] .md-typeset .admonition.note .admonition-title {
+	color: #79c0ff;
+}
+[data-md-color-scheme="slate"] .md-typeset .admonition.warning .admonition-title {
+	color: #e3b341;
+}
+[data-md-color-scheme="slate"] .md-typeset .admonition.danger .admonition-title {
+	color: #f87171;
+}
+[data-md-color-scheme="slate"] .md-typeset .admonition.symfony8 .admonition-title {
+	color: #ff8a5c;
+}
+
+/* Admonition body */
+[data-md-color-scheme="slate"] .md-typeset .admonition p {
+	color: #c9d1d9;
+}
+
+/* Header */
+[data-md-color-scheme="slate"] .md-header__title {
+	color: #e6edf3;
+}
+[data-md-color-scheme="slate"] .md-header__button {
+	color: #c9d1d9;
+}
+
+/* Nav */
+[data-md-color-scheme="slate"] .md-nav__title {
+	color: #e6edf3;
+}
+[data-md-color-scheme="slate"] .md-nav__link {
+	color: #c9d1d9;
+}
+[data-md-color-scheme="slate"] .md-nav__item--section > .md-nav__link {
+	color: #e6edf3;
+}
+[data-md-color-scheme="slate"] .md-nav__item--nested > .md-nav__link {
+	color: #d1d9e0;
+}
+
+/* Search */
+[data-md-color-scheme="slate"] .md-search__input {
+	color: #e6edf3;
+}
+[data-md-color-scheme="slate"] .md-search-result {
+	color: #c9d1d9;
+}
+
+/* Tabs */
+[data-md-color-scheme="slate"] .md-typeset .tabbed-labels > label {
+	color: #8b949e;
+}
+
+/* Mark */
+[data-md-color-scheme="slate"] .md-typeset mark {
+	color: #fde68a;
+}
+
+/* Selection */
+[data-md-color-scheme="slate"] ::selection {
+	color: inherit;
+}
+[data-md-color-scheme="slate"] ::-moz-selection {
+	color: inherit;
+}
+
+/* Blockquote quote mark */
+[data-md-color-scheme="slate"] .md-typeset blockquote::before {
+	color: #444c56;
+}
+
+/* Kbd */
+[data-md-color-scheme="slate"] .md-typeset kbd {
+	color: #e6edf3;
+}
+
+/* Nav icon */
+[data-md-color-scheme="slate"] .md-nav__icon {
+	color: #8b949e;
+}
+
+/* Tabs link */
+[data-md-color-scheme="slate"] .md-tabs__link {
+	color: #c9d1d9;
 }
