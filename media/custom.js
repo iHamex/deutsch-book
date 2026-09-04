@@ -203,6 +203,15 @@
                 vertical-align: middle;
             `;
             
+            // Wrap all existing content in a span first: flex removes whitespace
+            // between its items, so without this wrapper every heading with mixed
+            // text (e.g. `abfahren - **abgefahren** (sein)`) would lose its spaces.
+            const headingContent = document.createElement('span');
+            while (heading.firstChild) {
+                headingContent.appendChild(heading.firstChild);
+            }
+            heading.appendChild(headingContent);
+
             heading.style.display = 'flex';
             heading.style.alignItems = 'center';
             
