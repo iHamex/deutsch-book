@@ -1199,7 +1199,7 @@ article.md-content__inner {
 }
 
 /* ============================================================
-   DARK MODE (slate) — text color overrides only
+   DARK MODE (slate) - text color overrides only
    Light-mode rules above set dark text on white.
    These override every hardcoded color: for dark surfaces.
    ============================================================ */
@@ -1255,7 +1255,7 @@ article.md-content__inner {
 	color: #e6edf3;
 }
 
-/* Admonition titles — keep accent, just brighten */
+/* Admonition titles - keep accent, just brighten */
 [data-md-color-scheme="slate"] .md-typeset .admonition-title {
 	color: #e6edf3;
 }

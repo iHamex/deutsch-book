@@ -156,7 +156,7 @@
 - **Re-test:** session [FAIL]; also "ein teuer Auto" → ein teures Auto (nt -es). Also "ein teuers Auto" → ein teures Auto. Day+1, Day+3
 
 ## M23 - suchen + Akkusativ (no "für") (VOCAB)
-- **Rule:** suchen (look for) takes a direct accusative object — NO preposition "für". "I look for X" = ich suche X.
+- **Rule:** suchen (look for) takes a direct accusative object - NO preposition "für". "I look for X" = ich suche X.
 - **Wrong:** Wir suchen für eine Wohnung.
 - **Right:** Wir suchen eine Wohnung.
 - **Re-test:** session [FAIL]; Day+1, Day+3
@@ -197,7 +197,7 @@
 - **Right:** meine Eltern wohnen im Iran
 - **Re-test:** session [FAIL]; Day+1, Day+3
 
-## ~~M30 - wir (we) vs wie (how/what)~~ — STRUCK (user: typo, not a real error)
+## ~~M30 - wir (we) vs wie (how/what)~~ - STRUCK (user: typo, not a real error)
 - **Rule:** wir = we (subject pronoun). wie = how / what (question word). "we are" = wir sind, not wie sind.
 - **Wrong:** Wie sind aus Deutschland.
 - **Right:** Wir sind aus Deutschland.
@@ -215,13 +215,13 @@
 - **Right:** Kann ich bar bezahlen?
 - **Re-test:** session [FAIL]; Day+1, Day+3
 
-## ~~M33 - Verb ending for "Sie" (formal) = -en~~ — STRUCK (user: typo, knows Sie/Wir endings)
+## ~~M33 - Verb ending for "Sie" (formal) = -en~~ - STRUCK (user: typo, knows Sie/Wir endings)
 - **Rule:** with formal Sie the verb ends in -en: haben → **Haben** Sie, kommen → **Kommen** Sie. Not "Habe Sie".
 - **Wrong:** Habe sie das in Größe M?
 - **Right:** Haben Sie das in Größe M?
 - **Re-test:** session [FAIL]; Day+1, Day+3
 
-## ~~M34 - Größe (size) vs große (big)~~ — STRUCK (plain-letter keyboard: Grosse = Größe; not a gap)
+## ~~M34 - Größe (size) vs große (big)~~ - STRUCK (plain-letter keyboard: Grosse = Größe; not a gap)
 - **Rule:** Größe = size (noun). große = big (adjective). "size M" = Größe M.
 - **Wrong:** Habe sie das in Grosse M?
 - **Right:** Haben Sie das in Größe M?

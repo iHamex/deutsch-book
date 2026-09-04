@@ -1,8 +1,8 @@
 # Daily Conversations - Alltagskonversationen
 
-> **Why this file exists:** Textbooks teach you "How are you?" and "I would like a coffee." But in real life you say "To be honest..." and "Just kidding!" and "How do you even say this in German?" This file fills that gap — and it teaches you the **spoken** version, the way Germans actually talk day to day, not the textbook version.
+> **Why this file exists:** Textbooks teach you "How are you?" and "I would like a coffee." But in real life you say "To be honest..." and "Just kidding!" and "How do you even say this in German?" This file fills that gap - and it teaches you the **spoken** version, the way Germans actually talk day to day, not the textbook version.
 >
-> **The golden rule:** in every row below, the phrase on the left is what you SAY. The (full form) in parentheses is the correct textbook version — know both, but say the spoken one.
+> **The golden rule:** in every row below, the phrase on the left is what you SAY. The (full form) in parentheses is the correct textbook version - know both, but say the spoken one.
 
 ---
 
@@ -53,7 +53,7 @@ German spoken daily is shorter than written German. Five changes make you sound 
 
 ---
 
-### Rule 2: mal = the magic word — softens every request
+### Rule 2: mal = the magic word - softens every request
 
 | Textbook (without mal) | Spoken (with mal) | Feeling |
 |---|---|---|
@@ -73,7 +73,7 @@ German spoken daily is shorter than written German. Five changes make you sound 
 
 | Spoken | Meaning | When you use it |
 |---|---|---|
-| **Lass mal!** | Forget it! / Leave it! / Never mind! | Someone is doing or suggesting something — you stop them |
+| **Lass mal!** | Forget it! / Leave it! / Never mind! | Someone is doing or suggesting something - you stop them |
 | **Lass mal, ich mach das.** | Never mind, I'll do it. | You take over instead of waiting for them |
 | **Lass mich mal machen!** | Let me do it! | You want to try it yourself right now |
 | **Lass uns mal gehen.** | Let's just go. | Gentle push to leave |
@@ -90,7 +90,7 @@ German spoken daily is shorter than written German. Five changes make you sound 
 > **The pattern:** Lass mich + dir/das + verb - "let me + ..." Add **mal** to soften it:
 > *Lass mich dir das **mal** zeigen!* (Let me just show you!) / *Lass mich dir das **mal** erklären.*
 >
-> **The work classic:** *"Soll ich das machen?" → "Lass mal, ich mach das!"* — instantly natural, zero textbook.
+> **The work classic:** *"Soll ich das machen?" → "Lass mal, ich mach das!"* - instantly natural, zero textbook.
 >
 > **Formal version (customers, strangers):** *Lassen Sie mich das zeigen.* / *Lassen Sie mich kurz überlegen.* - same idea, Sie form.
 
@@ -171,7 +171,7 @@ German spoken daily is shorter than written German. Five changes make you sound 
 | ist es | **is' es** → **ists** | Wie is'es? (How is it?) |
 | haben wir | **ham wa** | Ham wa Zeit? (Do we have time?) |
 
-> Use these only with friends — never in the exam or with your boss.
+> Use these only with friends - never in the exam or with your boss.
 
 
 ---
@@ -183,12 +183,12 @@ German spoken daily is shorter than written German. Five changes make you sound 
 
 | Job | Example | Meaning |
 |---|---|---|
-| Contradicting a "no" | — Du kommst nicht? — **Doch!** | — You're not coming? — Yes I am! |
+| Contradicting a "no" | - Du kommst nicht? - **Doch!** | - You're not coming? - Yes I am! |
 | Adding emphasis | Das ist **doch** super! | That's really great! |
 | Soothing a request | Komm **doch** rein! | Come on in! |
 | Correcting politely | Das ist **doch** nicht so schlimm. | It's really not that bad. |
 
-> **Doch** is the one-word answer to a negative question — the word English doesn't have. Full grammar in `../02-Grammar-Core/07-grammar-essentials.md` §16.
+> **Doch** is the one-word answer to a negative question - the word English doesn't have. Full grammar in `../02-Grammar-Core/07-grammar-essentials.md` §16.
 
 
 ---
@@ -219,9 +219,9 @@ German spoken daily is shorter than written German. Five changes make you sound 
 
 ---
 
-### Rule 10: Verb-first statements (V1-Sätze) — "Mach ich dann gleich"
+### Rule 10: Verb-first statements (V1-Sätze) - "Mach ich dann gleich"
 
-You learned "verb at position 2". In spoken German, the verb jumps to position 1 — like a question, but it's a statement. Germans drop the object (das) and the verb goes FIRST. Super common at work!
+You learned "verb at position 2". In spoken German, the verb jumps to position 1 - like a question, but it's a statement. Germans drop the object (das) and the verb goes FIRST. Super common at work!
 
 | Textbook (full) | Spoken (V1) | Meaning |
 |---|---|---|
@@ -235,7 +235,7 @@ You learned "verb at position 2". In spoken German, the verb jumps to position 1
 | Ich rufe dich an. | **Ruf ich dich an.** | I'll call you. |
 
 > **How it works:** drop the object (das) → verb first → ich → rest. Use it to answer quickly and casually at work: *"Kannst du das machen?" → "Mach ich gleich."*
-> Friends/colleagues only — in the exam always use the full form (verb at position 2).
+> Friends/colleagues only - in the exam always use the full form (verb at position 2).
 
 ---
 
@@ -248,11 +248,11 @@ You learned "verb at position 2". In spoken German, the verb jumps to position 1
 | In my opinion... | **Also, ich finde...** (Meiner Meinung nach...) | Stating what you think (also = the natural opener) |
 | I think so. | **Glaub schon.** (Ich glaube schon.) | Agreeing (soft) |
 | I don't think so. | **Ich glaub nicht.** | Disagreeing (soft) |
-| That's right. | **Stimmt.** (Das stimmt.) | Confirming — drop the "das"! |
+| That's right. | **Stimmt.** (Das stimmt.) | Confirming - drop the "das"! |
 | That's not right. | **Stimmt nicht.** (Das stimmt nicht.) | Correcting someone |
 | I agree with you. | **Da bin ich dabei.** (Ich stimme dir zu.) | Agreement, casual |
 | You're right. | **Hast recht.** (Du hast recht.) | Telling someone they're correct |
-| You're wrong. | **Da liegst du falsch.** (Du hast unrecht.) | Telling someone they're wrong — this is the natural one |
+| You're wrong. | **Da liegst du falsch.** (Du hast unrecht.) | Telling someone they're wrong - this is the natural one |
 
 !!! example "Example conversation"
     - "Möchtest du italienisch essen?" (Do you want to eat Italian?)
@@ -269,10 +269,10 @@ You learned "verb at position 2". In spoken German, the verb jumps to position 1
 | Let me think. | **Moment mal!** (Lass mich kurz nachdenken.) | Need time to think |
 | I'm not sure. | **Weiß nicht so genau.** (Ich bin mir nicht sicher.) | Uncertain |
 | I'm not sure about this. | **Bin mir da nicht sicher.** (Ich bin mir da nicht sicher.) | Doubtful about an idea |
-| I don't know. | **Weiß nicht.** (Ich weiß nicht.) | Don't know — drop the "ich" |
+| I don't know. | **Weiß nicht.** (Ich weiß nicht.) | Don't know - drop the "ich" |
 | I have no idea. | **Keine Ahnung.** (Ich habe keine Ahnung.) | Really don't know |
 | Maybe. | **Vielleicht.** / **Mal sehen.** | Possible / we'll see |
-| It depends. | **Kommt drauf an.** (Das kommt darauf an.) | Depends — the classic contraction |
+| It depends. | **Kommt drauf an.** (Das kommt darauf an.) | Depends - the classic contraction |
 | On the one hand... on the other... | **Einerseits... andererseits...** | Weighing options |
 | What do you think? | **Was meinst du?** / **Wie siehst du das?** | Asking for opinion |
 | How about this idea? | **Was hältst du davon?** | Suggesting something |
@@ -293,7 +293,7 @@ You learned "verb at position 2". In spoken German, the verb jumps to position 1
 | That's funny! | **Lustig!** (Das ist lustig!) | Something is funny |
 | That's not funny. | **Das war nicht witzig.** | Something is not funny |
 | You're joking! | **Du machst wohl Witze!** | Disbelief |
-| I can't believe it! | **Das gibt's doch nicht!** (Das kann doch nicht wahr sein!) | Shock/surprise — the natural one |
+| I can't believe it! | **Das gibt's doch nicht!** (Das kann doch nicht wahr sein!) | Shock/surprise - the natural one |
 | What? | **Wie bitte?** / **Hä?** (very casual) | Didn't hear / disbelief |
 | No way! | **Nie im Leben!** / **Echt?!** | Surprise |
 | Wow! | **Boah!** / **Wow!** | Amazement |
@@ -315,9 +315,9 @@ You learned "verb at position 2". In spoken German, the verb jumps to position 1
 | That's too bad. | **Schade!** (Das ist schade.) | Disappointment |
 | I see. | **Ach so.** / **Verstehe.** | Acknowledging / just understood |
 | Exactly! | **Genau!** / **Eben!** | Strong agreement |
-| Of course! | **Na klar!** / **Klar!** | Of course — klar is the daily word |
+| Of course! | **Na klar!** / **Klar!** | Of course - klar is the daily word |
 | Unfortunately... | **Leider...** | Bad news coming |
-| Luckily! | **Zum Glück!** (Gott sei Dank!) | Relief — zum Glück is what people say |
+| Luckily! | **Zum Glück!** (Gott sei Dank!) | Relief - zum Glück is what people say |
 | By the way... | **Übrigens...** / **Ach ja, übrigens...** | Changing topic |
 | Anyway... | **Auf jeden Fall...** / **Jedenfalls...** | Moving on |
 | Well then... | **Na gut...** / **Na ja...** | Accepting something |
@@ -335,15 +335,15 @@ You learned "verb at position 2". In spoken German, the verb jumps to position 1
 
 | English | German (say this) | When you use it |
 |---------|--------|-----------------|
-| Could you...? | **Kannst du mal...?** (Könntest du...?) | Polite request — with "mal" it's friendly, not bossy |
+| Could you...? | **Kannst du mal...?** (Könntest du...?) | Polite request - with "mal" it's friendly, not bossy |
 | Can you help me? | **Kannst du mir mal helfen?** | Asking for help |
-| Sorry about that. | **Tut mir leid.** (Das tut mir leid.) | Apologizing — drop the "das" |
+| Sorry about that. | **Tut mir leid.** (Das tut mir leid.) | Apologizing - drop the "das" |
 | No problem! | **Kein Problem!** / **Passt schon!** | Responding to thanks |
 | Don't mention it. | **Kein Problem!** / **Gern!** (Gern geschehen!) | You're welcome |
 | Thanks a lot! | **Danke schön!** / **Super, danke!** | Thanking |
 | Please. | **Bitte.** | Please / you're welcome |
 | Excuse me. | **Entschuldigung!** / **Entschuldige!** | Getting attention / sorry |
-| After you. | **Nach dir!** (Nach Ihnen.) | Letting someone go first — du-form with colleagues |
+| After you. | **Nach dir!** (Nach Ihnen.) | Letting someone go first - du-form with colleagues |
 | I'm sorry, but... | **Tut mir leid, aber...** | Softening bad news |
 
 ---
@@ -355,7 +355,7 @@ You learned "verb at position 2". In spoken German, the verb jumps to position 1
 | I mean... | **Ich mein...** / **Also...** | Clarifying what you said |
 | How do you say...? | **Wie sagt man noch mal...?** | Looking for a word |
 | How do you call this? | **Wie heißt das noch mal?** | Don't know a word |
-| What does this mean? | **Was heißt das?** (Was bedeutet das?) | Don't understand a word — heißen is the spoken one |
+| What does this mean? | **Was heißt das?** (Was bedeutet das?) | Don't understand a word - heißen is the spoken one |
 | Can you repeat that? | **Kannst du das noch mal sagen?** | Didn't catch it |
 | Can you speak slower? | **Kannst du bitte langsamer sprechen?** | Too fast |
 | I don't understand. | **Ich versteh das nicht.** / **Ich kapier das nicht.** (kapieren = very common spoken) | Don't understand |
@@ -364,7 +364,7 @@ You learned "verb at position 2". In spoken German, the verb jumps to position 1
 | Like this. | **So.** / **Einfach so.** | Demonstrating |
 | Wait a moment. | **Moment mal!** / **Warte kurz!** | Need a moment |
 | The thing is... / You see... | **Nämlich...** | Explaining the reason (goes AFTER the verb) |
-| Thanks for the info. | **Danke für die Info!** (Danke für die Auskunft.) | After someone explains something — Info is the daily word |
+| Thanks for the info. | **Danke für die Info!** (Danke für die Auskunft.) | After someone explains something - Info is the daily word |
 
 **"Nämlich" - the secret weapon for explanations:**
 
@@ -378,7 +378,7 @@ You learned "verb at position 2". In spoken German, the verb jumps to position 1
     - "Wie sagt man auf Deutsch 'to be honest'?" (How do you say 'to be honest' in German?)
     - "Ehrlich gesagt." (To be honest.)
     - "Wie bitte? Kannst du das noch mal sagen?" (Excuse me? Can you say that again?)
-    - "Ehr-lich ge-sagt." (To be honest. — spoken slowly)
+    - "Ehr-lich ge-sagt." (To be honest. - spoken slowly)
 
 ---
 
@@ -392,10 +392,10 @@ You learned "verb at position 2". In spoken German, the verb jumps to position 1
 | I'm thirsty. | **Ich hab Durst.** | Thirsty |
 | I'm cold. | **Mir ist kalt.** / **Ich friere.** | Cold |
 | I'm warm. | **Mir ist warm.** / **Mir ist heiß.** | Warm |
-| I'm bored. | **Mir ist langweilig.** (Ich langweile mich.) | Bored — mir ist langweilig is the natural one |
+| I'm bored. | **Mir ist langweilig.** (Ich langweile mich.) | Bored - mir ist langweilig is the natural one |
 | I'm stressed. | **Ich hab viel Stress.** / **Ich bin im Stress.** | Stressed |
 | I'm relaxed. | **Ich bin entspannt.** | Relaxed |
-| I have no time. | **Ich hab grad keine Zeit.** (Ich habe keine Zeit.) | Busy — grad = gerade |
+| I have no time. | **Ich hab grad keine Zeit.** (Ich habe keine Zeit.) | Busy - grad = gerade |
 | I have time. | **Ich hab Zeit.** | Free |
 | It doesn't matter. | **Egal.** / **Macht nichts.** | Not important |
 | Whatever. | **Egal.** / **Ist mir egal.** | Don't care |
@@ -425,11 +425,11 @@ You learned "verb at position 2". In spoken German, the verb jumps to position 1
 | Let's do something! | **Lass uns was unternehmen!** (etwas → was) | Suggesting activity |
 | What are you doing tonight? | **Was machst du heute Abend?** / **Hast du heute Abend was vor?** | Asking plans |
 | I'm free tomorrow. | **Morgen hab ich frei.** | Available |
-| I'm busy. | **Hab grad keine Zeit.** (Ich bin beschäftigt.) | Not available — beschäftigt sounds stiff in daily talk |
+| I'm busy. | **Hab grad keine Zeit.** (Ich bin beschäftigt.) | Not available - beschäftigt sounds stiff in daily talk |
 | See you! | **Bis bald!** / **Bis dann!** | Leaving |
 | Call me! | **Ruf mich mal an!** | Stay in touch |
 | Text me! | **Schreib mir mal!** | Send a message |
-| Let's meet at... | **Sollen wir uns bei... treffen?** (Lass uns uns bei... treffen.) | Setting a meeting point — the question form is more natural |
+| Let's meet at... | **Sollen wir uns bei... treffen?** (Lass uns uns bei... treffen.) | Setting a meeting point - the question form is more natural |
 | I'll be there. | **Ich bin dabei!** / **Ich komm!** | Confirming attendance |
 | I can't make it. | **Ich schaff's nicht.** / **Ich kann leider nicht.** | Cancelling |
 
@@ -441,7 +441,7 @@ You learned "verb at position 2". In spoken German, the verb jumps to position 1
 |---------|--------|-----------------|
 | I'm happy. | **Ich bin glücklich.** / **Ich freu mich!** | Happy |
 | I'm sad. | **Ich bin traurig.** / **Ich bin down.** (down is used in German) | Sad |
-| I'm angry. | **Ich bin sauer.** (Ich bin wütend.) | Angry — sauer is THE daily word |
+| I'm angry. | **Ich bin sauer.** (Ich bin wütend.) | Angry - sauer is THE daily word |
 | I'm worried. | **Ich mach mir Sorgen.** / **Ich mach mir Gedanken.** | Worried |
 | I'm nervous. | **Ich bin nervös.** / **Ich bin total aufgeregt.** | Nervous |
 | I'm proud of you. | **Ich bin stolz auf dich.** | Proud |
@@ -462,11 +462,11 @@ You learned "verb at position 2". In spoken German, the verb jumps to position 1
 | I'm on a call. | **Ich bin grad am Telefon.** | Busy on phone |
 | Can we talk? | **Hast du kurz Zeit?** / **Können wir kurz reden?** | Need to discuss |
 | I'm on vacation. | **Ich hab Urlaub.** / **Ich bin im Urlaub.** | Out of office |
-| I'm working from home. | **Ich arbeite im Homeoffice.** (Ich arbeite von zu Hause.) | Remote work — Homeoffice is the daily word |
+| I'm working from home. | **Ich arbeite im Homeoffice.** (Ich arbeite von zu Hause.) | Remote work - Homeoffice is the daily word |
 | I have a deadline. | **Ich hab eine Deadline.** / **Ich muss das bis Freitag fertig haben.** | Urgent work |
-| Let's discuss this later. | **Sprechen wir später drüber.** (Lass uns das später besprechen.) | Postpone discussion — drüber = darüber |
-| I don't have access. | **Ich hab keinen Zugriff.** (Ich habe keinen Zugang.) | Technical issue — Zugriff is the IT word |
-| That's not my responsibility. | **Da bin ich nicht zuständig.** (Das ist nicht meine Verantwortung.) | Not my job — zuständig is the natural one |
+| Let's discuss this later. | **Sprechen wir später drüber.** (Lass uns das später besprechen.) | Postpone discussion - drüber = darüber |
+| I don't have access. | **Ich hab keinen Zugriff.** (Ich habe keinen Zugang.) | Technical issue - Zugriff is the IT word |
+| That's not my responsibility. | **Da bin ich nicht zuständig.** (Das ist nicht meine Verantwortung.) | Not my job - zuständig is the natural one |
 
 ---
 
@@ -480,7 +480,7 @@ You learned "verb at position 2". In spoken German, the verb jumps to position 1
 | I'll call back later. | **Ich ruf später noch mal an.** | Call later |
 | The connection is bad. | **Ich hör dich schlecht.** (Die Verbindung ist schlecht.) | Bad signal |
 | Can you hear me? | **Hörst du mich?** | Checking connection |
-| Goodbye on phone. | **Tschüss!** / **Bis dann!** (Auf Wiederhören!) | Ending the call — people just say Tschüss |
+| Goodbye on phone. | **Tschüss!** / **Bis dann!** (Auf Wiederhören!) | Ending the call - people just say Tschüss |
 
 ---
 
@@ -488,16 +488,16 @@ You learned "verb at position 2". In spoken German, the verb jumps to position 1
 
 | English | German (say this) | When you use it |
 |---------|--------|-----------------|
-| What can I offer you? | **Was darf's sein?** (Was kann ich Ihnen anbieten?) | Waiter asking — the classic |
+| What can I offer you? | **Was darf's sein?** (Was kann ich Ihnen anbieten?) | Waiter asking - the classic |
 | What do you think? | **Was meinst du?** / **Wie findest du's?** | Asking opinion |
 | That sounds good! | **Klingt gut!** (Das klingt gut!) | Agreeing to a suggestion |
 | I hope you like red wine. | **Ich hoffe, du magst Rotwein.** | Offering drinks |
 | Gratinated sounds good. | **Überbacken klingt gut.** | Choosing a dish |
 | Definitely good! | **Auf jeden Fall!** / **Ganz bestimmt!** | Confirming something is good |
-| Cheers! | **Prost!** (Zum Wohl!) | Toasting — Prost is what everyone says |
-| I'll have... | **Ich nehm...** (Ich hätte gern...) | Ordering — "ich nehm" is the waiter answer |
+| Cheers! | **Prost!** (Zum Wohl!) | Toasting - Prost is what everyone says |
+| I'll have... | **Ich nehm...** (Ich hätte gern...) | Ordering - "ich nehm" is the waiter answer |
 | Can I see the menu? | **Kann ich die Karte haben?** (die Speisekarte → die Karte) | Asking for menu |
-| The bill, please. | **Zahlen, bitte!** (Die Rechnung, bitte.) | Paying — "zahlen" is the daily word |
+| The bill, please. | **Zahlen, bitte!** (Die Rechnung, bitte.) | Paying - "zahlen" is the daily word |
 
 !!! example "Example conversation at a party"
     - "Ihr Freund Ahmed hat Sie zu seiner Party eingeladen." (Your friend Ahmed invited you to his party.)
@@ -519,7 +519,7 @@ You learned "verb at position 2". In spoken German, the verb jumps to position 1
 | I didn't know that. | **Das wusst ich gar nicht.** | Surprise |
 | You're welcome. | **Kein Problem!** / **Gern!** (Nicht zu danken!) | After someone thanks you |
 | Show me! | **Zeig mal!** (Zeig mir das!) | Asking to see something |
-| Where does this belong? | **Wo gehört das hin?** (Wohin gehört das?) | Asking where something goes — the natural word order |
+| Where does this belong? | **Wo gehört das hin?** (Wohin gehört das?) | Asking where something goes - the natural word order |
 | Put it here. | **Leg's hier hin.** / **Stell's hierher.** | Telling someone to place something |
 | With what? | **Womit?** | Asking with what tool |
 | Go there. | **Geh da hin.** / **Da lang.** (Gehen Sie dort hin.) | Directing someone |
@@ -535,17 +535,17 @@ You learned "verb at position 2". In spoken German, the verb jumps to position 1
 
 !!! example "The daily trio (say these together!) - wegen + nicht mehr + da ... hin"
     - Ich wohne **nicht mehr** in Berlin, **wegen** der Arbeit. (I don't live in Berlin anymore, because of work.)
-    - Brauchst du **da** noch **hin**? — Nein, ich muss **nicht mehr** hin. (Do you still need to go there? — No, I don't need to go anymore.)
+    - Brauchst du **da** noch **hin**? - Nein, ich muss **nicht mehr** hin. (Do you still need to go there? - No, I don't need to go anymore.)
     - Wir gehen **wegen** dem Tim zum Kindergarten, und danach **da** auch **hin**. (We go to the kindergarten because of Tim, and afterwards there too.)
 
-**Da = the word with many jobs (don't translate it 1:1 — it depends on context!)** depends on context!)
+**Da = the word with many jobs (don't translate it 1:1 - it depends on context!)** depends on context!)
 
 | Job | Meaning | Example | 
 |---|---|---|
 | place | there | Da ist mein Buch. (My book is THERE.) · Er ist nicht da. (He's not there/here.) |
 | time | then / at that moment | **Da** war ich noch jung. (I was still young THEN.) · **Da** hab ich gelacht! (I laughed at THAT point!) |
 | reason | because / since | **Da** es regnet, bleibe ich zu Hause. (BECAUSE it rains, I stay home.) |
-| pointing | there it is / here! | **Da!** / **Da ist er!** (There he is!) — the word you say when you point |
+| pointing | there it is / here! | **Da!** / **Da ist er!** (There he is!) - the word you say when you point |
 
 **The da-compounds (da + preposition = "that/it"):**
 
@@ -768,4 +768,4 @@ Zum Glück!                = Luckily!
 !!! success "How to memorize"
     Pick 5 phrases per day, say them OUT LOUD with the **spoken** form until automatic, then add 5 more. Book is reference, speaking is muscle.
 
-> **How to use this file:** Pick 5 phrases per day. Say them OUT LOUD — with the spoken form, not the textbook form. Use them in conversation with me during practice sessions. The goal is not to memorize all 180 phrases at once - it's to use 5 until they come out automatically, then add 5 more.
+> **How to use this file:** Pick 5 phrases per day. Say them OUT LOUD - with the spoken form, not the textbook form. Use them in conversation with me during practice sessions. The goal is not to memorize all 180 phrases at once - it's to use 5 until they come out automatically, then add 5 more.
