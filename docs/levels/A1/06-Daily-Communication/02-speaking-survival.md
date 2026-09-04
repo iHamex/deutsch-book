@@ -48,29 +48,29 @@ in the whole exam - memorize your script cold.
 
 The examiner may ask any of these. Know every answer cold.
 
-| Question | Your answer |
-|---|---|
-| Wie heißen Sie? | Ich heiße Hamed Okhovvat. |
-| Wie alt sind Sie? | Ich bin 40 Jahre alt. |
-| Woher kommen Sie? | Ich komme aus dem Iran. |
-| Wann haben Sie Geburtstag? | Mein Geburtstag ist am 21. September 1985. |
-| Wo wohnen Sie? | Ich wohne in der Erika-Mann-Straße 12, in München. |
-| Wie ist Ihre Adresse? | Erika-Mann-Straße 12, 80636 München. |
-| Was sind Sie von Beruf? | Ich bin Softwareentwickler bei Check24. |
-| Wo arbeiten Sie? | Ich arbeite bei Check24. |
-| Wie kommen Sie zur Arbeit? | Ich laufe 15 Minuten und dann nehme ich die S-Bahn. |
-| Sind Sie verheiratet? | Ja, ich bin seit 5 Jahren verheiratet. Meine Frau heißt Melika. |
-| Haben Sie Kinder? | Nein, ich habe keine Kinder. |
-| Was machen Sie in der Freizeit? | In meiner Freizeit lese ich Bücher, spiele Computerspiele, und im Winter fahre ich Ski. |
-| Was essen Sie gern? | Ich esse gern Kebab und Reis. |
-| Was trinken Sie gern? | Ich trinke gern Red Bull und Adelholzener. |
-| Trinken Sie auch Kaffee? | Ja, immer. Aber am Morgen trinke ich Kaffee. |
-| Sprechen Sie andere Sprachen? | Ja, meine Muttersprache ist Persisch, und ich spreche Englisch sehr gut. Deutsch spreche ich nur ein bisschen. |
-| Wie lange lernen Sie schon Deutsch? | Ich lerne Deutsch seit zwei Wochen. |
-| Was machen Sie am Wochenende? | Am Wochenende entspanne ich mich. |
-| Was kochen Sie gern? | Ich koche nicht, aber meine Frau kocht sehr gut! |
-| Mogen Sie Musik? | Ja, ich mag Musik. Ich hore ruhige Musik, aber manchmal auch Techno und Rock. |
-| Treiben Sie Sport? | Mein Lieblingssport ist Fitness-Training, und im Winter fahre ich Ski. |
+| Question | Your answer | English |
+| --- | --- | --- |
+| Wie heißen Sie? | Ich heiße Hamed Okhovvat. | My name is Hamed Okhovvat. |
+| Wie alt sind Sie? | Ich bin 40 Jahre alt. | I am 40 years old. |
+| Woher kommen Sie? | Ich komme aus dem Iran. | I come from Iran. |
+| Wann haben Sie Geburtstag? | Mein Geburtstag ist am 21. September 1985. | My birthday is on September 21, 1985. |
+| Wo wohnen Sie? | Ich wohne in der Erika-Mann-Straße 12, in München. | I live at Erika-Mann-Strasse 12 in Munich. |
+| Wie ist Ihre Adresse? | Erika-Mann-Straße 12, 80636 München. | Erika-Mann-Strasse 12, 80636 Munich. |
+| Was sind Sie von Beruf? | Ich bin Softwareentwickler bei Check24. | I am a software developer at Check24. |
+| Wo arbeiten Sie? | Ich arbeite bei Check24. | I work at Check24. |
+| Wie kommen Sie zur Arbeit? | Ich laufe 15 Minuten und dann nehme ich die S-Bahn. | I walk 15 minutes, then I take the S-Bahn. |
+| Sind Sie verheiratet? | Ja, ich bin seit 5 Jahren verheiratet. Meine Frau heißt Melika. | Yes, I have been married for 5 years. My wife is called Melika. |
+| Haben Sie Kinder? | Nein, ich habe keine Kinder. | No, I have no children. |
+| Was machen Sie in der Freizeit? | In meiner Freizeit lese ich Bücher, spiele Computerspiele, und im Winter fahre ich Ski. | In my free time I read books, play computer games, and in winter I ski. |
+| Was essen Sie gern? | Ich esse gern Kebab und Reis. | I like eating kebab and rice. |
+| Was trinken Sie gern? | Ich trinke gern Red Bull und Adelholzener. | I like drinking Red Bull and Adelholzener. |
+| Trinken Sie auch Kaffee? | Ja, immer. Aber am Morgen trinke ich Kaffee. | Yes, always. But in the morning I drink coffee. |
+| Sprechen Sie andere Sprachen? | Ja, meine Muttersprache ist Persisch, und ich spreche Englisch sehr gut. Deutsch spreche ich nur ein bisschen. | Yes, my mother tongue is Persian, and I speak English very well. I only speak a little German. |
+| Wie lange lernen Sie schon Deutsch? | Ich lerne Deutsch seit zwei Wochen. | I have been learning German for two weeks. |
+| Was machen Sie am Wochenende? | Am Wochenende entspanne ich mich. | At the weekend I relax. |
+| Was kochen Sie gern? | Ich koche nicht, aber meine Frau kocht sehr gut! | I don’t cook, but my wife cooks very well! |
+| Mogen Sie Musik? | Ja, ich mag Musik. Ich hore ruhige Musik, aber manchmal auch Techno und Rock. | Yes, I like music. I listen to calm music, but sometimes techno and rock too. |
+| Treiben Sie Sport? | Mein Lieblingssport ist Fitness-Training, und im Winter fahre ich Ski. | My favourite sport is fitness training, and in winter I ski. |
 
 ### Extended work story (if they ask about your career)
 
@@ -211,22 +211,22 @@ slot, and ask.
 
 ### The 4 real official test questions (know these cold)
 
-| Question | Answer pattern |
-|---|---|
-| Wie viel kostet das Buch? | Es kostet 16,95 Euro. |
-| Was ist die Hausaufgabe? | Die Hausaufgabe ist Ubung 9 auf Seite 13. |
-| Wie lange leben Sie schon in Frankfurt? | Seit 2 Jahren. |
-| Wann fährt der nächste Zug nach München? | Er fährt um 11:15 Uhr. |
+| Question | Answer pattern | English |
+| --- | --- | --- |
+| Wie viel kostet das Buch? | Es kostet 16,95 Euro. | It costs 16.95 euros. |
+| Was ist die Hausaufgabe? | Die Hausaufgabe ist Ubung 9 auf Seite 13. | The homework is exercise 9 on page 13. |
+| Wie lange leben Sie schon in Frankfurt? | Seit 2 Jahren. | For 2 years. |
+| Wann fährt der nächste Zug nach München? | Er fährt um 11:15 Uhr. | It leaves at 11:15. |
 
 ### Yes/No question formulas (alternative to W-questions)
 
-| Skeleton | Example |
-|---|---|
-| Haben Sie ___? | Haben Sie Kinder? |
-| Mochten Sie ___? | Mochten Sie einen Kaffee? |
-| Sind Sie ___? | Sind Sie verheiratet? |
-| Kochen Sie gern? | Kochen Sie gern? |
-| Treiben Sie Sport? | Treiben Sie Sport? |
+| Skeleton | Example | English |
+| --- | --- | --- |
+| Haben Sie ___? | Haben Sie Kinder? | Do you have children? |
+| Mochten Sie ___? | Mochten Sie einen Kaffee? | Would you like a coffee? |
+| Sind Sie ___? | Sind Sie verheiratet? | Are you married? |
+| Kochen Sie gern? | Kochen Sie gern? | Do you like cooking? |
+| Treiben Sie Sport? | Treiben Sie Sport? | Do you do sports? |
 
 ### Your answer formula
 
@@ -249,41 +249,41 @@ Then it is their turn. 2 rounds.
 
 ### Bitte (request) - the most common pattern
 
-| Formula | Example |
-|---|---|
-| [Thing] + bitte! | Ein Glas Wasser, bitte! |
-| Konnte ich bitte + [thing] + haben? | Konnte ich bitte einen Kaffee haben? |
-| Ich möchte bitte + [thing]. | Ich möchte bitte ein Stück Kuchen. |
-| Kannst du mir bitte + [verb]? | Kannst du mir bitte helfen? |
-| Können Sie mir bitte + [verb at END]? | Können Sie mir bitte die Speisekarte bringen? |
-| Können Sie mir bitte + [thing] + zeigen? | Können Sie mir bitte den Weg zeigen? |
+| Formula | Example | English |
+| --- | --- | --- |
+| [Thing] + bitte! | Ein Glas Wasser, bitte! | A glass of water, please! |
+| Konnte ich bitte + [thing] + haben? | Konnte ich bitte einen Kaffee haben? | Could I please have a coffee? |
+| Ich möchte bitte + [thing]. | Ich möchte bitte ein Stück Kuchen. | I would like a piece of cake, please. |
+| Kannst du mir bitte + [verb]? | Kannst du mir bitte helfen? | Can you please help me? |
+| Können Sie mir bitte + [verb at END]? | Können Sie mir bitte die Speisekarte bringen? | Can you please bring me the menu? |
+| Können Sie mir bitte + [thing] + zeigen? | Können Sie mir bitte den Weg zeigen? | Can you please show me the way? |
 
 ### Vorschlag (suggestion)
 
-| Formula | Example |
-|---|---|
-| Lass uns + [activity]! | Lass uns Obst essen! / Lass uns spazieren gehen! |
-| Wir konnen + [activity]. | Wir konnen ins Kino gehen. |
-| Wir treffen uns + [time/place]. | Wir treffen uns am Montag um 15 Uhr. |
+| Formula | Example | English |
+| --- | --- | --- |
+| Lass uns + [activity]! | Lass uns Obst essen! / Lass uns spazieren gehen! | Let’s eat fruit! / Let’s go for a walk! |
+| Wir konnen + [activity]. | Wir konnen ins Kino gehen. | We can go to the cinema. |
+| Wir treffen uns + [time/place]. | Wir treffen uns am Montag um 15 Uhr. | We meet on Monday at 3 p.m. |
 
 ### Angebot (offer)
 
-| Formula | Example |
-|---|---|
-| Mochtest du + [thing]? | Mochtest du einen Kaffee? |
-| Soll ich + [activity]? | Soll ich dir helfen? |
-| Ich kann + [activity] + für dich. | Ich kann das für dich machen. |
+| Formula | Example | English |
+| --- | --- | --- |
+| Mochtest du + [thing]? | Mochtest du einen Kaffee? | Would you like a coffee? |
+| Soll ich + [activity]? | Soll ich dir helfen? | Should I help you? |
+| Ich kann + [activity] + für dich. | Ich kann das für dich machen. | I can do that for you. |
 
 ### ALL reactions (when your partner asks YOU)
 
-| Situation | React with |
-|---|---|
-| Yes to a request | Ja, naturlich. Hier, bitte. / Ja, gerne! / Kein Problem! |
-| No to a request | Tut mir leid, ich habe keins. / Tut mir leid, das geht nicht. |
-| Yes to a suggestion | Gute Idee! / Ja, gerne. Ich habe Hunger. |
-| Yes to an offer | Ja, danke! Das ist sehr nett. / Ja, bitte! |
-| No to an offer | Nein, danke. / Danke, ich habe schon. |
-| You do not understand | Entschuldigung, konnen Sie das bitte wiederholen? |
+| Situation | React with | English |
+| --- | --- | --- |
+| Yes to a request | Ja, naturlich. Hier, bitte. / Ja, gerne! / Kein Problem! | Yes, of course. Here you are! / Yes, gladly! / No problem! |
+| No to a request | Tut mir leid, ich habe keins. / Tut mir leid, das geht nicht. | I’m sorry, I don’t have any. / I’m sorry, that doesn’t work. |
+| Yes to a suggestion | Gute Idee! / Ja, gerne. Ich habe Hunger. | Good idea! / Yes, gladly. I am hungry. |
+| Yes to an offer | Ja, danke! Das ist sehr nett. / Ja, bitte! | Yes, thanks! That is very nice. / Yes, please! |
+| No to an offer | Nein, danke. / Danke, ich habe schon. | No, thanks. / Thanks, I already have. |
+| You do not understand | Entschuldigung, konnen Sie das bitte wiederholen? | Excuse me, can you please repeat that? |
 
 ### Teil 3 - Full practice cards (simulate the exam)
 
@@ -337,11 +337,11 @@ communicating in German.
 
 ### When the examiner corrects you
 
-| Situation | You say |
-|---|---|
-| They correct your grammar | Ja, danke! + repeat the correct version |
-| They ask you to repeat | Ja, gerne! + repeat clearly |
-| They ask "Noch einmal?" | Okay! + repeat |
+| Situation | You say | English |
+| --- | --- | --- |
+| They correct your grammar | Ja, danke! + repeat the correct version | Yes, thanks! + repeat the correct version. |
+| They ask you to repeat | Ja, gerne! + repeat clearly | Yes, gladly! + repeat clearly. |
+| They ask "Noch einmal?" | Okay! + repeat | Okay! + repeat. |
 
 **Golden rule:** NEVER LEAVE A BOX EMPTY. A guess in German earns points. Silence
 earns zero. Even "Also, ich glaube, es ist Montag" is better than nothing.
@@ -409,19 +409,19 @@ before the exam.
 
 Memorize these. They are worth points by themselves.
 
-| Situation | You say |
-|---|---|
-| Any wish (Gute Reise, Gute Besserung, Schones Wochenende) | **Gleichfalls!** |
-| On the phone (ending) | **Auf Wiederhören** (NOT Wiedersehen) |
-| To "Danke schon" | **Bitte schon!** / **Gern geschehen!** |
-| Yes to a request | **Ja, gerne!** / **Ja, naturlich!** |
-| No to a request | **Tut mir leid, ich habe keins.** |
-| You accept an offer | **Ja, danke! Das ist sehr nett.** |
-| You decline an offer | **Nein, danke.** / **Danke, ich habe schon.** |
-| You need something | **Können Sie mir bitte helfen?** |
-| You do not understand | **Wie bitte?** |
-| You agree with a suggestion | **Gute Idee!** |
-| You want to leave politely | **Vielen Dank! Auf Wiedersehen!** |
+| Situation | You say | English |
+| --- | --- | --- |
+| Any wish (Gute Reise, Gute Besserung, Schones Wochenende) | **Gleichfalls!** | Likewise! |
+| On the phone (ending) | **Auf Wiederhören** (NOT Wiedersehen) | Goodbye on the phone. |
+| To "Danke schon" | **Bitte schon!** / **Gern geschehen!** | You are welcome! |
+| Yes to a request | **Ja, gerne!** / **Ja, naturlich!** | Yes, gladly! |
+| No to a request | **Tut mir leid, ich habe keins.** | I am sorry, I don’t have any. |
+| You accept an offer | **Ja, danke! Das ist sehr nett.** | Yes, thanks! That is very nice. |
+| You decline an offer | **Nein, danke.** / **Danke, ich habe schon.** | No, thanks. |
+| You need something | **Können Sie mir bitte helfen?** | Can you please help me? |
+| You do not understand | **Wie bitte?** | Pardon? |
+| You agree with a suggestion | **Gute Idee!** | Good idea! |
+| You want to leave politely | **Vielen Dank! Auf Wiedersehen!** | Thank you! Goodbye! |
 
 ---
 
@@ -449,35 +449,35 @@ Memorize these. They are worth points by themselves.
 
     Verb first, then subject:
 
-    | Pattern | Statement | Question |
-    |---|---|---|
-    | Regular verb | Er wohnt in Berlin. | Wohnt er in Berlin? |
-    | Modal verb | Du kannst gut schwimmen. | Kannst du gut schwimmen? |
-    | Separable verb | Du kaufst heute ein. | Kaufst du heute ein? |
+    | Pattern | Statement | Question | English |
+    | --- | --- | --- | --- |
+    | Regular verb | Er wohnt in Berlin. | Wohnt er in Berlin? | Does he live in Berlin? |
+    | Modal verb | Du kannst gut schwimmen. | Kannst du gut schwimmen? | Can you swim well? |
+    | Separable verb | Du kaufst heute ein. | Kaufst du heute ein? | Are you shopping today? |
 
 === "3. Welche / Was für + noun"
 
-    | Pattern | Example |
-    |---|---|
-    | Welche + noun | Welche Sprache lernen Sie? |
-    | Welche + noun | Welche Größe haben Sie? |
-    | Was für + noun | Was für ein Auto haben Sie? |
+    | Pattern | Example | English |
+    | --- | --- | --- |
+    | Welche + noun | Welche Sprache lernen Sie? | Which language do you learn? |
+    | Welche + noun | Welche Größe haben Sie? | Which size do you have? |
+    | Was für + noun | Was für ein Auto haben Sie? | What kind of car do you have? |
 
 === "4. Requests (Teil 3)"
 
-    | Situation | Request |
-    |---|---|
-    | general help | Können Sie mir bitte helfen? |
-    | restaurant | Können Sie mir bitte die Speisekarte bringen? |
-    | directions | Können Sie mir bitte den Weg zeigen? |
+    | Situation | Request | English |
+    | --- | --- | --- |
+    | general help | Können Sie mir bitte helfen? | Can you please help me? |
+    | restaurant | Können Sie mir bitte die Speisekarte bringen? | Can you please bring me the menu? |
+    | directions | Können Sie mir bitte den Weg zeigen? | Can you please show me the way? |
 
 === "5. Wissen Sie, wo/wann/wie...?"
 
-    | Topic | Question |
-    |---|---|
-    | place | Wissen Sie, wo der Bahnhof ist? |
-    | time | Wissen Sie, wann das Geschäft öffnet? |
-    | price | Wissen Sie, wie viel das kostet? |
+    | Topic | Question | English |
+    | --- | --- | --- |
+    | place | Wissen Sie, wo der Bahnhof ist? | Do you know where the station is? |
+    | time | Wissen Sie, wann das Geschäft öffnet? | Do you know when the shop opens? |
+    | price | Wissen Sie, wie viel das kostet? | Do you know how much that costs? |
 
 ### Question starters by topic
 

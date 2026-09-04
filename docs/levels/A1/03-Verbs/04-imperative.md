@@ -11,67 +11,67 @@
 
 === "du"
 
-    | Verb | du command | Note |
-    | --- | --- | --- |
-    | sein | Sei ruhig! | irregular |
-    | haben | Hab Geduld! | irregular |
-    | kommen | Komm! / Komme! | -e optional |
-    | machen | Mach das! | drop -en |
-    | fahren | Fahr vorsichtig! | |
-    | lesen | Lies laut! | e → ie |
-    | sehen | Sieh hin! | e → ie |
-    | geben | Gib mir das! | e → i |
-    | nehmen | Nimm Platz! | e → i |
-    | essen | Iss dein Brot! | e → i |
-    | trinken | Trink Wasser! | |
-    | sprechen | Sprich Deutsch! | e → i |
-    | helfen | Hilf mir! | e → i (stem hilf) |
+    | Verb | du command | Note | English |
+    | --- | --- | --- | --- |
+    | sein | Sei ruhig! | irregular | Be quiet! |
+    | haben | Hab Geduld! | irregular | Have patience! |
+    | kommen | Komm! / Komme! | -e optional | Come! |
+    | machen | Mach das! | drop -en | Do that! |
+    | fahren | Fahr vorsichtig! |  | Drive carefully! |
+    | lesen | Lies laut! | e → ie | Read aloud! |
+    | sehen | Sieh hin! | e → ie | Look! |
+    | geben | Gib mir das! | e → i | Give me that! |
+    | nehmen | Nimm Platz! | e → i | Take a seat! |
+    | essen | Iss dein Brot! | e → i | Eat your bread! |
+    | trinken | Trink Wasser! |  | Drink water! |
+    | sprechen | Sprich Deutsch! | e → i | Speak German! |
+    | helfen | Hilf mir! | e → i (stem hilf) | Help me! |
 
 === "ihr"
 
-    | Verb | ihr command |
-    | --- | --- |
-    | sein | Seid pünktlich! |
-    | haben | Habt Mut! |
-    | kommen | Kommt schnell! |
-    | machen | Macht die Tür auf! |
-    | fahren | Fahrt nach Hause! |
-    | lesen | Lest den Text! |
-    | sehen | Seht den Film! |
-    | geben | Gebt das zurück! |
-    | nehmen | Nehmt den Bus! |
-    | essen | Esst das! |
-    | trinken | Trinkt Saft! |
-    | sprechen | Sprecht leise! |
-    | helfen | Helft uns! |
+    | Verb | ihr command | English |
+    | --- | --- | --- |
+    | sein | Seid pünktlich! | Be on time! |
+    | haben | Habt Mut! | Be brave! |
+    | kommen | Kommt schnell! | Come quickly! |
+    | machen | Macht die Tür auf! | Open the door! |
+    | fahren | Fahrt nach Hause! | Drive home! |
+    | lesen | Lest den Text! | Read the text! |
+    | sehen | Seht den Film! | Watch the film! |
+    | geben | Gebt das zurück! | Give that back! |
+    | nehmen | Nehmt den Bus! | Take the bus! |
+    | essen | Esst das! | Eat that! |
+    | trinken | Trinkt Saft! | Drink juice! |
+    | sprechen | Sprecht leise! | Speak quietly! |
+    | helfen | Helft uns! | Help us! |
 
 === "Sie (formal)"
 
-    | Verb | Sie command |
-    | --- | --- |
-    | sein | Seien Sie willkommen! |
-    | haben | Haben Sie Platz! |
-    | kommen | Kommen Sie herein! |
-    | machen | Machen Sie das! |
-    | fahren | Fahren Sie vorsichtig! |
-    | lesen | Lesen Sie vor! |
-    | sehen | Sehen Sie das? |
-    | geben | Geben Sie mir das! |
-    | nehmen | Nehmen Sie Platz! |
-    | essen | Essen Sie! |
-    | trinken | Trinken Sie Kaffee! |
-    | sprechen | Sprechen Sie lauter! |
-    | helfen | Helfen Sie mir! |
+    | Verb | Sie command | English |
+    | --- | --- | --- |
+    | sein | Seien Sie willkommen! | Be welcome! |
+    | haben | Haben Sie Platz! | Have a seat! |
+    | kommen | Kommen Sie herein! | Come in! |
+    | machen | Machen Sie das! | Do that! |
+    | fahren | Fahren Sie vorsichtig! | Drive carefully! |
+    | lesen | Lesen Sie vor! | Read aloud! |
+    | sehen | Sehen Sie das? | Do you see that? |
+    | geben | Geben Sie mir das! | Give me that! |
+    | nehmen | Nehmen Sie Platz! | Take a seat! |
+    | essen | Essen Sie! | Eat! |
+    | trinken | Trinken Sie Kaffee! | Drink coffee! |
+    | sprechen | Sprechen Sie lauter! | Speak louder! |
+    | helfen | Helfen Sie mir! | Help me! |
 
 ## Separable verbs - prefix jumps to the END
-| Verb | du | Sie |
-| --- | --- | --- |
-| aufstehen | Steh auf! | Stehen Sie auf! |
-| anrufen | Ruf mich an! | Rufen Sie mich an! |
-| ausgehen | Geh aus! | Gehen Sie aus! |
-| anziehen | Zieh dich an! | Ziehen Sie sich an! |
-| aufräumen | Räum auf! | Räumen Sie auf! |
-| einkaufen | Kauf ein! | Kaufen Sie ein! |
+| Verb | du | Sie | English |
+| --- | --- | --- | --- |
+| aufstehen | Steh auf! | Stehen Sie auf! | Get up! |
+| anrufen | Ruf mich an! | Rufen Sie mich an! | Call me! |
+| ausgehen | Geh aus! | Gehen Sie aus! | Go out! |
+| anziehen | Zieh dich an! | Ziehen Sie sich an! | Get dressed! |
+| aufräumen | Räum auf! | Räumen Sie auf! | Tidy up! |
+| einkaufen | Kauf ein! | Kaufen Sie ein! | Go shopping! |
 
 !!! warning "du vs Sie"
     `Komm!` (du) vs `Kommen Sie!` (Sie) - formal always infinitive + Sie.

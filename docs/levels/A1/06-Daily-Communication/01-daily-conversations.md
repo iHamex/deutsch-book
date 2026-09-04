@@ -99,15 +99,15 @@ German spoken daily is shorter than written German. Five changes make you sound 
 
 ### Rule 3: Shorten the small words
 
-| Textbook | Spoken | Example |
-|---|---|---|
-| etwas | **was** | Ich möchte **was** essen. (I'd like something to eat.) |
-| ein bisschen | **bisschen** | Ich bin **bisschen** müde. (I'm a little tired.) |
-| einmal | **mal** | Komm **mal** her! (Come here once/real quick!) |
-| eine | **'ne** | Ich schick dir **'ne** Mail. (I'll send you a mail.) |
-| gerade | **grad** | Ich hab **grad** keine Zeit. (I have no time right now.) |
-| nach Hause | **heim** | Ich geh **heim**. (I'm going home.) |
-| haben wir | **ham wa** | **Ham wa** Zeit? (Do we have time?) |
+| Textbook | Spoken | Example | English |
+| --- | --- | --- | --- |
+| etwas | **was** | Ich möchte **was** essen. | I'd like something to eat. |
+| ein bisschen | **bisschen** | Ich bin **bisschen** müde. | I'm a little tired. |
+| einmal | **mal** | Komm **mal** her! | Come here! |
+| eine | **'ne** | Ich schick dir **'ne** Mail. | I'll send you an email. |
+| gerade | **grad** | Ich hab **grad** keine Zeit. | I have no time right now. |
+| nach Hause | **heim** | Ich geh **heim**. | I'm going home. |
+| haben wir | **ham wa** | **Ham wa** Zeit? | Do we have time? |
 
 
 ---
@@ -548,13 +548,13 @@ You learned "verb at position 2". In spoken German, the verb jumps to position 1
 
 **The da-compounds (da + preposition = "that/it"):**
 
-| Compound | Daily use | Example |
-|---|---|---|
-| dabei | in / on it | Bist du **dabei**? (Are you in?) → **Bin dabei!** |
-| darauf | on it / at it | Ich freue mich **darauf**! (looking forward to it) |
-| davon | of it / about it | Was hältst du **davon**? (What do you think of it?) |
-| drauf | auf + da, spoken | Kommt **drauf** an. (It depends.) |
-| drüber | über + da, spoken | Sprechen wir später **drüber**. (talk about it later) |
+| Compound | Daily use | Example | English |
+| --- | --- | --- | --- |
+| dabei | in / on it | Bist du **dabei**? → **Bin dabei!** | Are you in? - I'm in! |
+| darauf | on it / at it | Ich freue mich **darauf**! | I am looking forward to it! |
+| davon | of it / about it | Was hältst du **davon**? | What do you think of it? |
+| drauf | auf + da, spoken | Kommt **drauf** an. | It depends. |
+| drüber | über + da, spoken | Sprechen wir später **drüber**. | We will talk about it later. |
 
 > **How to tell place vs. time:** if the sentence is about a moment, it's time + then → **Da war ich noch jung.** If it's about a location, it's place → **Das Buch ist da.** Context decides!
 

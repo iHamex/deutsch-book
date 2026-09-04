@@ -134,13 +134,13 @@
 
 "Kennen" these pairs - they love asking with opposites:
 
-| Ask | Hear in answer |
-|-----|----------------|
-| Ist das teuer oder billig? | Es ist günstig. |
-| Ist der Zug schnell oder langsam? | Er ist schnell. |
-| Ist die Wohnung groß oder klein? | Sie ist klein. |
-| Kommen Sie früh oder spät? | Ich komme früh. |
-| Ist der Supermarkt nah oder weit? | Er ist ganz nah. |
+| Ask | Hear in answer | English |
+| --- | --- | --- |
+| Ist das teuer oder billig? | Es ist günstig. | It is affordable. |
+| Ist der Zug schnell oder langsam? | Er ist schnell. | It is fast. |
+| Ist die Wohnung groß oder klein? | Sie ist klein. | It is small. |
+| Kommen Sie früh oder spät? | Ich komme früh. | I come early. |
+| Ist der Supermarkt nah oder weit? | Er ist ganz nah. | It is very close. |
 
 **Pattern to copy:** "Ist das ... oder ...?" - a handy A1 question formula with only two words you know.
 

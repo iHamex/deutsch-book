@@ -8,12 +8,12 @@
 
 | # | File | What you learn | Time |
 |---|---|---|---|
-| 01 | **präteritum.md** (planned) | Full Präteritum: haben/sein/werden, all modals, weak verbs, strong verbs (ging, kam, gab, nahm, sah, fuhr, las, blieb), als + Präteritum stories | 60 min |
-| 02 | **perfekt-deep.md** (planned) | Difficult Perfekt: Mischverben (gebracht, gedacht, gekannt, gewusst), inseparable prefixes (ver-/be-/er-/ent-/miss-/zer-), seit + present vs Perfekt | 45 min |
-| 03 | **plusquamperfekt.md** (planned) | Receptive Plusquamperfekt: hatte/war + Partizip, nachdem + Plusquamperfekt, time order in stories | 30 min |
-| 04 | **futur.md** (planned) | Futur I werden + Infinitiv, Vermutung (Er wird krank sein), promise vs plan | 30 min |
-| 05 | **konjunktiv-II.md** (planned) | Konjunktiv II: hätte/wäre/würde/könnte/müsste/sollte, Wünsche, höfliche Bitten, Ratschläge | 60 min |
-| 06 | **partizipien.md** (planned) | Partizip I/II as adjectives (der lachende Mann, das gekaufte Buch), receptive | 30 min |
+| 01 | [prateritum.md](01-prateritum.md) | Full Präteritum: haben/sein/werden, all modals, weak verbs, strong verbs (ging, kam, gab, nahm, sah, fuhr, las, blieb), als + Präteritum stories | 60 min |
+| 02 | [perfekt-deep.md](02-perfekt-deep.md) | Difficult Perfekt: Mischverben (gebracht, gedacht, gekannt, gewusst), inseparable prefixes (ver-/be-/er-/ent-/miss-/zer-), seit + present vs Perfekt | 45 min |
+| 03 | [plusquamperfekt.md](03-plusquamperfekt.md) | Receptive Plusquamperfekt: hatte/war + Partizip, nachdem + Plusquamperfekt, time order in stories | 30 min |
+| 04 | [futur.md](04-futur.md) | Futur I werden + Infinitiv, Vermutung (Er wird krank sein), promise vs plan | 30 min |
+| 05 | [konjunktiv-II.md](05-konjunktiv-II.md) | Konjunktiv II: hätte/wäre/würde/könnte/müsste/sollte, Wünsche, höfliche Bitten, Ratschläge | 60 min |
+| 06 | [partizipien.md](06-partizipien.md) | Partizip I/II as adjectives (der lachende Mann, das gekaufte Buch), receptive | 30 min |
 
 ---
 

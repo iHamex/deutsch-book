@@ -82,11 +82,11 @@ Anything can be first - subject, time, or a connector. The verb still stays at p
 
 When you have both time and place, time comes before place.
 
-| Subject | Verb | Time | Place | Example |
-|---|---|---|---|---|
-| Ich | lerne | **am Montag** | **in der Schule**. | Ich lerne am Montag in der Schule. |
-| Wir | treffen uns | **um 15 Uhr** | **am Bahnhof**. | Wir treffen uns um 15 Uhr am Bahnhof. |
-| Ich | arbeite | **von 9 bis 17 Uhr** | **im Büro**. | Ich arbeite von 9 bis 17 Uhr im Büro. |
+| Subject | Verb | Time | Place | Example | English |
+| --- | --- | --- | --- | --- | --- |
+| Ich | lerne | **am Montag** | **in der Schule**. | Ich lerne am Montag in der Schule. | I learn at school on Mondays. |
+| Wir | treffen uns | **um 15 Uhr** | **am Bahnhof**. | Wir treffen uns um 15 Uhr am Bahnhof. | We meet at the station at 3 p.m. |
+| Ich | arbeite | **von 9 bis 17 Uhr** | **im Büro**. | Ich arbeite von 9 bis 17 Uhr im Büro. | I work in the office from 9 to 5. |
 
 ---
 
@@ -94,12 +94,12 @@ When you have both time and place, time comes before place.
 
 With a modal verb or Perfekt, the helper is at position 2 and the main verb goes to the END.
 
-| Position 1 | Position 2 (helper) | Middle | End (main verb) | Example |
-|---|---|---|---|---|
-| **Ich** | **möchte** | einen Kaffee | **trinken**. | Ich möchte einen Kaffee trinken. |
-| **Ich** | **habe** | gestern Deutsch | **gelernt**. | Ich habe gestern Deutsch gelernt. |
-| **Ich** | **muss** | heute | **arbeiten**. | Ich muss heute arbeiten. |
-| **Gestern** | **habe** | ich Deutsch | **gelernt**. | Gestern habe ich Deutsch gelernt. |
+| Position 1 | Position 2 (helper) | Middle | End (main verb) | Example | English |
+| --- | --- | --- | --- | --- | --- |
+| **Ich** | **möchte** | einen Kaffee | **trinken**. | Ich möchte einen Kaffee trinken. | I want to drink a coffee. |
+| **Ich** | **habe** | gestern Deutsch | **gelernt**. | Ich habe gestern Deutsch gelernt. | I learned German yesterday. |
+| **Ich** | **muss** | heute | **arbeiten**. | Ich muss heute arbeiten. | I have to work today. |
+| **Gestern** | **habe** | ich Deutsch | **gelernt**. | Gestern habe ich Deutsch gelernt. | Yesterday I learned German. |
 
 !!! tip "With also/dann + modal/past"
     Also **muss ich** heute **arbeiten**. / Dann **habe ich** Deutsch **gelernt**. (also/dann at 1, helper at 2, main verb at end)

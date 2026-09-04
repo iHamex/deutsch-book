@@ -39,6 +39,17 @@ repository. It will NEVER happen again.
 
 ---
 
+## HARD RULE - NEVER shrink content on your own initiative
+
+NEVER reduce the depth, breadth, or example count of any lesson because it feels
+long enough to you. Thin files do not teach. Every lesson must stand alone as a
+complete learning unit: full tables, abundant examples with English translations,
+frames to memorize, and a cheat sheet. The owner - and ONLY the owner - decides
+what stays, what goes, and when a file is complete. If a file looks thin, EXPAND
+it. Never the reverse.
+
+---
+
 Other conventions for editing content live in `.RULES-FORMATTING.md` (repo
 root). Read it before creating or editing any markdown file. The visual
 element standard (which Material element carries which content) lives in

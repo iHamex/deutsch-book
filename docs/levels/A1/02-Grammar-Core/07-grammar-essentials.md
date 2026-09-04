@@ -191,18 +191,18 @@ Your family, your apartment, your work - you can't describe them without these.
 
 ## 6. Question words - the W-words
 
-| W-word | means | example |
-|--------|-------|---------|
-| Wer | who | Wer ist das? |
-| Was | what | Was machen Sie beruflich? |
-| Wo | where | Wo wohnen Sie? |
-| Wohin | where to | Wohin fahren Sie? |
-| Woher | where from | Woher kommen Sie? |
-| Wann | when | Wann beginnt der Kurs? |
-| Wie | how | Wie alt sind Sie? |
-| Wie viel | how much | Wie viel kostet das? |
-| Wie viele | how many | Wie viele Kinder haben Sie? |
-| Warum | why | Warum lernen Sie Deutsch? |
+| W-word | means | example | English |
+| --- | --- | --- | --- |
+| Wer | who | Wer ist das? | Who is that? |
+| Was | what | Was machen Sie beruflich? | What do you do for work? |
+| Wo | where | Wo wohnen Sie? | Where do you live? |
+| Wohin | where to | Wohin fahren Sie? | Where are you going? |
+| Woher | where from | Woher kommen Sie? | Where are you from? |
+| Wann | when | Wann beginnt der Kurs? | When does the course start? |
+| Wie | how | Wie alt sind Sie? | How old are you? |
+| Wie viel | how much | Wie viel kostet das? | How much does that cost? |
+| Wie viele | how many | Wie viele Kinder haben Sie? | How many children do you have? |
+| Warum | why | Warum lernen Sie Deutsch? | Why do you learn German? |
 
 **Pattern: W-word + verb + subject?** - Wo **wohnen** Sie?
 
@@ -259,18 +259,18 @@ Your family, your apartment, your work - you can't describe them without these.
 
 **Place (the Wo / Wohin / Woher trio):**
 
-| preposition | means | example |
-|-------------|-------|---------|
-| in | in / into | Ich wohne in München. / Ich gehe in die Stadt. |
-| aus | from (out of) | Ich komme aus dem Iran. |
-| nach | to (city/country) | Ich fahre nach München. / nach Hause |
-| zu | to (person/place) | Ich gehe zum Arzt. / zur Arbeit |
-| bei | at (a person) | Ich bin bei der Arbeit. |
-| mit | with / by | Ich fahre mit dem Zug. / mit Freunden |
-| von | from (a person/place) | Ich komme von der Arbeit. |
-| auf | on | Das Buch liegt auf dem Tisch. |
-| an | at / on (side) | an der Haltestelle |
-| seit | since / for | Ich lerne seit 2 Jahren Deutsch. |
+| preposition | means | example | English |
+| --- | --- | --- | --- |
+| in | in / into | Ich wohne in München. / Ich gehe in die Stadt. | I live in Munich. / I go into town. |
+| aus | from (out of) | Ich komme aus dem Iran. | I come from Iran. |
+| nach | to (city/country) | Ich fahre nach München. / nach Hause | I drive to Munich. / home |
+| zu | to (person/place) | Ich gehe zum Arzt. / zur Arbeit | I go to the doctor. / to work |
+| bei | at (a person) | Ich bin bei der Arbeit. | I am at work. |
+| mit | with / by | Ich fahre mit dem Zug. / mit Freunden | I go by train. / with friends |
+| von | from (a person/place) | Ich komme von der Arbeit. | I come from work. |
+| auf | on | Das Buch liegt auf dem Tisch. | The book lies on the table. |
+| an | at / on (side) | an der Haltestelle | at the stop |
+| seit | since / for | Ich lerne seit 2 Jahren Deutsch. | I have been learning German for 2 years. |
 
 **The 4 contractions you must know:**
 
@@ -620,14 +620,14 @@ That's the only dative ending you need - everything else stays as in section 1.
 
 **Glue words (connect your sentences):**
 
-| word | means | example |
-|------|-------|---------|
-| und | and | Kaffee und Kuchen |
-| oder | or | Tee oder Kaffee? |
-| aber | but | Ich bin müde, aber glücklich. |
-| dann | then | Ich esse, dann schlafe ich. |
-| auch | also / too | Ich trinke auch Kaffee. |
-| gern | like to (gladly) | Ich lese gern. |
+| word | means | example | English |
+| --- | --- | --- | --- |
+| und | and | Kaffee und Kuchen | Coffee and cake. |
+| oder | or | Tee oder Kaffee? | Tea or coffee? |
+| aber | but | Ich bin müde, aber glücklich. | I am tired but happy. |
+| dann | then | Ich esse, dann schlafe ich. | I eat, then I sleep. |
+| auch | also / too | Ich trinke auch Kaffee. | I drink coffee too. |
+| gern | like to (gladly) | Ich lese gern. | I like reading. |
 
 **Times of day (Tageszeiten):**
 
@@ -657,14 +657,14 @@ A reflexive verb means the subject does the action TO ITSELF. You already know s
 
 **The reflexive pronoun table (memorize this):**
 
-| Person | Refl. pronoun | Example |
-|--------|---------------|---------|
-| ich | mich | Ich freue MICH. (I'm happy.) |
-| du | dich | Entspann DICH! (Relax!) |
-| er/sie/es | sich | Er kennt SICH aus. (He knows his way around.) |
-| wir | uns | Wir fühlen UNS gut. (We feel good.) |
-| ihr | euch | Macht EUCH keine Sorgen! (Don't worry!) |
-| sie/Sie | sich | Stellen Sie sich vor. (Introduce yourself.) |
+| Person | Refl. pronoun | Example | English |
+| --- | --- | --- | --- |
+| ich | mich | Ich freue MICH. | I am happy. |
+| du | dich | Entspann DICH! | Relax! |
+| er/sie/es | sich | Er kennt SICH aus. | He knows his way around. |
+| wir | uns | Wir fühlen UNS gut. | We feel good. |
+| ihr | euch | Macht EUCH keine Sorgen! | Don't worry! |
+| sie/Sie | sich | Stellen Sie sich vor. | Introduce yourself. |
 
 **Key A1 reflexive verbs:**
 

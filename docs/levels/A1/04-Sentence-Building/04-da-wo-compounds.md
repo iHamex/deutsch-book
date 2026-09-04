@@ -80,11 +80,11 @@
 
 **Spoken short forms (very common, like daily-conversations.md:12):**
 
-| full | spoken | example |
-|---|---|---|
-| darauf | **drauf** | Kommt **drauf** an. (It depends.) |
-| darüber | **drüber** | Wir sprechen später **drüber**. |
-| darauf (freuen) | **drauf** | Ich freu mich **drauf**. |
+| full | spoken | example | English |
+| --- | --- | --- | --- |
+| darauf | **drauf** | Kommt **drauf** an. | It depends. |
+| darüber | **drüber** | Wir sprechen später **drüber**. | We will talk about it later. |
+| darauf (freuen) | **drauf** | Ich freu mich **drauf**. | I am looking forward to it. |
 
 - **Kommt drauf an.** - It depends. (short for darauf)
 - Ich freue mich **darauf** -> spoken: Ich freu mich **drauf**.
@@ -95,12 +95,12 @@
 
 **Separable verbs with prepositions use da-:**
 
-| verb + preposition | da-form | example |
-|---|---|---|
-| warten **auf** | **darauf** warten | Ich warte **darauf**. |
-| sich freuen **auf** | **darauf** freuen | Ich freue mich **darauf**. |
-| sprechen **über** | **darüber** sprechen | Wir sprechen **darüber**. |
-| denken **an** | **daran** denken | Ich denke **daran**. |
+| verb + preposition | da-form | example | English |
+| --- | --- | --- | --- |
+| warten **auf** | **darauf** warten | Ich warte **darauf**. | I wait for it. |
+| sich freuen **auf** | **darauf** freuen | Ich freue mich **darauf**. | I look forward to it. |
+| sprechen **über** | **darüber** sprechen | Wir sprechen **darüber**. | We talk about it. |
+| denken **an** | **daran** denken | Ich denke **daran**. | I think of it. |
 
 **Building the sentence:**
 

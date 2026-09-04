@@ -11,23 +11,23 @@
 - **Irregular (memorize):** gut → **besser**, viel → **mehr**, gern → **lieber**, nah → **näher**.
 
 ## Common A1 list
-| Adj | Comparative | Example |
-| --- | --- | --- |
-| groß | größer | Mein Bruder ist größer als ich. |
-| klein | kleiner | Das Zimmer ist kleiner. |
-| alt | älter | Er ist älter als sie. |
-| jung | jünger | Ich bin jünger. |
-| gut | besser | Der Kaffee ist besser. |
-| schön | schöner | Das Bild ist schöner. |
-| teuer | teurer | Das Auto ist teurer. |
-| billig | billiger | Das Brot ist billiger. |
-| schnell | schneller | Der Zug ist schneller. |
-| langsam | langsamer | Die Katze ist langsamer. |
-| viel | mehr | Ich habe mehr Zeit. |
-| gern | lieber | Ich trinke lieber Wasser. |
-| heiß | heißer | Das Wasser ist heißer. |
-| kalt | kälter | Der Kühlschrank ist kälter. |
-| warm | wärmer | Es ist wärmer heute. |
+| Adj | Comparative | Example | English |
+| --- | --- | --- | --- |
+| groß | größer | Mein Bruder ist größer als ich. | My brother is bigger than me. |
+| klein | kleiner | Das Zimmer ist kleiner. | The room is smaller. |
+| alt | älter | Er ist älter als sie. | He is older than her. |
+| jung | jünger | Ich bin jünger. | I am younger. |
+| gut | besser | Der Kaffee ist besser. | The coffee is better. |
+| schön | schöner | Das Bild ist schöner. | The picture is more beautiful. |
+| teuer | teurer | Das Auto ist teurer. | The car is more expensive. |
+| billig | billiger | Das Brot ist billiger. | The bread is cheaper. |
+| schnell | schneller | Der Zug ist schneller. | The train is faster. |
+| langsam | langsamer | Die Katze ist langsamer. | The cat is slower. |
+| viel | mehr | Ich habe mehr Zeit. | I have more time. |
+| gern | lieber | Ich trinke lieber Wasser. | I prefer drinking water. |
+| heiß | heißer | Das Wasser ist heißer. | The water is hotter. |
+| kalt | kälter | Der Kühlschrank ist kälter. | The fridge is colder. |
+| warm | wärmer | Es ist wärmer heute. | It is warmer today. |
 
 ## Sentence pattern
 - **X ist [Komparativ] als Y.** → Ich bin größer als du.
