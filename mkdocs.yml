@@ -1,0 +1,174 @@
+site_name: Deutsch Book
+site_url: https://ihamex.github.io/deutsch-book/
+# Documentation directory
+docs_dir: docs
+
+# Repository
+repo_name: deutsch-book
+
+# Theme Settings
+theme:
+  language: en
+  name: material
+  logo: media/logo.png
+  # favicon: media/favicon.png
+  palette:
+    - scheme: default
+      primary: 'white'
+      accent: 'orange'
+  icon:
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+  features:
+    # navigation.instant and navigation.prefetch,
+    # are not compatible with Search on language switch toggle
+    #- navigation.instant
+    #- navigation.instant.prefetch
+    - navigation.path
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - content.code.copy
+    - content.code.select
+    - search.suggest
+    - search.highlight
+    - search.share
+    - toc.follow
+    - content.code.mermaid
+
+
+# CSS Settings
+extra_css:
+  - media/custom.css
+
+
+# JS Settings
+extra_javascript:
+  - media/custom.js
+
+
+# Extra Settings
+extra:
+  generator: false
+
+
+# Extensions
+markdown_extensions:
+  - pymdownx.highlight:
+      linenums: true
+      linenums_style: pymdownx-inline
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - admonition
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - attr_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.arithmatex:
+      generic: true
+  - sane_lists
+
+# Plugins
+plugins:
+  - search
+
+# Navigation Structure
+nav:
+  - Home: index.md
+  - A1 Level:
+    - Overview: levels/A1/index.md
+    - Foundations:
+      - Part Index: levels/A1/01-Foundations/00-INDEX.md
+      - "Numbers, Dates and Time": levels/A1/01-Foundations/01-numbers-dates.md
+      - "Time Words": levels/A1/01-Foundations/02-time-words.md
+    - Grammar Core:
+      - Part Index: levels/A1/02-Grammar-Core/00-INDEX.md
+      - "Cases and Articles": levels/A1/02-Grammar-Core/01-cases-articles.md
+      - "Possessive Articles": levels/A1/02-Grammar-Core/02-possessive-articles.md
+      - "Demonstratives": levels/A1/02-Grammar-Core/03-demonstratives.md
+      - "Adjective Endings": levels/A1/02-Grammar-Core/04-adjective-endings.md
+      - "Prepositions": levels/A1/02-Grammar-Core/05-prepositions.md
+      - "Negation (kein vs nicht)": levels/A1/02-Grammar-Core/06-negation.md
+      - "Grammar Essentials (Reference)": levels/A1/02-Grammar-Core/07-grammar-essentials.md
+      - "Indefinite Pronouns": levels/A1/02-Grammar-Core/08-indefinite-pronouns.md
+    - Verbs:
+      - Part Index: levels/A1/03-Verbs/00-INDEX.md
+      - "Conjugations (Master Index)": levels/A1/03-Verbs/01-conjugations.md
+      - "Dative Verbs": levels/A1/03-Verbs/02-dative-verbs.md
+      - "Accusative Verbs": levels/A1/03-Verbs/03-accusative-verbs.md
+      - "Imperative (Commands)": levels/A1/03-Verbs/04-imperative.md
+      - "Tenses (Perfekt & Präteritum)": levels/A1/03-Verbs/05-tenses.md
+      - "Future with werden": levels/A1/03-Verbs/06-future-werden.md
+    - Sentence Building:
+      - Part Index: levels/A1/04-Sentence-Building/00-INDEX.md
+      - "Word Order": levels/A1/04-Sentence-Building/01-word-order.md
+      - "Question Words": levels/A1/04-Sentence-Building/02-question-words.md
+      - "Comparative & Superlative": levels/A1/04-Sentence-Building/03-comparative.md
+      - "da-/wo-Compounds": levels/A1/04-Sentence-Building/04-da-wo-compounds.md
+    - Vocabulary Topics:
+      - Part Index: levels/A1/05-Vocabulary-Topics/00-INDEX.md
+      - "Vocabulary Modules": levels/A1/05-Vocabulary-Topics/01-vocabulary-modules.md
+      - "Opposites": levels/A1/05-Vocabulary-Topics/02-opposites.md
+    - Daily Communication:
+      - Part Index: levels/A1/06-Daily-Communication/00-INDEX.md
+      - "Daily Conversations (210+ Phrases)": levels/A1/06-Daily-Communication/01-daily-conversations.md
+      - "Speaking Survival": levels/A1/06-Daily-Communication/02-speaking-survival.md
+      - "Question Bank": levels/A1/06-Daily-Communication/03-question-bank.md
+    - Exam Mastery:
+      - Part Index: levels/A1/07-Exam-Mastery/00-INDEX.md
+      - "Exam Cheat Sheet": levels/A1/07-Exam-Mastery/01-exam-cheat-sheet.md
+      - "Exam Writing": levels/A1/07-Exam-Mastery/02-exam-writing.md
+      - "Writing Survival": levels/A1/07-Exam-Mastery/03-writing-survival.md
+      - "Hören Survival": levels/A1/07-Exam-Mastery/04-horen-survival.md
+      - "Lesen Survival": levels/A1/07-Exam-Mastery/05-lesen-survival.md
+      - "Telc Sample Tests": levels/A1/07-Exam-Mastery/06-telc-sample-tests.md
+    - Practice Lab:
+      - Part Index: levels/A1/08-Practice-Lab/00-INDEX.md
+      - "Mistake Log": levels/A1/08-Practice-Lab/01-mistakes.md
+      - "Sentence Bank": levels/A1/08-Practice-Lab/02-sentences.md
+      - "Sentence Skeletons": levels/A1/08-Practice-Lab/03-sentence-skeletons.md
+      - "Daily Practice Logs":
+        - "2026-08-19 (Telc)": levels/A1/08-Practice-Lab/04-daily-practice/2026-08-19-telc.md
+        - "2026-08-19": levels/A1/08-Practice-Lab/04-daily-practice/2026-08-19.md
+        - "2026-08-21": levels/A1/08-Practice-Lab/04-daily-practice/2026-08-21.md
+    - Fluency Speaking:
+      - Part Index: levels/A1/09-Fluency-Speaking/00-INDEX.md
+      - "Phase Start Here": levels/A1/09-Fluency-Speaking/START-HERE.md
+      - "Real-Life Situations": levels/A1/09-Fluency-Speaking/situations.md
+      - "Coach Rules (AGENTS)": levels/A1/09-Fluency-Speaking/AGENTS.md
+      - "Content Rules (RULES)": levels/A1/09-Fluency-Speaking/RULES.md
+      - "State & Memory (MEMORY)": levels/A1/09-Fluency-Speaking/MEMORY.md
+
+# Copyright Text
+copyright: © 2026 Hamed Okhovvat
