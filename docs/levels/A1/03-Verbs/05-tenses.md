@@ -649,6 +649,130 @@ Complete the sentences with true information:
 
 ---
 
+# Reference - helper + Partizip II for every A1 verb
+
+This is the complete list from the conjugation reference (01-conjugations.md). For each verb you see the Partizip II and the helper (**haben** or **sein**) that carries it in the Perfekt. English meanings are in the conjugation reference.
+
+| Verb | Partizip II | Helper |
+|---|---|---|
+| abfahren | abgefahren | sein |
+| abnehmen | abgenommen | haben |
+| anfangen | angefangen | haben |
+| ankommen | angekommen | sein |
+| anrufen | angerufen | haben |
+| anschalten | angeschaltet | haben |
+| antworten | geantwortet | haben |
+| anziehen | angezogen | haben |
+| arbeiten | gearbeitet | haben |
+| aufmachen | aufgemacht | haben |
+| aufräumen | aufgeräumt | haben |
+| aufstehen | aufgestanden | sein |
+| ausgehen | ausgegangen | sein |
+| ausschalten | ausgeschaltet | haben |
+| besuchen | besucht | haben |
+| bestellen | bestellt | haben |
+| bezahlen | bezahlt | haben |
+| bleiben | geblieben | sein |
+| brauchen | gebraucht | haben |
+| bringen | gebracht | haben |
+| danken | gedankt | haben |
+| dauern | gedauert | haben |
+| dürfen | gedurft | haben |
+| einkaufen | eingekauft | haben |
+| einschlafen | eingeschlafen | sein |
+| erklären | erklärt | haben |
+| essen | gegessen | haben |
+| fahren | gefahren | sein |
+| fehlen | gefehlt | haben |
+| feiern | gefeiert | haben |
+| fernsehen | ferngesehen | haben |
+| finden | gefunden | haben |
+| fliegen | geflogen | sein |
+| folgen | gefolgt | sein |
+| fragen | gefragt | haben |
+| gefallen | gefallen | haben |
+| geben | gegeben | haben |
+| gehen | gegangen | sein |
+| gehören | gehört | haben |
+| glauben | geglaubt | haben |
+| gratulieren | gratuliert | haben |
+| haben | gehabt | haben |
+| heißen | geheißen | haben |
+| helfen | geholfen | haben |
+| hoffen | gehofft | haben |
+| holen | geholt | haben |
+| hören | gehört | haben |
+| kaufen | gekauft | haben |
+| kochen | gekocht | haben |
+| kommen | gekommen | sein |
+| können | gekonnt | haben |
+| lassen | gelassen | haben |
+| laufen | gelaufen | sein |
+| lernen | gelernt | haben |
+| lesen | gelesen | haben |
+| losgehen | losgegangen | sein |
+| machen | gemacht | haben |
+| meinen | gemeint | haben |
+| mitbringen | mitgebracht | haben |
+| mitkommen | mitgekommen | sein |
+| möchten | (no own past - see footnote) | (use wollte) |
+| mögen | gemocht | haben |
+| müssen | gemusst | haben |
+| nachschlagen | nachgeschlagen | haben |
+| nehmen | genommen | haben |
+| öffnen | geöffnet | haben |
+| passen | gepasst | haben |
+| probieren | probiert | haben |
+| reisen | gereist | sein |
+| sagen | gesagt | haben |
+| schenken | geschenkt | haben |
+| schlafen | geschlafen | haben |
+| schließen | geschlossen | haben |
+| schmecken | geschmeckt | haben |
+| schreiben | geschrieben | haben |
+| schwimmen | geschwommen | sein |
+| sehen | gesehen | haben |
+| sein | gewesen | sein |
+| sollen | gesollt | haben |
+| spielen | gespielt | haben |
+| sprechen | gesprochen | haben |
+| suchen | gesucht | haben |
+| tanzen | getanzt | haben |
+| trainieren | trainiert | haben |
+| treffen | getroffen | haben |
+| treiben | getrieben | haben |
+| trinken | getrunken | haben |
+| umsteigen | umgestiegen | sein |
+| umziehen | umgezogen | sein |
+| verstehen | verstanden | haben |
+| vertrauen | vertraut | haben |
+| vorbereiten | vorbereitet | haben |
+| warten | gewartet | haben |
+| wehtun | wehgetan | haben |
+| werden | geworden | sein |
+| widersprechen | widersprochen | haben |
+| wiederholen | wiederholt | haben |
+| wissen | gewusst | haben |
+| wohnen | gewohnt | haben |
+| wollen | gewollt | haben |
+| zeigen | gezeigt | haben |
+| zuhören | zugehört | haben |
+| zumachen | zugemacht | haben |
+| zurückgeben | zurückgegeben | haben |
+
+### The 20 sein verbs at a glance (memorize this list)
+
+> abfahren, ankommen, aufstehen, ausgehen, bleiben, einschlafen, fahren, fliegen, folgen, gehen, kommen, laufen, losgehen, mitkommen, reisen, schwimmen, sein, umsteigen, umziehen, werden
+
+Everything else in the table uses **haben** - your default helper.
+
+!!! note "Three honest footnotes"
+    - **fahren**: use sein when you travel somewhere (Ich bin nach Berlin gefahren). Use haben when you drive a vehicle as the object (Ich habe das Auto gefahren).
+    - **Modal verbs** (können, müssen, wollen, dürfen, sollen, mögen): the table shows their Perfekt forms (hat gekonnt, hat gemusst ...), but at A1 you normally use the Präteritum instead: konnte, musste, wollte, durfte, sollte, mochte. See Part 7.
+    - **möchten** has no past form of its own - for the past of "would like", use wollte (from wollen).
+
+---
+
 # Final A1 cheat sheet
 
 ## Perfekt
@@ -663,6 +787,7 @@ Complete the sentences with true information:
 
 - **haben**: most verbs
 - **sein**: memorize common verbs such as **gehen, kommen, fahren, aufstehen, bleiben, sein**
+- Every A1 verb with its helper and Partizip II is in the **Reference** section just above this cheat sheet.
 
 ## Partizip II
 
