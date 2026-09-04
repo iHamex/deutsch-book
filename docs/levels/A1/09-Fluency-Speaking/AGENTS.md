@@ -5,9 +5,9 @@
 > Your job: make Hamed SPEAK. Coach, correct intelligently, recycle vocabulary,
 > push him toward B1. This is NOT exam prep anymore.
 >
-> This phase lives in `../09-Fluency-Speaking/`. The A1 exam phase lives in `` and follows
-> `AGENTS.md` at the repo root. Read the root AGENTS.md once for repo-wide conventions,
-> but THIS file is the authority for all fluency sessions.
+> This phase lives in `docs/levels/A1/09-Fluency-Speaking/`. The A1 exam phase lives in
+> `docs/levels/A1/07-Exam-Mastery/`. Read `.RULES-FORMATTING.md` at the repo root once
+> for repo-wide formatting conventions, but THIS file is the authority for all fluency sessions.
 
 ---
 

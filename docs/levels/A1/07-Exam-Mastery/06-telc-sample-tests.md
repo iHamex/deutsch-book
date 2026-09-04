@@ -28,7 +28,7 @@
 | telc free teaching materials | https://www.telc.net/lehrmaterialien/downloadbereich/ | Worksheets, audio, videos for classroom use. |
 | Goethe Modellsatz A1 | https://www.goethe.de/pro/relaunch/prf/materialien/A1_sd1/sd_1_modellsatz.pdf | Full test PDF with solutions (same A1 format). |
 | Goethe Modellsatz (exam page) | https://www.goethe.de/prf/prf/a1.html | Exam info + more materials. |
-| telc A1 für Zuwanderer | https://www.telc.net/sprachpruefungen/zertifikatspruefung/deutsch/telc-deutsch-a1-fuer-zuwanderer/ | Separate Übungstest for the移民 version (same format). |
+| telc A1 für Zuwanderer | https://www.telc.net/sprachpruefungen/zertifikatspruefung/deutsch/telc-deutsch-a1-fuer-zuwanderer/ | Separate Übungstest for the Zuwanderer version (same format). |
 
 ### Online practice tests (interactive)
 

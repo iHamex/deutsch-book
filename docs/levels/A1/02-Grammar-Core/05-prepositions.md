@@ -111,7 +111,7 @@ These three look similar but mean different times.
 - Ich fahre **in** zwei Tagen nach Berlin. - I will go in two days. (future)
 - **vor** einer Woche war ich krank. / Er wohnt **seit** einem Jahr in München. / Der Kurs beginnt **in** einer Woche.
 
-> **Check:** vor = past (back), seit = since then until now, in = future (forward). If you use seit, verb stays in present: "Ich lerne seit...". See `A1/03-Verbs/05-tenses.md:375-386`.
+> **Check:** vor = past (back), seit = since then until now, in = future (forward). If you use seit, verb stays in present: "Ich lerne seit...". See `A1/03-Verbs/05-tenses.md:378-388`.
 
 ### 5b. wegen - because of (reason)
 

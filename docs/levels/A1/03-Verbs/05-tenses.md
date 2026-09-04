@@ -755,7 +755,7 @@ How to read each table: the **Person** column gives the subject, the **haben** /
 
 | Person | haben | Example | English |
 |---|---|---|---|
-| ich | habe | Ich **habe** heute Kuchen mit **gebracht**. | I brought cake today. |
+| ich | habe | Ich **habe** heute Kuchen **gebracht**. | I brought cake today. |
 | du | hast | Du **hast** gestern die Bücher **gebracht**. | You brought the books yesterday. |
 | er/sie/es | hat | Er **hat** seiner Mutter Blumen **gebracht**. | He brought his mother flowers. |
 | wir | haben | Wir **haben** zur Party Salat **gebracht**. | We brought salad to the party. |
@@ -775,25 +775,27 @@ How to read each table: the **Person** column gives the subject, the **haben** /
 
 #### dauern - **gedauert** (haben)
 
+dauern is special: the subject is the thing or activity that lasts (das Meeting, die Hausaufgaben ...), never a person. There is no natural ich/du/wir form, so this table uses subjects instead of persons.
+
+| Subject | haben | Example | English |
+|---|---|---|---|
+| das Meeting | hat | Das Meeting **hat** eine Stunde **gedauert**. | The meeting lasted an hour. |
+| die Hausaufgaben | haben | Die Hausaufgaben **haben** gestern lange **gedauert**. | The homework took a long time yesterday. |
+| der Film | hat | Der Film **hat** zwei Stunden **gedauert**. | The film lasted two hours. |
+| die Reise | hat | Die Reise **hat** drei Tage **gedauert**. | The trip lasted three days. |
+| der Kurs | hat | Der Kurs **hat** bis 18 Uhr **gedauert**. | The course lasted until 6 p.m. |
+| die Arbeit | hat | Die Arbeit **hat** heute lange **gedauert**. | The work took a long time today. |
+
+#### dürfen - Perfekt: **haben + dürfen** (double infinitive, no ge-; normally Präteritum **durfte**)
+
 | Person | haben | Example | English |
 |---|---|---|---|
-| ich | habe | Ich **habe** mit den Hausaufgaben lange **gedauert**. | I took a long time with the homework. |
-| du | hast | Du **hast** mit dem Bericht lange **gedauert**. | You took a long time with the report. |
-| er/sie/es | hat | Er **hat** mit dem Essen lange **gedauert**. | He took a long time with the meal. |
-| wir | haben | Wir **haben** mit dem Projekt lange **gedauert**. | We took a long time with the project. |
-| ihr | habt | Ihr **habt** mit dem Aufräumen lange **gedauert**. | You (all) took a long time tidying up. |
-| sie/Sie | haben | Sie **haben** mit der Antwort lange **gedauert**. | They took a long time with the answer. |
-
-#### dürfen - **gedurft** (haben, normally Präteritum **durfte**)
-
-| Person | haben | Example | English |
-|---|---|---|---|
-| ich | habe | Ich **habe** gestern nicht ins Kino **gedurft**. | I was not allowed into the cinema yesterday. |
-| du | hast | Du **hast** heute früher gehen **gedurft**. | You were allowed to leave earlier today. |
-| er/sie/es | hat | Er **hat** im Museum fotografieren **gedurft**. | He was allowed to take photos in the museum. |
-| wir | haben | Wir **haben** im Park spielen **gedurft**. | We were allowed to play in the park. |
-| ihr | habt | Ihr **habt** heute alles fragen **gedurft**. | You (all) were allowed to ask everything today. |
-| sie/Sie | haben | Sie **haben** gestern lange bleiben **gedurft**. | They were allowed to stay long yesterday. |
+| ich | habe | Ich **habe** gestern nicht ins Kino gehen **dürfen**. | I was not allowed to go to the cinema yesterday. |
+| du | hast | Du **hast** heute früher gehen **dürfen**. | You were allowed to leave earlier today. |
+| er/sie/es | hat | Er **hat** im Museum fotografieren **dürfen**. | He was allowed to take photos in the museum. |
+| wir | haben | Wir **haben** im Park spielen **dürfen**. | We were allowed to play in the park. |
+| ihr | habt | Ihr **habt** heute alles fragen **dürfen**. | You (all) were allowed to ask everything today. |
+| sie/Sie | haben | Sie **haben** gestern lange bleiben **dürfen**. | They were allowed to stay long yesterday. |
 
 #### einkaufen - **eingekauft** (haben)
 
@@ -1034,7 +1036,7 @@ How to read each table: the **Person** column gives the subject, the **haben** /
 | du | hast | Du **hast** heute auf eine Antwort **gehofft**. | You hoped for an answer today. |
 | er/sie/es | hat | Er **hat** auf einen Sieg **gehofft**. | He hoped for a victory. |
 | wir | haben | Wir **haben** zusammen auf Sonne **gehofft**. | We hoped for sun together. |
-| ihr | habt | Ihr **habt** schon auf frei **gehofft**. | You (all) already hoped for time off. |
+| ihr | habt | Ihr **habt** schon auf Urlaub **gehofft**. | You (all) already hoped for time off. |
 | sie/Sie | haben | Sie **haben** gestern auf Hilfe **gehofft**. | They hoped for help yesterday. |
 
 #### holen - **geholt** (haben)
@@ -1042,8 +1044,8 @@ How to read each table: the **Person** column gives the subject, the **haben** /
 | Person | haben | Example | English |
 |---|---|---|---|
 | ich | habe | Ich **habe** gestern Brot vom Bäcker **geholt**. | I fetched bread from the bakery yesterday. |
-| du | hast | Du **hast** heute die Kinder ab **geholt**. | You picked up the children today. |
-| er/sie/es | hat | Er **hat** uns vom Bahnhof ab **geholt**. | He picked us up from the station. |
+| du | hast | Du **hast** heute die Kinder vom Kindergarten **geholt**. | You picked up the children from kindergarten today. |
+| er/sie/es | hat | Er **hat** uns gestern vom Bahnhof **geholt**. | He picked us up from the station yesterday. |
 | wir | haben | Wir **haben** Pizza für alle **geholt**. | We got pizza for everyone. |
 | ihr | habt | Ihr **habt** schon die Tickets **geholt**. | You (all) already got the tickets. |
 | sie/Sie | haben | Sie **haben** gestern Hilfe **geholt**. | They got help yesterday. |
@@ -1092,16 +1094,16 @@ How to read each table: the **Person** column gives the subject, the **haben** /
 | ihr | seid | Ihr **seid** gestern alle **gekommen**. | You (all) all came yesterday. |
 | sie/Sie | sind | Sie **sind** heute schon früh **gekommen**. | They already came early today. |
 
-#### können - **gekonnt** (haben, normally Präteritum **konnte**)
+#### können - Perfekt: **haben + können** (double infinitive, no ge-; normally Präteritum **konnte**)
 
 | Person | haben | Example | English |
 |---|---|---|---|
-| ich | habe | Ich **habe** gestern nicht schwimmen **gekonnt**. | I was not able to swim yesterday. |
-| du | hast | Du **hast** heute alles **gekonnt**. | You were able to do everything today. |
-| er/sie/es | hat | Er **hat** gut Deutsch **gekonnt**. | He was able to speak German well. |
-| wir | haben | Wir **haben** gestern kommen **gekonnt**. | We were able to come yesterday. |
-| ihr | habt | Ihr **habt** heute helfen **gekonnt**. | You (all) were able to help today. |
-| sie/Sie | haben | Sie **haben** gestern nichts **gekonnt**. | They were not able to do anything yesterday. |
+| ich | habe | Ich **habe** gestern nicht schwimmen **können**. | I was not able to swim yesterday. |
+| du | hast | Du **hast** heute alles machen **können**. | You were able to do everything today. |
+| er/sie/es | hat | Er **hat** gut Deutsch sprechen **können**. | He was able to speak German well. |
+| wir | haben | Wir **haben** gestern kommen **können**. | We were able to come yesterday. |
+| ihr | habt | Ihr **habt** heute helfen **können**. | You (all) were able to help today. |
+| sie/Sie | haben | Sie **haben** gestern nichts tun **können**. | They were not able to do anything yesterday. |
 
 #### lassen - **gelassen** (haben)
 
@@ -1213,16 +1215,16 @@ How to read each table: the **Person** column gives the subject, the **haben** /
 | ihr | habt | Ihr **habt** das Spiel schon immer **gemocht**. | You (all) always liked the game. |
 | sie/Sie | haben | Sie **haben** gestern alles **gemocht**. | They liked everything yesterday. |
 
-#### müssen - **gemusst** (haben, normally Präteritum **musste**)
+#### müssen - Perfekt: **haben + müssen** (double infinitive, no ge-; normally Präteritum **musste**)
 
 | Person | haben | Example | English |
 |---|---|---|---|
-| ich | habe | Ich **habe** gestern arbeiten **gemusst**. | I had to work yesterday. |
-| du | hast | Du **hast** heute früh aufstehen **gemusst**. | You had to get up early today. |
-| er/sie/es | hat | Er **hat** viel lernen **gemusst**. | He had to learn a lot. |
-| wir | haben | Wir **haben** zu Hause bleiben **gemusst**. | We had to stay at home. |
-| ihr | habt | Ihr **habt** schon gehen **gemusst**. | You (all) already had to go. |
-| sie/Sie | haben | Sie **haben** gestern warten **gemusst**. | They had to wait yesterday. |
+| ich | habe | Ich **habe** gestern arbeiten **müssen**. | I had to work yesterday. |
+| du | hast | Du **hast** heute früh aufstehen **müssen**. | You had to get up early today. |
+| er/sie/es | hat | Er **hat** viel lernen **müssen**. | He had to learn a lot. |
+| wir | haben | Wir **haben** zu Hause bleiben **müssen**. | We had to stay at home. |
+| ihr | habt | Ihr **habt** schon gehen **müssen**. | You (all) already had to go. |
+| sie/Sie | haben | Sie **haben** gestern warten **müssen**. | They had to wait yesterday. |
 
 #### nachschlagen - **nachgeschlagen** (haben)
 
@@ -1287,7 +1289,7 @@ How to read each table: the **Person** column gives the subject, the **haben** /
 | du | bist | Du **bist** gestern nach Hamburg **gereist**. | You travelled to Hamburg yesterday. |
 | er/sie/es | ist | Er **ist** viel mit dem Zug **gereist**. | He travelled a lot by train. |
 | wir | sind | Wir **sind** zusammen durch Europa **gereist**. | We travelled together through Europe. |
-| ihr | seid | Ihr **seid** heute zurück **gereist**. | You (all) travelled back today. |
+| ihr | seid | Ihr **seid** heute **zurückgereist**. | You (all) travelled back today. |
 | sie/Sie | sind | Sie **sind** gestern allein **gereist**. | They travelled alone yesterday. |
 
 #### sagen - **gesagt** (haben)
@@ -1389,16 +1391,16 @@ How to read each table: the **Person** column gives the subject, the **haben** /
 | ihr | seid | Ihr **seid** heute pünktlich **gewesen**. | You (all) were on time today. |
 | sie/Sie | sind | Sie **sind** gestern schon da **gewesen**. | They were already there yesterday. |
 
-#### sollen - **gesollt** (haben, normally Präteritum **sollte**)
+#### sollen - Perfekt: **haben + sollen** (double infinitive, no ge-; normally Präteritum **sollte**)
 
 | Person | haben | Example | English |
 |---|---|---|---|
-| ich | habe | Ich **habe** gestern anrufen **gesollt**. | I was supposed to call yesterday. |
-| du | hast | Du **hast** heute kommen **gesollt**. | You were supposed to come today. |
-| er/sie/es | hat | Er **hat** alles machen **gesollt**. | He was supposed to do everything. |
-| wir | haben | Wir **haben** früh gehen **gesollt**. | We were supposed to leave early. |
-| ihr | habt | Ihr **habt** schon da sein **gesollt**. | You (all) were supposed to already be there. |
-| sie/Sie | haben | Sie **haben** gestern helfen **gesollt**. | They were supposed to help yesterday. |
+| ich | habe | Ich **habe** gestern anrufen **sollen**. | I was supposed to call yesterday. |
+| du | hast | Du **hast** heute kommen **sollen**. | You were supposed to come today. |
+| er/sie/es | hat | Er **hat** alles machen **sollen**. | He was supposed to do everything. |
+| wir | haben | Wir **haben** früh gehen **sollen**. | We were supposed to leave early. |
+| ihr | habt | Ihr **habt** schon da sein **sollen**. | You (all) were supposed to already be there. |
+| sie/Sie | haben | Sie **haben** gestern helfen **sollen**. | They were supposed to help yesterday. |
 
 #### spielen - **gespielt** (haben)
 
@@ -1471,8 +1473,8 @@ How to read each table: the **Person** column gives the subject, the **haben** /
 | Person | haben | Example | English |
 |---|---|---|---|
 | ich | habe | Ich **habe** gestern Sport **getrieben**. | I did sport yesterday. |
-| du | hast | Du **hast** heute Yoga **getrieben**. | You did yoga today. |
-| er/sie/es | hat | Er **hat** viel Fußball **getrieben**. | He played a lot of football. |
+| du | hast | Du **hast** heute im Park Sport **getrieben**. | You did sport in the park today. |
+| er/sie/es | hat | Er **hat** am Morgen Sport **getrieben**. | He did sport in the morning. |
 | wir | haben | Wir **haben** zusammen Sport **getrieben**. | We did sport together. |
 | ihr | habt | Ihr **habt** schon immer Sport **getrieben**. | You (all) always did sport. |
 | sie/Sie | haben | Sie **haben** gestern Sport **getrieben**. | They did sport yesterday. |
@@ -1536,7 +1538,7 @@ How to read each table: the **Person** column gives the subject, the **haben** /
 
 | Person | haben | Example | English |
 |---|---|---|---|
-| ich | habe | Ich **habe** gestern die Prüfung **vorbereitet**. | I prepared for the exam yesterday. |
+| ich | habe | Ich **habe** mich gestern auf die Prüfung **vorbereitet**. | I prepared for the exam yesterday. |
 | du | hast | Du **hast** heute das Essen **vorbereitet**. | You prepared the food today. |
 | er/sie/es | hat | Er **hat** alles für die Reise **vorbereitet**. | He prepared everything for the trip. |
 | wir | haben | Wir **haben** zusammen den Unterricht **vorbereitet**. | We prepared the lesson together. |
@@ -1551,7 +1553,7 @@ How to read each table: the **Person** column gives the subject, the **haben** /
 | du | hast | Du **hast** heute lange **gewartet**. | You waited long today. |
 | er/sie/es | hat | Er **hat** am Bahnhof eine Stunde **gewartet**. | He waited an hour at the station. |
 | wir | haben | Wir **haben** zusammen auf Anna **gewartet**. | We waited together for Anna. |
-| ihr | habt | Ihr **habt** schon seit 8 Uhr **gewartet**. | You (all) already waited since 8 o'clock. |
+| ihr | habt | Ihr **habt** heute schon eine Stunde **gewartet**. | You (all) already waited an hour today. |
 | sie/Sie | haben | Sie **haben** gestern draußen **gewartet**. | They waited outside yesterday. |
 
 #### wehtun - **wehgetan** (haben)
@@ -1620,16 +1622,16 @@ How to read each table: the **Person** column gives the subject, the **haben** /
 | ihr | habt | Ihr **habt** schon in Hamburg **gewohnt**. | You (all) already lived in Hamburg. |
 | sie/Sie | haben | Sie **haben** früher auf dem Land **gewohnt**. | They lived in the countryside before. |
 
-#### wollen - **gewollt** (haben, normally Präteritum **wollte**)
+#### wollen - Perfekt: **haben + wollen** (double infinitive, no ge-; normally Präteritum **wollte**)
 
 | Person | haben | Example | English |
 |---|---|---|---|
-| ich | habe | Ich **habe** gestern schlafen **gewollt**. | I wanted to sleep yesterday. |
-| du | hast | Du **hast** heute kommen **gewollt**. | You wanted to come today. |
-| er/sie/es | hat | Er **hat** alles wissen **gewollt**. | He wanted to know everything. |
-| wir | haben | Wir **haben** früh gehen **gewollt**. | We wanted to leave early. |
-| ihr | habt | Ihr **habt** schon feiern **gewollt**. | You (all) already wanted to celebrate. |
-| sie/Sie | haben | Sie **haben** gestern bleiben **gewollt**. | They wanted to stay yesterday. |
+| ich | habe | Ich **habe** gestern schlafen **wollen**. | I wanted to sleep yesterday. |
+| du | hast | Du **hast** heute kommen **wollen**. | You wanted to come today. |
+| er/sie/es | hat | Er **hat** alles wissen **wollen**. | He wanted to know everything. |
+| wir | haben | Wir **haben** früh gehen **wollen**. | We wanted to leave early. |
+| ihr | habt | Ihr **habt** schon feiern **wollen**. | You (all) already wanted to celebrate. |
+| sie/Sie | haben | Sie **haben** gestern bleiben **wollen**. | They wanted to stay yesterday. |
 
 #### zeigen - **gezeigt** (haben)
 
@@ -1694,7 +1696,7 @@ Everything else in the tables above uses **haben** - your default helper.
 
 !!! note "Three honest footnotes"
     - **fahren**: use sein when you travel somewhere (Ich bin nach Berlin gefahren). Use haben when you drive a vehicle as the object (Ich habe das Auto gefahren).
-    - **Modal verbs** (können, müssen, wollen, dürfen, sollen, mögen): the tables show their Perfekt forms (hat gekonnt, hat gemusst ...), but at A1 you normally use the Präteritum instead: konnte, musste, wollte, durfte, sollte, mochte. See Part 7.
+    - **Modal verbs** (können, müssen, wollen, dürfen, sollen, mögen): with a second verb, Perfekt uses the double infinitive and drops ge- (Ich habe arbeiten müssen, not gemusst). The ge-forms (gekonnt, gemusst ...) only appear when the modal stands alone. At A1 you normally use the Präteritum instead: konnte, musste, wollte, durfte, sollte, mochte. See Part 7.
     - **möchten** has no past form of its own - for the past of "would like", use wollte (from wollen).
 
 ---
