@@ -25,6 +25,21 @@
 - Say your birthday, phone number, and appointment correctly.
 - Use noch nicht / schon / erst without translating.
 
+## Timed Practice (weekly, 15-20 min)
+
+1. Set a timer for 15-20 minutes.
+2. Do the Time prepositions block in [02-sentences.md section 14](../08-Practice-Lab/02-sentences.md#14-time-prepositions-um-am-im-seit-von-bis) (6 items).
+3. Do the Time words block in [02-sentences.md section 26](../08-Practice-Lab/02-sentences.md#26-time-words-schon-noch-erst-nur) (5 items) and Frequency block section 27 (5 items).
+4. Say out loud, no notes: your birthday, your phone number, and 3 times of your day (halb neun = 8:30).
+5. Self-score: count correct answers in the drill blocks.
+
+!!! warning "Self-score rule"
+    If less than 80% correct, mark the 5 hardest items, wait 24 hours, and re-do exactly those 5.
+
+- [ ] 3 drill blocks done within time.
+- [ ] Birthday + phone number + 3 times said aloud.
+- [ ] Score >= 80% or re-test list made.
+
 ## Tip
 
 Say numbers and times OUT LOUD. Listening is not reading - your ear must recognize "halb neun = 8:30" automatically.

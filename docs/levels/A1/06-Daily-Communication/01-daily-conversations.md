@@ -695,6 +695,46 @@ You learned "verb at position 2". In spoken German, the verb jumps to position 1
 
 ---
 
+## 19b. Practice - the conversation turn
+
+React to each situation in German. Say it out loud, then check. This is the real speaking exam: what do you say when...?
+
+- Someone greets you in the morning. (Good morning!)
+- You thank someone. (Thank you! - and the reply: You're welcome!)
+- You are sorry. (Sorry!)
+- Someone asks how you are. (I'm fine, thanks. And you?)
+- You introduce yourself. (My name is Hamed.)
+- You ask where the station is.
+- You order a coffee. (politely)
+- You ask what something costs.
+- You don't understand. (Please repeat that.)
+- You say goodbye in the evening. (Good night!)
+- Someone says "Auf Wiedersehen" - you reply.
+- You wish someone a nice weekend.
+- You say you come from Iran.
+- You ask the time. (What time is it?)
+- You say yes to a suggestion. (Yes, gladly!)
+
+??? success "Antworten - expand to check"
+
+    1. Guten Morgen!
+    2. Danke! / Bitte schön!
+    3. Entschuldigung! / Tut mir leid!
+    4. Mir geht es gut, danke. Und Ihnen?
+    5. Ich heiße Hamed.
+    6. Entschuldigung, wo ist der Bahnhof?
+    7. Ich möchte einen Kaffee, bitte.
+    8. Wie viel kostet das?
+    9. Können Sie das bitte wiederholen?
+    10. Gute Nacht!
+    11. Auf Wiedersehen!
+    12. Schönes Wochenende!
+    13. Ich komme aus dem Iran.
+    14. Wie spät ist es?
+    15. Ja, gerne!
+
+---
+
 ## 20. Daily Memorization Chunks - The 30 you will use EVERY day
 
 > **How to memorize:** pick 5 from this box per week. Say them until they come out without thinking. These 30 cover 90% of daily small talk.

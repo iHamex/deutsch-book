@@ -13,12 +13,15 @@
 | sein | war | gegangen | Er **war** schon **gegangen**. | He had already gone. |
 | sein | waren | angekommen | Wir **waren** spät **angekommen**. | We had arrived late. |
 
-Same helper as Perfekt (haben or sein), only the helper moves one step back: habe → hatte, bin → war.
+Same helper as Perfekt (haben or sein), only the helper moves one step back: habe -> hatte, bin -> war.
 
 | Perfekt (then) | Plusquamperfekt (before then) |
 | --- | --- |
 | Ich **habe** gegessen. | Ich **hatte** schon gegessen, als er kam. |
 | Sie **ist** gegangen. | Sie **war** schon gegangen, als ich anrief. |
+
+!!! tip "Chunk to memorize"
+    *Ich hatte schon gegessen, als er kam.* (I had already eaten when he came.)
 
 ---
 
@@ -32,6 +35,9 @@ Same helper as Perfekt (haben or sein), only the helper moves one step back: hab
 
 !!! warning "Verb positions"
     nachdem sends its verb complex to the END (gegessen hatte), the main clause keeps V2 (ging, begann).
+
+!!! tip "Chunk to memorize"
+    *Nachdem ich gegessen hatte, ging ich spazieren.* (After I had eaten, I went for a walk.)
 
 ---
 
@@ -64,6 +70,9 @@ With **bevor** (before), the bevor-clause takes Präteritum and the MAIN clause 
 
 Logic: bevor looks FORWARD from the earlier event, nachdem looks BACK from the later one. Both need Plusquamperfekt on the "other" side.
 
+!!! tip "Chunk to memorize"
+    *Bevor er kam, hatte ich schon gegessen.* (Before he came, I had already eaten.)
+
 ---
 
 ## 5. Signal words - they point to Plusquamperfekt
@@ -83,9 +92,41 @@ Logic: bevor looks FORWARD from the earlier event, nachdem looks BACK from the l
 !!! tip "hatte gehabt and war gewesen"
     Plusquamperfekt of haben and sein (ich hatte gehabt, ich war gewesen) exists but is rare - recognize it, never produce it in speech. Say "Ich hatte keine Zeit" and stop there.
 
+- Log slips in [mistakes.md](../08-Practice-Lab/01-mistakes.md).
+
 ---
 
-## 6. Cheat sheet
+## 6. Practice - the past before the past
+
+Say each sentence with the right helper (hatte or war). Check verb position and form.
+
+- After I had eaten, I went for a walk.
+- After she had arrived, the meeting began.
+- I had already eaten when he came.
+- When we arrived, the film had already started.
+- Before he came, I had already eaten.
+- Before we left, we had filled up the car.
+- I had already slept when the phone rang.
+- After we had watched the film, we talked about it.
+- She had already gone when I called.
+- He had already prepared everything.
+
+??? success "Antworten - expand to check"
+
+    1. Nachdem ich gegessen hatte, ging ich spazieren.
+    2. Nachdem sie angekommen war, begann das Meeting.
+    3. Ich hatte schon gegessen, als er kam.
+    4. Als wir ankamen, war der Film schon angefangen.
+    5. Bevor er kam, hatte ich schon gegessen.
+    6. Bevor wir abfuhren, hatten wir das Auto getankt.
+    7. Ich hatte schon geschlafen, als das Telefon klingelte.
+    8. Nachdem wir den Film gesehen hatten, sprachen wir darüber.
+    9. Sie war schon gegangen, als ich anrief.
+    10. Er hatte schon alles vorbereitet.
+
+---
+
+## 7. Cheat sheet
 
 | Job | Form | Example | English |
 | --- | --- | --- | --- |

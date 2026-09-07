@@ -31,6 +31,21 @@
 - Say mit meinem Bruder / in einem kleinen Haus correctly.
 - Negate with kein vs nicht and strengthen with gar nicht.
 
+## Timed Practice (weekly, 20-25 min)
+
+1. Set a timer for 20-25 minutes.
+2. Do the Dative verbs block in [02-sentences.md section 2](../08-Practice-Lab/02-sentences.md#2-dative-verbs-gehoren-helfen-geben-danken-antworten) (7 items).
+3. Do the Adjective endings block in [02-sentences.md section 6](../08-Practice-Lab/02-sentences.md#6-adjective-endings-after-derdiedas-e) (6 items) and Negation block section 13 (8 items).
+4. Say aloud 5 Dativ chunks from memory: Das Buch gehört mir, Sie hilft dem Kind, ...
+5. Self-score: count correct answers in the drill blocks.
+
+!!! warning "Self-score rule"
+    If less than 80% correct, mark the 5 hardest items, wait 24 hours, and re-do exactly those 5.
+
+- [ ] 3 drill blocks done within time.
+- [ ] 5 Dativ chunks spoken from memory.
+- [ ] Score >= 80% or re-test list made.
+
 ## Tip
 
 Do not memorize all adjective grids at once. Memorize the 5 Dativ chunks in 05-prepositions first: mit meinem Bruder, in einem kleinen Haus - they carry you 80% of the way.

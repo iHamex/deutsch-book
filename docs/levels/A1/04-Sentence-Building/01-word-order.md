@@ -221,6 +221,44 @@ These connectors do **NOT** change word order. Both clauses stay at position 2.
     2. **Is it a weil/dass/wenn/ob/als clause?** Then verb at END of that clause.
     3. **Is it und/oder/aber/denn?** Then verb stays at 2 in both clauses.
 
+---
+
+## 10. Practice - verb position
+
+Build each German sentence. Say it out loud, then check. Ask yourself each time: where is the verb? Position 2, position 1 (question), or END (weil/dass)?
+
+- I learn German.
+- Today I learn German. (Heute first)
+- Where do you live? (Wo)
+- Do you come from Iran? (yes/no question)
+- I learn on Monday at school. (time before place)
+- I would like to drink a coffee. (modal + infinitive at end)
+- Yesterday I learned German. (Perfekt, gestern first)
+- I stay home because it is raining. (weil)
+- I think that the film is good. (dass)
+- He is tired, but he works. (aber - verb stays at 2)
+- I am coming, because I have time. (denn - verb stays at 2)
+- We are going out, or we stay home. (oder)
+- When I was little, I played football. (als + Präteritum)
+
+??? success "Antworten - expand to check"
+
+    1. Ich lerne Deutsch.
+    2. Heute lerne ich Deutsch.
+    3. Wo wohnen Sie?
+    4. Kommen Sie aus dem Iran?
+    5. Ich lerne am Montag in der Schule.
+    6. Ich möchte einen Kaffee trinken.
+    7. Gestern habe ich Deutsch gelernt.
+    8. Ich bleibe zu Hause, weil es regnet.
+    9. Ich denke, dass der Film gut ist.
+    10. Er ist müde, aber er arbeitet.
+    11. Ich komme, denn ich habe Zeit.
+    12. Wir gehen aus, oder wir bleiben zu Hause.
+    13. Als ich klein war, spielte ich Fußball.
+
+---
+
 !!! info "Re-test and cross-reference"
     Re-test target: [M2](../08-Practice-Lab/01-mistakes.md#m2-weil-clause-word-order-sentence-building) (weil verb-final), [M5](../08-Practice-Lab/01-mistakes.md#m5-statement-vs-question-ichsie-sentence-building) (statement vs question). Tie back to [mistakes.md](../08-Practice-Lab/01-mistakes.md).
     

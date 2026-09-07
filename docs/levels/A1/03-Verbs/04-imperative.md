@@ -76,4 +76,40 @@
 !!! warning "du vs Sie"
     `Komm!` (du) vs `Kommen Sie!` (Sie) - formal always infinitive + Sie.
 
+---
+
+## Practice - give the command in both forms
+
+Give each command in German, first to a friend (du), then formally (Sie). Say both out loud, then check.
+
+- Come here! (kommen)
+- Go home! (gehen)
+- Wait here! (warten)
+- Help me, please! (helfen)
+- Give me the book, please! (geben)
+- Get up! (aufstehen)
+- Call me! (anrufen)
+- Turn left! (ab/umbiegen -> links abbiegen)
+- Tidy up! (aufräumen)
+- Go shopping! (einkaufen)
+- Be quiet, please! (sein)
+- Sit down! (sich setzen)
+
+??? success "Antworten - expand to check"
+
+    1. Komm hierher! / Kommen Sie hierher!
+    2. Geh nach Hause! / Gehen Sie nach Hause!
+    3. Warte hier! / Warten Sie hier!
+    4. Hilf mir, bitte! / Helfen Sie mir, bitte!
+    5. Gib mir das Buch, bitte! / Geben Sie mir das Buch, bitte!
+    6. Steh auf! / Stehen Sie auf!
+    7. Ruf mich an! / Rufen Sie mich an!
+    8. Bieg links ab! / Biegen Sie links ab!
+    9. Räum auf! / Räumen Sie auf!
+    10. Kauf ein! / Kaufen Sie ein!
+    11. Sei ruhig, bitte! / Seien Sie ruhig, bitte!
+    12. Setz dich! / Setzen Sie sich!
+
+---
+
 > Log slips in [mistakes.md](../08-Practice-Lab/01-mistakes.md).

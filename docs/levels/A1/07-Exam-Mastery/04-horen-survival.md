@@ -48,6 +48,32 @@
 
 ## Your last-week plan
 
+## Quick practice - hear the number
+
+Read each phrase in German, then say the number/answer in English out loud. Check yourself - then do it again with the audio of the sample test.
+
+- Wie viel kostet das Ticket? - 5 Euro.
+- Der Kurs beginnt um 9 Uhr.
+- Ich wohne in der Bahnhofstraße 12.
+- Mein Telefonnummer ist 0176 1234567.
+- Der Zug fährt um halb sieben ab.
+- Ich habe zwei Kinder.
+- Das Treffen ist am Montag.
+- Wir treffen uns um Viertel nach drei.
+
+??? success "Antworten - expand to check"
+
+    1. 5 (Euro)
+    2. 9 (Uhr)
+    3. 12 (Hausnummer)
+    4. 0176 1234567
+    5. 6:30 (halb sieben)
+    6. 2 (Kinder)
+    7. Montag
+    8. 15:15 / 3:15 (Viertel nach drei)
+
+---
+
 - Do the official Übungstest 1 Hören twice with audio (links in [06-telc-sample-tests.md](06-telc-sample-tests.md)).
 - Daily 3 min: say your numbers 1-20 and the alphabet out loud (from [numbers-dates.md](../01-Foundations/01-numbers-dates.md)).
 - Daily 2 min: repeat the phone chunks out loud until they are automatic.

@@ -109,34 +109,43 @@ If no adjective, you already know the article. If an adjective stands BEFORE the
 
 **Rule:** after **der/die/das**, the article does the work, adjective just adds **-e or -en**. After **ein/kein/mein**, the adjective carries the gender.
 
-### 7a. After der / die / das
+### 7a-7c. The full pattern - pick a gender tab
 
-| | Nominativ | Akkusativ | Dativ |
-|---|---|---|---|
-| m | der alt**e** Mann | den alt**en** Mann | dem alt**en** Mann |
-| f | die alt**e** Frau | die alt**e** Frau | der alt**en** Frau |
-| n | das alt**e** Kind | das alt**e** Kind | dem alt**en** Kind |
-| pl | die alt**en** Kinder | die alt**en** Kinder | den alt**en** Kindern |
+Each tab shows ONE gender across all three systems (after der, after ein/mein, after no article):
 
-### 7b. After ein / kein / mein / dein / sein / ihr
+=== "Masculine (der)"
 
-| | Nominativ | Akkusativ | Dativ |
-|---|---|---|---|
-| m | ein alt**er** Mann | ein**en** alt**en** Mann | ein**em** alt**en** Mann |
-| f | ein alt**e** Frau | ein alt**e** Frau | ein**er** alt**en** Frau |
-| n | ein alt**es** Kind | ein alt**es** Kind | ein**em** alt**en** Kind |
-| pl | keine alt**en** Kinder | keine alt**en** Kinder | kein**en** alt**en** Kindern |
+    | | Nominativ | Akkusativ | Dativ |
+    | --- | --- | --- | --- |
+    | after der | der alt**e** Mann | den alt**en** Mann | dem alt**en** Mann |
+    | after ein | ein alt**er** Mann | ein**en** alt**en** Mann | ein**em** alt**en** Mann |
+    | no article | alt**er** Mann | alt**en** Mann | alt**em** Mann |
 
-> **Key:** after der -> adjective **-e** (or **-en** in dative/plural). After ein -> adjective **-er** (m nom), **-es** (n nom/akk), **-e** (f), **-en** elsewhere.
+=== "Feminine (die)"
 
-### 7c. After no article (zero)
+    | | Nominativ | Akkusativ | Dativ |
+    | --- | --- | --- | --- |
+    | after der | die alt**e** Frau | die alt**e** Frau | der alt**en** Frau |
+    | after ein | ein alt**e** Frau | ein alt**e** Frau | ein**er** alt**en** Frau |
+    | no article | alt**e** Frau | alt**e** Frau | alt**er** Frau |
 
-| | Nominativ | Akkusativ | Dativ |
-|---|---|---|---|
-| m | alt**er** Mann | alt**en** Mann | alt**em** Mann |
-| f | alt**e** Frau | alt**e** Frau | alt**er** Frau |
-| n | alt**es** Kind | alt**es** Kind | alt**em** Kind |
-| pl | alt**e** Kinder | alt**e** Kinder | alt**en** Kindern |
+=== "Neuter (das)"
+
+    | | Nominativ | Akkusativ | Dativ |
+    | --- | --- | --- | --- |
+    | after der | das alt**e** Kind | das alt**e** Kind | dem alt**en** Kind |
+    | after ein | ein alt**es** Kind | ein alt**es** Kind | ein**em** alt**en** Kind |
+    | no article | alt**es** Kind | alt**es** Kind | alt**em** Kind |
+
+=== "Plural (die)"
+
+    | | Nominativ | Akkusativ | Dativ |
+    | --- | --- | --- | --- |
+    | after der | die alt**en** Kinder | die alt**en** Kinder | den alt**en** Kindern |
+    | after ein | keine alt**en** Kinder | keine alt**en** Kinder | kein**en** alt**en** Kindern |
+    | no article | alt**e** Kinder | alt**e** Kinder | alt**en** Kindern |
+
+> **Key:** after der -> adjective **-e** (or **-en** in dative/plural). After ein -> adjective **-er** (m nom), **-es** (n nom/akk), **-e** (f), **-en** elsewhere. No article -> the adjective itself carries the ending (-er, -e, -es, -en).
 
 ### 7d. Adjective + preposition (the "in einem kleinen Haus" rule)
 
@@ -196,6 +205,52 @@ Relative clauses use **der/die/das** as "who/which/that" and send the verb to th
 - Das ist das Buch, **das** ich lese.
 
 > **Punctuation:** comma BEFORE relative clause, verb at END inside it. For A1, just recognize it when you read.
+
+---
+
+## 10. Practice - choose the right case
+
+Translate each sentence. Say it out loud, then check. Every sentence needs a case decision (den/dem/einem/meinem...).
+
+- I see the man.
+- I help the man.
+- I give the woman the book.
+- I have a brother.
+- I see my brother.
+- I play with my brother.
+- Do you see me?
+- Can you help me?
+- That tastes good to me.
+- The book belongs to him.
+- She shows you (plural) the way.
+- I go to the doctor. (zum = zu + dem)
+- The child drinks the milk.
+- We help the children.
+- I buy a car.
+- I drive with my car.
+- He thanks the woman.
+- I see the children. (plural)
+
+??? success "Antworten - expand to check"
+
+    1. Ich sehe den Mann.
+    2. Ich helfe dem Mann.
+    3. Ich gebe der Frau das Buch.
+    4. Ich habe einen Bruder.
+    5. Ich sehe meinen Bruder.
+    6. Ich spiele mit meinem Bruder.
+    7. Siehst du mich?
+    8. Kannst du mir helfen?
+    9. Das schmeckt mir.
+    10. Das Buch gehört ihm.
+    11. Sie zeigt euch den Weg.
+    12. Ich gehe zum Arzt.
+    13. Das Kind trinkt die Milch.
+    14. Wir helfen den Kindern.
+    15. Ich kaufe ein Auto.
+    16. Ich fahre mit meinem Auto.
+    17. Er dankt der Frau.
+    18. Ich sehe die Kinder.
 
 ---
 

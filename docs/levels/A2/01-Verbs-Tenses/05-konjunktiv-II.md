@@ -6,7 +6,7 @@
 
 ## 1. hätte and wäre - full tables (know cold)
 
-| Person | haben → hätte | sein → wäre | English |
+| Person | haben -> hätte | sein -> wäre | English |
 | --- | --- | --- | --- |
 | ich | hätte | wäre | I would have / would be |
 | du | hättest | wärest | you would have / would be |
@@ -18,6 +18,9 @@
 - Ich **hätte** gern einen Kaffee. (I would like a coffee.)
 - **Wäre** das möglich? (Would that be possible?)
 - Ich **wäre** gern dabei. (I would gladly join.)
+
+!!! tip "Chunk to memorize"
+    *Ich hätte gern einen Kaffee.* (I would like a coffee.) / *Wäre das möglich?* (Would that be possible?)
 
 ---
 
@@ -85,30 +88,77 @@ Full tables for the two most-used polite modals:
 | phone | **Dürfte** ich bitte eine Nachricht **hinterlassen**? | Might I please leave a message? |
 | doctor | **Könnte** ich bitte früher **kommen**? | Could I please come earlier? |
 
-### Advice with wäre besser (even softer than sollten)
+### Advice with wäre besser (even softer als sollten)
 
-- Es **wäre** besser, du **gingest** früh ins Bett. (too grammar-heavy - say instead:)
 - Es **wäre** besser, früh ins Bett zu **gehen**. (It would be better to go to bed early.)
 - Es **wäre** gut, den Arzt **anzurufen**. (It would be good to call the doctor.)
 
-### More hätte gern (order anything politely)
+### Mehr hätte gern (order anything politely)
 
 - Ich **hätte** gern ein Ticket nach Berlin.
 - Wir **hätten** gern einen Tisch für zwei Personen.
 - Ich **hätte** gern Ihre Hilfe bei einem Problem.
 
+!!! tip "Chunk to memorize"
+    *Ich hätte gern ein Ticket.* (I would like a ticket.) / *Könnten Sie mir bitte helfen?* (Could you please help me?)
+
 ---
 
-## 5. Wishes - wenn only (receptive-active)
+## 5. Wünsche - wenn only (receptive-active)
 
 - **Wenn** ich Zeit **hätte**, **würde** ich dich **besuchen**. (If I had time, I would visit you.)
 - **Wenn** er da **wäre**, **wäre** alles einfacher. (If he were here, everything would be easier.)
 
 Pattern: wenn + hätte/wäre ... , würde + Infinitiv. Verb positions follow normal Nebensatz rules (verb at END after wenn).
 
+!!! tip "Chunk to memorize"
+    *Wenn ich Zeit hätte, würde ich kommen.* (If I had time, I would come.)
+
+- Log slips in [mistakes.md](../08-Practice-Lab/01-mistakes.md).
+
 ---
 
-## 6. Cheat sheet
+## 6. Practice - be polite
+
+Say each English sentence in polite German. Use hätte, wäre, würde, könnte, sollte, möchte.
+
+- I would like a coffee, please.
+- I would like a ticket.
+- Would that be possible?
+- Would you please help me? (Sie)
+- Could you please help me? (Sie)
+- Could we please have the menu?
+- Would you still have a room free? (Sie)
+- In your place I would call the doctor.
+- You should go to the doctor. (du)
+- You should sleep more. (du)
+- Would you have a moment? (du)
+- If I had time, I would come.
+- If he were here, everything would be easier.
+- I would like to reserve a room.
+- Might I ask you something? (Sie)
+
+??? success "Antworten - expand to check"
+
+    1. Ich hätte gern einen Kaffee, bitte.
+    2. Ich hätte gern ein Ticket.
+    3. Wäre das möglich?
+    4. Würden Sie mir bitte helfen?
+    5. Könnten Sie mir bitte helfen?
+    6. Könnten wir bitte die Speisekarte haben?
+    7. Hätten Sie noch ein Zimmer frei?
+    8. An deiner Stelle würde ich den Arzt anrufen.
+    9. Du solltest zum Arzt gehen.
+    10. Du solltest mehr schlafen.
+    11. Hättest du kurz Zeit?
+    12. Wenn ich Zeit hätte, würde ich kommen.
+    13. Wenn er da wäre, wäre alles einfacher.
+    14. Ich möchte gern ein Zimmer reservieren.
+    15. Dürfte ich Sie etwas fragen?
+
+---
+
+## 7. Cheat sheet
 
 | Job | Form | Example | English |
 | --- | --- | --- | --- |

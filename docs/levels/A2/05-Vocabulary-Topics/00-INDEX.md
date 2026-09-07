@@ -1,6 +1,6 @@
 # Part 05 - Vocabulary Topics (A2)
 
-> Goal: own the 12 telc A2 daily-life themes as speakable chunks - Medien, Verkehr, Wohnung, Ämter, Beruf, Einkaufen, Gesundheit, Bank, Freizeit.
+> Own the 15 telc A2 daily-life themes as speakable chunks - Medien, Verkehr, Wohnung, Ämter, Beruf, Einkaufen, Gesundheit, Bank, Freizeit, Natur, Gefühle, Familie.
 
 ---
 
@@ -8,18 +8,21 @@
 
 | # | File | What you learn | Time |
 |---|---|---|---|
-| 01 | **medien-wetter-termine.md** (planned) | Mediennutzung, Wetter im Detail, Termine/Verabredungen absagen und verschieben | 30 min |
-| 02 | **verkehr-reisen.md** (planned) | Verkehrsmittel, Reisebuchung, Verspätung/Durchsagen, Weg- und Lagebeschreibung | 30 min |
-| 03 | **wohnung-umzug.md** (planned) | Wohnungssuche/Anzeigen, Einrichtung, Nachbarn, Mängel melden | 30 min |
-| 04 | **aemter-behoerden.md** (planned) | Ämter und Zuständigkeiten, Formulare, offizielle Briefe, Telefonieren mit Behörden | 30 min |
-| 05 | **beruf-bewerbung.md** (planned) | Berufserfahrung, Stellenangebote lesen, Bewerbung/Lebenslauf, Arbeitsalltag | 30 min |
-| 06 | **einkaufen-kleidung.md** (planned) | Einkaufen, Kleidung/Farben/Größen, Personenbeschreibung, Café/Restaurant, Reklamation | 30 min |
-| 07 | **arbeit-kommunikation.md** (planned) | Tätigkeiten/Abläufe, Kollegen/Vorgesetzte, Regeln, duzen/siezen, E-Mails | 30 min |
-| 08 | **schule-ausbildung.md** (planned) | Schule/Ausbildung/Weiterbildung, Berufswünsche, Kinderbetreuung | 20 min |
-| 09 | **gesundheit-arzt.md** (planned) | Körper erweitert, Arztbesuch/Termine, Medikamente/Apotheke, Krankmeldung | 30 min |
-| 10 | **bank-geld.md** (planned) | Konto/Überweisung, Geldautomaten, Preise/Rechnungen, Ratenzahlung | 20 min |
-| 11 | **freizeit-sport.md** (planned) | Hobbys vertieft, Veranstaltungen/Einladungen, Sport, Feste planen | 20 min |
-| 12 | **nomen-verb-verbindungen.md** (planned) | Fixed pairs: Angst haben vor, Spaß machen, Schluss machen, sich Mühe geben, zur Verfügung stehen | 30 min |
+| 01 | [medien-wetter-termine.md](01-medien-wetter-termine.md) | Mediennutzung, Wetter im Detail, Termine/Verabredungen absagen und verschieben | 30 min |
+| 02 | [verkehr-reisen.md](02-verkehr-reisen.md) | Verkehrsmittel, Reisebuchung, Verspätung/Durchsagen, Weg- und Lagebeschreibung | 30 min |
+| 03 | [wohnung-umzug.md](03-wohnung-umzug.md) | Wohnungssuche/Anzeigen, Einrichtung, Nachbarn, Mängel melden | 30 min |
+| 04 | [aemter-behoerden.md](04-aemter-behoerden.md) | Ämter und Zuständigkeiten, Formulare, offizielle Briefe, Telefonieren mit Behörden | 30 min |
+| 05 | [beruf-bewerbung.md](05-beruf-bewerbung.md) | Berufserfahrung, Stellenangebote lesen, Bewerbung/Lebenslauf, Arbeitsalltag | 30 min |
+| 06 | [einkaufen-kleidung.md](06-einkaufen-kleidung.md) | Einkaufen, Kleidung/Farben/Größen, Personenbeschreibung, Café/Restaurant, Reklamation | 30 min |
+| 07 | [arbeit-kommunikation.md](07-arbeit-kommunikation.md) | Tätigkeiten/Abläufe, Kollegen/Vorgesetzte, Regeln, duzen/siezen, E-Mails | 30 min |
+| 08 | [schule-ausbildung.md](08-schule-ausbildung.md) | Schule/Ausbildung/Weiterbildung, Berufswünsche, Kinderbetreuung | 20 min |
+| 09 | [gesundheit-arzt.md](09-gesundheit-arzt.md) | Körper erweitert, Arztbesuch/Termine, Medikamente/Apotheke, Krankmeldung | 30 min |
+| 10 | [bank-geld.md](10-bank-geld.md) | Konto/Überweisung, Geldautomaten, Preise/Rechnungen, Ratenzahlung, bei der Post (Paket/Brief schicken) | 25 min |
+| 11 | [freizeit-sport.md](11-freizeit-sport.md) | Hobbys vertieft, Sportarten, Veranstaltungen, Feste und Feiertage, Einladungen annehmen/absagen | 25 min |
+| 12 | [nomen-verb-verbindungen.md](12-nomen-verb-verbindungen.md) | Fixed pairs: Angst haben vor, Spaß machen, Lust haben auf, Schluss machen, sich Mühe geben, zur Verfügung stehen | 30 min |
+| 13 | [natur-umwelt.md](13-natur-umwelt.md) | Natur und Umwelt: Landschaft, Tiere, Pflanzen, Mülltrennung, Umweltschutz, Klimawandel | 25 min |
+| 14 | [gefuehle.md](14-gefuehle.md) | Gefühle und Stimmungen: Grundgefühle, Adjektive + Gegenteile, sich freuen/ärgern, Reaktionen | 25 min |
+| 15 | [familie.md](15-familie.md) | Familie erweitert: Familienstand, Verwandte, Schwiegereltern, Beziehungen, Familie beschreiben | 25 min |
 
 ---
 
@@ -35,6 +38,16 @@
 - Read Anzeigen, Formulare, and official letters without panic.
 - Say 5 sentences about your own life per theme from memory.
 
-## Tip
+## Timed Practice (weekly, 15 min per theme)
 
-Learn nouns with articles and verbs with prepositions - always der Termin, auf den Bus warten, never a bare word. Chunks, not lists.
+1. Pick ONE theme file (01-15) and set a timer for 15 minutes.
+2. Do that file's Practice drill from memory - cover the answers, say the German aloud.
+3. Speak 5 sentences about YOUR life using that theme (e.g., for Bank: Ich möchte 200 Euro abheben ...).
+4. Self-score: count correct answers in the drill.
+
+!!! warning "Self-score rule"
+    If less than 80% correct, mark the 5 hardest items, wait 24 hours, and re-do exactly those 5. Rotate themes so all 15 are covered every 4 weeks.
+
+- [ ] 1 theme drill done within time.
+- [ ] 5 personal sentences spoken aloud.
+- [ ] Score >= 80% or re-test list made.

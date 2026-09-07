@@ -27,6 +27,20 @@
 - Buy a ticket, order food, and ask for sizes.
 - Use opposites to describe quickly.
 
+## Timed Practice (weekly, 15 min per theme)
+
+1. Pick ONE module from [vocabulary-modules.md](01-vocabulary-modules.md) and set a timer for 15 minutes.
+2. Say 5 sentences about YOUR life using that theme (Meine Wohnung hat ... / Ich brauche ... / Ich esse gern ...).
+3. Recall the 10 opposite pairs from [opposites.md](02-opposites.md) out loud.
+4. Self-score: could you say the 5 sentences without stopping? Count the pairs you got right.
+
+!!! warning "Self-score rule"
+    If less than 80% of the sentences/pairs came out, mark the 5 hardest words, wait 24 hours, and re-drill exactly those. Rotate themes weekly.
+
+- [ ] 1 theme module drilled within time.
+- [ ] 5 personal sentences spoken aloud.
+- [ ] 10 opposite pairs recalled.
+
 ## Tip
 
 Learn nouns WITH article: not "Tisch = table" but "der Tisch". The table in vocabulary-modules 08 gives you the correct der/die/das for the 40 most used nouns - memorize that table once.

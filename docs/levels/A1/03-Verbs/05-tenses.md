@@ -1746,6 +1746,46 @@ Everything else in the tables above uses **haben** - your default helper.
 - haben → **hatte**: Ich hatte keine Zeit.
 - modal → **konnte/musste/wollte + infinitive**: Ich musste arbeiten.
 
+### Practice - build the past sentence
+
+Translate each sentence into German past tense. Say it out loud, then check. First decide: haben or sein? Regular (ge-...-t) or irregular (ge-...-en)? Finished action = Perfekt; story/he/she/it with sein/haben/modals = Präteritum.
+
+- I have eaten.
+- I have drunk water.
+- Yesterday I learned German.
+- We have visited Berlin.
+- I have bought bread.
+- He has gone home. (sein)
+- We have traveled to Germany. (sein)
+- She has gotten up early. (aufstehen, sein)
+- I have not understood that.
+- Have you eaten yet? (schon)
+- No, I have not eaten yet. (noch nicht)
+- I was ill. (Präteritum, sein)
+- I had no time. (Präteritum, haben)
+- I could not come. (Präteritum, modal)
+- Yesterday I got up at 7, ate breakfast and went to work. (model story sentence)
+
+??? success "Antworten - expand to check"
+
+    1. Ich habe gegessen.
+    2. Ich habe Wasser getrunken.
+    3. Gestern habe ich Deutsch gelernt.
+    4. Wir haben Berlin besucht.
+    5. Ich habe Brot gekauft.
+    6. Er ist nach Hause gegangen.
+    7. Wir sind nach Deutschland gereist.
+    8. Sie ist früh aufgestanden.
+    9. Ich habe das nicht verstanden.
+    10. Hast du schon gegessen?
+    11. Nein, ich habe noch nicht gegessen.
+    12. Ich war krank.
+    13. Ich hatte keine Zeit.
+    14. Ich konnte nicht kommen.
+    15. Gestern bin ich um 7 Uhr aufgestanden, habe gefrühstückt und bin zur Arbeit gegangen.
+
+---
+
 ### Final self-check
 
 Before you finish a past-tense sentence, ask:

@@ -113,6 +113,8 @@ These three look similar but mean different times.
 
 > **Check:** vor = past (back), seit = since then until now, in = future (forward). If you use seit, verb stays in present: "Ich lerne seit...". See [05-tenses.md §18](../03-Verbs/05-tenses.md#18-one-important-difference-schon-seit).
 
+---
+
 ### 5b. wegen - because of (reason)
 
 - **wegen** gives the REASON: because of ...
@@ -128,6 +130,8 @@ These three look similar but mean different times.
 | Zuerst gehen wir zum Kindergarten wegen dem Tim. | First we go to kindergarten because of Tim. |
 
 > **Warning:** don't confuse **wegen** (because of) with **deswegen** (therefore): Es regnet, **deswegen** gehe ich nicht raus.
+
+---
 
 ### 5c. nach Hause vs zu Hause - movement vs location
 
@@ -149,6 +153,56 @@ These three look similar but mean different times.
 | in dem | **im** | **im** Sommer |
 | zu dem | **zum** | **zum** Arzt |
 | zu der | **zur** | **zur** Arbeit |
+
+---
+
+---
+
+## 7. Practice - fill the preposition
+
+Complete each sentence in German. The preposition is in the English - you supply it. Say it out loud, then check.
+
+- at 8 o'clock (um)
+- on Monday
+- in summer
+- from 9 to 5
+- I come from Iran.
+- I am going to Munich. (city)
+- I go to the doctor. (zu + dem)
+- I go to work. (zu + der)
+- I drive by train.
+- I come from work. (von)
+- The book lies on the table. (location)
+- He puts the book on the table. (movement)
+- The picture hangs on the wall. (location)
+- I have been learning German for 2 years. (seit)
+- I saw him two days ago. (vor)
+- I will go to Berlin in two days. (in)
+- I am going home. (nach Hause)
+- I am at home. (zu Hause)
+- without my brother (ohne)
+
+??? success "Antworten - expand to check"
+
+    1. um 8 Uhr
+    2. am Montag
+    3. im Sommer
+    4. von 9 bis 17 Uhr
+    5. Ich komme aus dem Iran.
+    6. Ich fahre nach München.
+    7. Ich gehe zum Arzt.
+    8. Ich gehe zur Arbeit.
+    9. Ich fahre mit dem Zug.
+    10. Ich komme von der Arbeit.
+    11. Das Buch liegt auf dem Tisch.
+    12. Er legt das Buch auf den Tisch.
+    13. Das Bild hängt an der Wand.
+    14. Ich lerne seit 2 Jahren Deutsch.
+    15. Ich habe ihn vor zwei Tagen gesehen.
+    16. Ich fahre in zwei Tagen nach Berlin.
+    17. Ich gehe nach Hause.
+    18. Ich bin zu Hause.
+    19. ohne meinen Bruder
 
 ---
 

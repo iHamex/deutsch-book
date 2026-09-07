@@ -650,6 +650,46 @@ The reflexive pronoun sits right after the verb.
 
 ---
 
+## 13b. Practice - say it under time pressure
+
+Translate each phrase. Say it out loud in under 5 seconds each, then check. These are the exact frames the examiner expects.
+
+- Nice to meet you!
+- My name is Hamed and I am from Iran.
+- I work as a software developer.
+- I live in Munich.
+- I speak a little German.
+- Can you say that again, please?
+- What does that mean?
+- I am sorry, I do not understand that.
+- I would like a coffee, please.
+- How much does that cost?
+- I have a question.
+- Could you please speak more slowly?
+- I think that ... (opinion)
+- I agree. / I don't agree.
+- Thank you very much!
+
+??? success "Antworten - expand to check"
+
+    1. Freut mich!
+    2. Ich heiße Hamed und komme aus dem Iran.
+    3. Ich arbeite als Softwareentwickler.
+    4. Ich wohne in München.
+    5. Ich spreche ein bisschen Deutsch.
+    6. Können Sie das bitte wiederholen?
+    7. Was bedeutet das?
+    8. Tut mir leid, ich verstehe das nicht.
+    9. Ich möchte einen Kaffee, bitte.
+    10. Wie viel kostet das?
+    11. Ich habe eine Frage.
+    12. Können Sie bitte langsamer sprechen?
+    13. Ich denke, dass ...
+    14. Da bin ich einverstanden. / Da bin ich nicht einverstanden.
+    15. Vielen Dank!
+
+---
+
 ## 14. Final speaking checklist
 
 - [ ] Teil 1: identity script memorized, name + city + job in ONE breath

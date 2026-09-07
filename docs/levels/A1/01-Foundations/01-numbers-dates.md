@@ -379,7 +379,116 @@ Key letters that Germans spell differently than you expect:
 
 ---
 
-## 10. Quick-cheat to survive ANY number question
+## 10. Practice - say it, then check
+
+Say each English number, price, date, or time in German out loud, then expand to check.
+
+**Numbers:**
+
+- 16
+- 17
+- 21
+- 34
+- 67
+- 70
+- 90
+- 100
+- 150
+- 750
+- 1000
+
+**Prices:**
+
+- 3 euros
+- 2 euros 50
+- 25 cents
+- 9 euros 99
+
+**Days and months:**
+
+- Monday
+- Saturday
+- on Monday
+- every day
+- in September
+- in summer
+
+**Dates and years:**
+
+- the 1st (der ...)
+- the 3rd
+- the 7th
+- the 21st of September (birthday)
+- 1985 (as a year)
+
+**Times (the trap zone):**
+
+- It is half past eight. (halb...)
+- It is half past three.
+- It is quarter past eight.
+- It is quarter to nine.
+- It is five past eight.
+- It is ten to nine.
+- 18:00 (official time)
+- At what time does the train leave?
+
+??? success "Antworten - expand to check"
+
+    **Numbers:**
+
+    1. sechzehn
+    2. siebzehn
+    3. einundzwanzig
+    4. vierunddreißig
+    5. siebenundsechzig
+    6. siebzig
+    7. neunzig
+    8. (ein)hundert
+    9. einhundertfünfzig
+    10. siebenhundertfünfzig
+    11. (ein)tausend
+
+    **Prices:**
+
+    12. drei Euro
+    13. zwei Euro fünfzig
+    14. fünfundzwanzig Cent
+    15. neun Euro neunundneunzig
+
+    **Days and months:**
+
+    16. Montag
+    17. Samstag / Sonnabend
+    18. am Montag
+    19. jeden Tag
+    20. im September
+    21. im Sommer
+
+    **Dates and years:**
+
+    22. der erste
+    23. der dritte
+    24. der siebte
+    25. der einundzwanzigste September
+    26. neunzehnhundertfünfundachtzig
+
+    **Times:**
+
+    27. Es ist halb neun. (= 8:30)
+    28. Es ist halb vier. (= 3:30)
+    29. Es ist Viertel nach acht. (= 8:15)
+    30. Es ist Viertel vor neun. (= 8:45)
+    31. Es ist fünf nach acht. (= 8:05)
+    32. Es ist zehn vor neun. (= 8:50)
+    33. achtzehn Uhr
+    34. Um wie viel Uhr fährt der Zug?
+
+!!! warning "halb trap re-check"
+    You wrote halb vier = 3:30 (subtract 1 from what you hear). If you wrote 4:30, re-drill this block after 24 hours.
+
+---
+
+## 11. Quick-cheat to survive ANY number question
 
 1. Numbers 1-20 → memorize cold
 2. Big numbers → listen for "hundert" / "tausend"

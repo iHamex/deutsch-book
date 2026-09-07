@@ -264,6 +264,46 @@ Don't study every noun - just these + learn as groups:
 
 ---
 
+## Practice - say it from memory
+
+Translate each sentence. Say it out loud, then check. These pull from every module in this file - your exam topics.
+
+- My name is Hamed and I am 30 years old.
+- I am married and have two children.
+- I live in Munich, in an apartment.
+- I work as a software developer.
+- On Monday I go to work at 8.
+- I eat breakfast and drink coffee.
+- I like to play football. (gern)
+- I drive to work by train.
+- I need a new jacket.
+- My head hurts. (der Kopf)
+- What is the weather like today?
+- The ticket costs 3 euros.
+- Where is the supermarket, please?
+- I have no time. (kein)
+- There is a pharmacy nearby. (es gibt)
+
+??? success "Antworten - expand to check"
+
+    1. Ich heiße Hamed und bin 30 Jahre alt.
+    2. Ich bin verheiratet und habe zwei Kinder.
+    3. Ich wohne in München, in einer Wohnung.
+    4. Ich arbeite als Softwareentwickler.
+    5. Am Montag gehe ich um 8 Uhr zur Arbeit.
+    6. Ich frühstücke und trinke Kaffee.
+    7. Ich spiele gern Fußball.
+    8. Ich fahre mit dem Zug zur Arbeit.
+    9. Ich brauche eine neue Jacke.
+    10. Mir tut der Kopf weh.
+    11. Wie ist das Wetter heute?
+    12. Das Ticket kostet 3 Euro.
+    13. Wo ist bitte der Supermarkt?
+    14. Ich habe keine Zeit.
+    15. Es gibt eine Apotheke in der Nähe.
+
+---
+
 ## Quick "what to memorize first" (if you're time-poor)
 1. Greetings (module 1) - talk instantly
 2. Health 5 phrases + doctor dialogue (module 5) - exam topics

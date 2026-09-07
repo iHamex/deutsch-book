@@ -146,6 +146,46 @@
 
 ---
 
+## Practice - the opposite pairs
+
+Give the opposite of each German word, then use it in a short phrase. Say it out loud, then check.
+
+- groß (big)
+- teuer (expensive)
+- gut (good)
+- kalt (cold)
+- alt (old)
+- schnell (fast)
+- neu (new)
+- links (left)
+- oben (up)
+- heute (today)
+- früh (early)
+- billig (cheap)
+- lang (long)
+- schön (beautiful)
+- glücklich (happy)
+
+??? success "Antworten - expand to check"
+
+    1. klein - das kleine Kind / das große Haus
+    2. billig - Die Jacke ist billig.
+    3. schlecht - Das Wetter ist gut, nicht schlecht.
+    4. heiß - Der Kaffee ist heiß, der Tee ist kalt.
+    5. jung - Er ist alt, sie ist jung.
+    6. langsam - Der Zug ist schnell, das Fahrrad ist langsam.
+    8. alt - ein neues Auto / ein altes Haus
+    9. rechts - links oder rechts?
+    10. unten - oben oder unten?
+    11. morgen - heute oder morgen
+    12. spät - früh oder spät
+    13. teuer - Das Hemd ist billig, die Jacke ist teuer.
+    14. kurz - der lange Weg / der kurze Weg
+    15. hässlich - schön oder hässlich
+    16. unglücklich - glücklich oder unglücklich
+
+---
+
 ## Quick memory tricks
 
 1. Most adjectives just need "un-" for the opposite: **glücklich/un-glücklich**, **freundlich/un-freundlich**, **gut/ungut** (careful: ungut is rare - stick to schlecht).

@@ -17,7 +17,7 @@
 ## How this Part connects
 
 - Before: [05-Vocabulary-Topics](../05-Vocabulary-Topics/00-INDEX.md) (you know words, now make them sound spoken)
-- After: [09-Fluency-Speaking](../09-Fluency-Speaking/00-INDEX.md) (use these phrases live)
+- After: [07-Exam-Mastery](../07-Exam-Mastery/00-INDEX.md) (exam Sprechen uses these same phrases)
 - Use this Part daily: pick 5 phrases per day, say them OUT LOUD until automatic, then add 5 more.
 
 ## What you can do after this Part
@@ -26,6 +26,20 @@
 - Sound human with fillers (naja, halt, eben, irgendwie).
 - Use V1 statements at work (Mach ich gleich.).
 - Check agreement with oder? / Stimmt's? / Findest du nicht auch?
+
+## Timed Practice (daily, 15 min)
+
+1. Set a timer for 15 minutes.
+2. Pick 5 phrases from [daily-conversations.md](01-daily-conversations.md) and say them OUT LOUD with the spoken form until automatic (drop -e, mal, fillers).
+3. Speak ONE example conversation from the file aloud, taking BOTH roles.
+4. End with 3 reactions from memory: Stimmt! / Echt? / Schade!
+
+!!! warning "Self-score rule"
+    If you hesitated more than 3 times or stopped for more than 5 seconds, repeat the same 5 phrases after 24 hours. Fluency, not perfection.
+
+- [ ] 5 phrases spoken until automatic.
+- [ ] 1 example conversation spoken (both roles).
+- [ ] 3 reactions said without thinking.
 
 ## Tip
 

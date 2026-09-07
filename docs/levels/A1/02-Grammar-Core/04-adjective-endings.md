@@ -139,4 +139,46 @@ Learn each adjective inside a complete sentence and say it out loud:
 
 ---
 
+---
+
+## 8. Practice - the adjective ending in context
+
+Complete each sentence in German with the right adjective ending. Say it out loud, then check. Ask yourself: after der/die/das or after ein/mein? Dative? Wo? or Wohin?
+
+- The coffee is hot. (no ending!)
+- a hot coffee (ein + m)
+- the small child (das)
+- I drink the cold coffee. (den)
+- I would like a big coffee, please. (einen)
+- I need new shoes. (keine + pl)
+- My new phone is good. (mein + n)
+- I like to drink cold water. (no article, n)
+- I buy fresh bread. (no article, n)
+- with my old brother (mit meinem)
+- at my new job (bei meiner)
+- I live in a small house. (in einem, Wo?)
+- I go into a small house. (in ein, Wohin?)
+- without my brother (ohne, always akk)
+- The jacket is too expensive. (no ending!)
+
+??? success "Antworten - expand to check"
+
+    1. Der Kaffee ist heiß.
+    2. ein heißer Kaffee
+    3. das kleine Kind
+    4. Ich trinke den kalten Kaffee.
+    5. Ich möchte einen großen Kaffee, bitte.
+    6. Ich brauche keine neuen Schuhe.
+    7. Mein neues Handy ist gut.
+    8. Ich trinke gern kaltes Wasser.
+    9. Ich kaufe frisches Brot.
+    10. mit meinem alten Bruder
+    11. bei meiner neuen Arbeit
+    12. Ich wohne in einem kleinen Haus.
+    13. Ich gehe in ein kleines Haus.
+    14. ohne meinen Bruder
+    15. Die Jacke ist zu teuer.
+
+---
+
 > Tie to [M11](../08-Practice-Lab/01-mistakes.md#m11-adjective-endings-a1-later-topic) in [mistakes.md](../08-Practice-Lab/01-mistakes.md).

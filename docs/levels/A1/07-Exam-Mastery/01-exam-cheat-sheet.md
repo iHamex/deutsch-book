@@ -179,6 +179,48 @@
 
 ---
 
+---
+
+## Quick practice - the exam frames
+
+Translate each frame. Say it out loud, then check. Every one of these is a direct exam situation.
+
+- My name is Hamed. I am 30 years old. (self-intro)
+- I am married and have two children.
+- I work as a software developer.
+- I come from Iran, from Tehran.
+- Excuse me, where is the pharmacy? (directions)
+- How much does the ticket cost? (shopping)
+- I would like to buy a ticket, please.
+- Can you say that again, please? (didn't hear)
+- What does "Apotheke" mean?
+- I do not understand that. (frustration)
+- One moment, please. (phone)
+- I'll call again later. (phone)
+- Sorry, wrong number.
+- I am here. (arriving - Prüfung)
+- Good luck!
+
+??? success "Antworten - expand to check"
+
+    1. Ich heiße Hamed. Ich bin 30 Jahre alt.
+    2. Ich bin verheiratet und habe zwei Kinder.
+    3. Ich arbeite als Softwareentwickler.
+    4. Ich komme aus dem Iran, aus Teheran.
+    5. Entschuldigung, wo ist die Apotheke?
+    6. Wie viel kostet das Ticket?
+    7. Ich möchte bitte ein Ticket kaufen.
+    8. Können Sie das bitte wiederholen?
+    9. Was bedeutet „Apotheke“?
+    10. Ich verstehe das nicht.
+    11. Einen Moment, bitte.
+    12. Ich rufe später noch mal an.
+    13. Entschuldigung, falsch verbunden.
+    14. Ich bin da.
+    15. Viel Erfolg!
+
+---
+
 ## Exam-day checklist
 
 - [ ] ID / passport + exam confirmation + pen + water

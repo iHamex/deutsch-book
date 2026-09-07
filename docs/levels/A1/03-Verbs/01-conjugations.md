@@ -1503,4 +1503,65 @@
 | they | Sie tun weh. | Das tut ihnen weh. | That hurts them. |
 | you (formal) | Sie tun weh. | Das tut Ihnen weh. | That hurts you. |
 
+---
+
+## 6. Practice - the verb with its person
+
+Translate each sentence. Say it out loud, then check. Watch the irregular du/er forms (e→i, a→ä) and the modal rule (modal at position 2, main verb at the end).
+
+- I am a software developer.
+- We are at home.
+- I have time today.
+- She has two children.
+- It is getting cold. (werden)
+- He is becoming a teacher. (werden)
+- I can speak German.
+- I must work today.
+- I would like a coffee.
+- He wants to sleep.
+- You (du) eat an apple. (essen)
+- She reads a book. (lesen)
+- You (du) speak German. (sprechen)
+- He sees me. (sehen)
+- You (du) drive by bus. (fahren)
+- She sleeps at 10 p.m. (schlafen)
+- I give him the book. (geben)
+- I help you. (helfen)
+- I do not know. (wissen)
+- He likes the book. (gefallen)
+- I get up at 7 o'clock. (aufstehen)
+- The course starts at 9. (anfangen)
+- I like coffee. (mögen)
+- It takes an hour. (dauern)
+
+??? success "Antworten - expand to check"
+
+    1. Ich bin Softwareentwickler.
+    2. Wir sind zu Hause.
+    3. Ich habe heute Zeit.
+    4. Sie hat zwei Kinder.
+    5. Es wird kalt.
+    6. Er wird Lehrer.
+    7. Ich kann Deutsch sprechen.
+    8. Ich muss heute arbeiten.
+    9. Ich möchte einen Kaffee.
+    10. Er will schlafen.
+    11. Du isst einen Apfel.
+    12. Sie liest ein Buch.
+    13. Du sprichst Deutsch.
+    14. Er sieht mich.
+    15. Du fährst mit dem Bus.
+    16. Sie schläft um 22 Uhr.
+    17. Ich gebe ihm das Buch.
+    18. Ich helfe dir.
+    19. Ich weiß nicht.
+    20. Das Buch gefällt ihm.
+    21. Ich stehe um 7 Uhr auf.
+    22. Der Kurs fängt um 9 Uhr an.
+    23. Ich mag Kaffee.
+    24. Es dauert eine Stunde.
+
+---
+
+> Log slips in [mistakes.md](../08-Practice-Lab/01-mistakes.md).
 

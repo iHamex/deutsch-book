@@ -40,4 +40,44 @@
 !!! note "Umlaut rule"
     a/o/u take umlaut: alt->älter, groß->größer, jung->jünger.
 
+---
+
+## Practice - compare and say the superlative
+
+Complete each comparison in German. Say it out loud, then check. Watch the umlaut rule (a/o/u -> ä/ö/ü) and remember: comparative + als, superlative + am ... (e)sten.
+
+- I am taller than you. (groß)
+- The house is older than the apartment. (alt)
+- Munich is bigger than Tehran. (groß)
+- The weather is better than yesterday. (gut)
+- I have more time than he. (viel -> mehr)
+- She is younger than her brother. (jung)
+- The coffee is hotter than the tea. (heiß)
+- Winter is colder than summer. (kalt)
+- The best film (der ... Film)
+- the biggest city (die ... Stadt)
+- the smallest child (das ... Kind)
+- most beautiful (am ...)
+- fastest (am ...)
+- The train is faster than the bus. (schnell)
+
+??? success "Antworten - expand to check"
+
+    1. Ich bin größer als du.
+    2. Das Haus ist älter als die Wohnung.
+    3. München ist größer als Teheran.
+    4. Das Wetter ist besser als gestern.
+    5. Ich habe mehr Zeit als er.
+    6. Sie ist jünger als ihr Bruder.
+    7. Der Kaffee ist heißer als der Tee.
+    8. Der Winter ist kälter als der Sommer.
+    9. der beste Film
+    10. die größte Stadt
+    11. das kleinste Kind
+    12. am schönsten
+    13. am schnellsten
+    14. Der Zug ist schneller als der Bus.
+
+---
+
 > Log slips in [mistakes.md](../08-Practice-Lab/01-mistakes.md).

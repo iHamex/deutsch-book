@@ -11,18 +11,18 @@ level: "A1"
 
 ## How to use this book
 
-**This book has 9 Parts, each with a 00-INDEX.md.** Read the Part index first, then the files inside in numbered order.
+**This book has 8 Parts, each with a 00-INDEX.md.** Read the Part index first, then the files inside in numbered order.
 
-- **New learner:** read Parts 01 to 08 in order, then 09 for speaking.
+- **New learner:** read Parts 01 to 08 in order.
 - **Review before exam:** go to 07-Exam-Mastery only.
-- **Daily speaking:** go to 06-Daily-Communication + 09-Fluency-Speaking.
+- **Daily speaking:** go to 06-Daily-Communication.
 - **Fix a mistake:** go to [mistakes.md](08-Practice-Lab/01-mistakes.md), find the rule, jump to the Part that explains it.
 
 **Rule:** do not jump randomly. The numbers ARE the order.
 
 ---
 
-## Book Map - 9 Parts
+## Book Map - 8 Parts
 
 | Part | Folder | Goal | Time | When |
 |---|---|---|---|---|
@@ -34,10 +34,9 @@ level: "A1"
 | **06** | [Daily-Communication](06-Daily-Communication/00-INDEX.md) | 210+ spoken phrases for everyday life | Ongoing | Daily |
 | **07** | [Exam-Mastery](07-Exam-Mastery/00-INDEX.md) | Telc A1 exam: cheat sheets, writing, hören, lesen | 3 hours | Before exam |
 | **08** | [Practice-Lab](08-Practice-Lab/00-INDEX.md) | Where you drill: sentences, skeletons, mistakes | Daily | Daily |
-| **09** | [Fluency-Speaking](09-Fluency-Speaking/00-INDEX.md) | Speaking phase: become comfortable, not perfect | Ongoing | Daily |
 
 - **Total core:** Parts 01-05.
-- **Application:** Parts 06-09.
+- **Application:** Parts 06-08.
 
 ---
 
@@ -56,7 +55,6 @@ Gone. This IS the fresh book. No legacy folder. Every file now lives in its logi
 - Old `02-Grammar-Core/*` -> now in `02-`, `03-`, `04-`
 - Old `05-Vocabulary-Topics/*` -> now in `01-`, `05-`, `06-`, `07-`
 - Old `08-Practice-Lab/*` -> now in `08-`
-- Old `09-Fluency-Speaking/*` -> now in `09-`
 
 Root files `AGENTS.md`, `RULES.md`, `MEMORY.md` stay at root for agent protocols.
 
@@ -72,6 +70,5 @@ Root files `AGENTS.md`, `RULES.md`, `MEMORY.md` stay at root for agent protocols
 - Need to say something naturally? -> [06-Daily-Communication](06-Daily-Communication/00-INDEX.md)
 - Exam tomorrow? -> [07-Exam-Mastery](07-Exam-Mastery/00-INDEX.md)
 - Want to drill? -> [08-Practice-Lab](08-Practice-Lab/00-INDEX.md)
-- Want to speak? -> [09-Fluency-Speaking](09-Fluency-Speaking/00-INDEX.md)
 
 Start with [01-Foundations/00-INDEX.md](01-Foundations/00-INDEX.md).

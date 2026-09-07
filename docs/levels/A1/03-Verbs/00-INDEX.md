@@ -30,6 +30,21 @@
 - Give commands: Helfen Sie mir! / Komm mit!
 - Talk about past with war/hatte/konnte and future with werde.
 
+## Timed Practice (weekly, 20-25 min)
+
+1. Set a timer for 20-25 minutes.
+2. Do the Modal verbs block in [02-sentences.md section 11](../08-Practice-Lab/02-sentences.md#11-modal-verbs-mochten-konnen-mussen-wollen) (10 items).
+3. Do the Separable verbs block in [02-sentences.md section 12](../08-Practice-Lab/02-sentences.md#12-separable-verbs-prefix-goes-to-the-end) (8 items).
+4. Memorize the Past tense story in [02-sentences.md section 7](../08-Practice-Lab/02-sentences.md#7-past-tense-your-story-memorize-as-one-block) and tell it aloud TWICE.
+5. Self-score: count correct answers in the drill blocks.
+
+!!! warning "Self-score rule"
+    If less than 80% correct, mark the 5 hardest items, wait 24 hours, and re-do exactly those 5.
+
+- [ ] 2 drill blocks done within time.
+- [ ] Past story told aloud twice.
+- [ ] Score >= 80% or re-test list made.
+
 ## Tip
 
 Learn verbs as CHUNKS with case: not "helfen = help" but "Ich helfe dir". The +DAT tag in 01-conjugations tells you which chunk to use.

@@ -17,6 +17,9 @@
 
 werden is fully regular here (werde, wirst, wird, werden, werdet, werden) - the only irregular person is er/sie/es wird (no -t change beyond that).
 
+!!! tip "Chunk to memorize"
+    *Ich werde dir helfen.* (I will help you.) / *Er wird morgen kommen.* (He will come tomorrow.)
+
 ---
 
 ## 2. When Futur I, when present + time word
@@ -45,9 +48,9 @@ werden is fully regular here (werde, wirst, wird, werden, werdet, werden) - the 
 
 ### Promises - Versprechen (give one like this)
 
-> Ich **werde** dir bei den Hausaufgaben **helfen**.  
-> Wir **werden** pünktlich da **sein**.  
-> Ich **werde** dich morgen **anrufen**.  
+> Ich **werde** dir bei den Hausaufgaben **helfen**.
+> Wir **werden** pünktlich da **sein**.
+> Ich **werde** dich morgen **anrufen**.
 > Du **wirst** es nicht **bereuen**. (You will not regret it.)
 
 ### Weather and predictions - Vorhersagen
@@ -68,9 +71,52 @@ werden is fully regular here (werde, wirst, wird, werden, werdet, werden) - the 
 | Das **wird** schon **werden**. | It will be fine. (idiom - say this to worried friends) |
 | Du **wirst** schon **sehen**. | You will see. (mild warning or promise) |
 
+!!! tip "Chunk to memorize"
+    *Er wird schon zu Hause sein.* (He is probably home already.) / *Es wird morgen regnen.* (It will rain tomorrow.)
+
+- Log slips in [mistakes.md](../08-Practice-Lab/01-mistakes.md).
+
 ---
 
-## 4. Cheat sheet
+## 4. Practice - promise or plan?
+
+Say each English sentence in German. Decide first: Futur I (promise/prediction/guess) or present + time word (plan).
+
+- I will help you. (promise)
+- He will call you.
+- It will rain tomorrow.
+- I will come tomorrow. (promise)
+- Tomorrow I am driving to Berlin. (spoken plan)
+- The train will be delayed.
+- He is probably home already.
+- She is probably ill.
+- Will you come? (question)
+- We will be there on time.
+- Prices will rise.
+- It will be sunny at the weekend.
+- I will call you tomorrow.
+- It will be fine. (idiom)
+
+??? success "Antworten - expand to check"
+
+    1. Ich werde dir helfen.
+    2. Er wird dich anrufen.
+    3. Es wird morgen regnen.
+    4. Ich werde morgen kommen.
+    5. Morgen fahre ich nach Berlin.
+    6. Der Zug wird Verspätung haben.
+    7. Er wird schon zu Hause sein.
+    8. Sie wird wohl krank sein.
+    9. Wirst du kommen?
+    10. Wir werden pünktlich da sein.
+    11. Die Preise werden steigen.
+    12. Es wird am Wochenende sonnig sein.
+    13. Ich werde dich morgen anrufen.
+    14. Das wird schon werden.
+
+---
+
+## 5. Cheat sheet
 
 | Job | Form | Example | English |
 | --- | --- | --- | --- |

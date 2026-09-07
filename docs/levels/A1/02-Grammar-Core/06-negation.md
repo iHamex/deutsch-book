@@ -158,4 +158,52 @@ Pattern: Subject + habe + noch + keine/nicht + ... + gehabt + **zu + verb**
 
 ---
 
+---
+
+## 6. Practice - kein or nicht? noch or schon?
+
+Translate each sentence with the right negation tool. Say it out loud, then check. First decide: noun with ein/no article (= kein) or verb/adjective/definite noun (= nicht)?
+
+- I have no money.
+- I have no brother.
+- That is not good.
+- I am not coming.
+- That is not my book.
+- I do not understand that.
+- That is not at all expensive. (gar)
+- I have no time at all. (gar kein)
+- I do not like that at all. (gar nicht)
+- I still smoke.
+- I do not smoke anymore.
+- I have not eaten yet.
+- I have no time yet. (noch + keine)
+- I have no driver's license yet. (noch + keinen, m)
+- I have no car yet. (noch + kein, n)
+- He is not here yet.
+- I am not coming today, but tomorrow. (nicht ... sondern)
+- I do not work on Monday.
+
+??? success "Antworten - expand to check"
+
+    1. Ich habe kein Geld.
+    2. Ich habe keinen Bruder.
+    3. Das ist nicht gut.
+    4. Ich komme nicht.
+    5. Das ist nicht mein Buch.
+    6. Ich verstehe das nicht.
+    7. Das ist gar nicht so teuer.
+    8. Ich habe gar keine Zeit.
+    9. Das gefällt mir gar nicht.
+    10. Ich rauche noch.
+    11. Ich rauche nicht mehr.
+    12. Ich habe noch nicht gegessen.
+    13. Ich habe noch keine Zeit.
+    14. Ich habe noch keinen Führerschein.
+    15. Ich habe noch kein Auto.
+    16. Er ist noch nicht da.
+    17. Ich komme nicht heute, sondern morgen.
+    18. Ich arbeite nicht am Montag.
+
+---
+
 > *Re-test target: clean kein/nicht split. Tie back to [mistakes.md](../08-Practice-Lab/01-mistakes.md).*

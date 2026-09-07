@@ -11,13 +11,13 @@ level: "A2"
 
 ## How to use this book
 
-**Requirement:** A1 solid (Parts 01-09 done). A2 builds on every A1 chunk - nothing is repeated, everything is extended.
+**Requirement:** A1 solid (Parts 01-08 done). A2 builds on every A1 chunk - nothing is repeated, everything is extended.
 
 **This book has 8 Parts, each with a 00-INDEX.md.** Read the Part index first, then the files inside in numbered order.
 
 - **New A2 learner:** read Parts 01 to 05 in order for grammar, then 06 for speaking.
 - **Review before exam:** go to 07-Exam-Mastery only.
-- **Daily speaking:** go to 06-Daily-Communication + A1 09-Fluency-Speaking.
+- **Daily speaking:** go to 06-Daily-Communication.
 - **Fix a mistake:** go to [mistakes.md](../A1/08-Practice-Lab/01-mistakes.md), find the rule, jump to the Part that explains it.
 
 **Rule:** do not jump randomly. The numbers ARE the order.
@@ -44,7 +44,7 @@ level: "A2"
 
 ## File Naming
 
-Every file has a number prefix `01-`, `02-` so Obsidian sorts it correctly. Read [00-INDEX.md](../A1/07-Exam-Mastery/00-INDEX.md) in each folder before the numbered files.
+Every file has a number prefix `01-`, `02-` so Obsidian sorts it correctly. Read [00-INDEX.md](01-Verbs-Tenses/00-INDEX.md) in each folder before the numbered files.
 
 Files are self-contained: each has tables, real sentences, and a practice line at the end.
 

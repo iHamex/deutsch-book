@@ -32,15 +32,41 @@ You already know der -> den -> dem. Do the same with dieser.
 
 > **Pattern:** masculine changes twice (dieser -> diesen -> diesem), feminine changes only in dative (diese -> dieser), neuter changes only in dative (dieses -> diesem), plural dative adds -n.
 
-Compare to your known tables:
+Compare to your known tables - pick a gender tab:
 
-| article | m nom | m akk | m dat |
-|---|---|---|---|
-| der | der Mann | den Mann | dem Mann |
-| dieser | dieser Mann | diesen Mann | diesem Mann |
-| ein | ein Mann | einen Mann | einem Mann |
+=== "Masculine (der)"
 
-**Same endings:** -er, -en, -em for masculine. Learn one, you know all three.
+    | article | m nom | m akk | m dat |
+    | --- | --- | --- | --- |
+    | der | der Mann | den Mann | dem Mann |
+    | dieser | dieser Mann | diesen Mann | diesem Mann |
+    | ein | ein Mann | einen Mann | einem Mann |
+
+=== "Feminine (die)"
+
+    | article | f nom | f akk | f dat |
+    | --- | --- | --- | --- |
+    | die | die Frau | die Frau | der Frau |
+    | diese | diese Frau | diese Frau | dieser Frau |
+    | eine | eine Frau | eine Frau | einer Frau |
+
+=== "Neuter (das)"
+
+    | article | n nom | n akk | n dat |
+    | --- | --- | --- | --- |
+    | das | das Kind | das Kind | dem Kind |
+    | dieses | dieses Kind | dieses Kind | diesem Kind |
+    | ein | ein Kind | ein Kind | einem Kind |
+
+=== "Plural (die)"
+
+    | article | pl nom | pl akk | pl dat |
+    | --- | --- | --- | --- |
+    | die | die Kinder | die Kinder | den Kindern |
+    | diese | diese Kinder | diese Kinder | diesen Kindern |
+    | keine | keine Kinder | keine Kinder | keinen Kindern |
+
+**Same endings as der/ein - just swap the stem:** -er, -en, -em for masculine, -e/-es for f/n nominative, -n in the plural dative. Learn one, you know all three.
 
 ---
 

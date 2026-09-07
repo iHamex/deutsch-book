@@ -27,4 +27,42 @@
 !!! tip "wer vs wen vs wem"
     wer (nom) -> wen (akk) -> wem (dat). Who -> whom -> to whom.
 
+---
+
+## Practice - ask the question
+
+Turn each answer into the right German question. Say it out loud, then check. The W-word + verb + subject pattern, or verb first for yes/no.
+
+- ...? - I am Hamed. (Who)
+- ...? - I am a software developer. (What)
+- ...? - I live in Munich. (Where)
+- ...? - I am going to Berlin. (Where to)
+- ...? - I come from Iran. (Where from)
+- ...? - The course starts at 9. (When)
+- ...? - I am 30 years old. (How)
+- ...? - It costs 5 euros. (How much)
+- ...? - I have two children. (How many)
+- ...? - I learn German because I want to work in Germany. (Why)
+- ...? - Yes, I come from Iran. (yes/no)
+- ...? - I read this book. (Which, das)
+- ...? - I write with a pen. (Womit)
+
+??? success "Antworten - expand to check"
+
+    1. Wer bist du? / Wer sind Sie?
+    2. Was machen Sie beruflich?
+    3. Wo wohnen Sie?
+    4. Wohin fahren Sie?
+    5. Woher kommen Sie?
+    6. Wann beginnt der Kurs?
+    7. Wie alt sind Sie?
+    8. Wie viel kostet das?
+    9. Wie viele Kinder haben Sie?
+    10. Warum lernen Sie Deutsch?
+    11. Kommen Sie aus dem Iran?
+    12. Welches Buch liest du?
+    13. Womit schreibst du?
+
+---
+
 > Log slips in [mistakes.md](../08-Practice-Lab/01-mistakes.md).

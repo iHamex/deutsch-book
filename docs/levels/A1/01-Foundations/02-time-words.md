@@ -142,3 +142,47 @@ How often you do something. These sit in position 3 or jump to position 1 (then 
     9. **jetzt** = now / **sofort** = right away / **bald** = soon
 
     That's the whole small-words story - 9 chunks, and you sound two levels higher instantly.
+
+---
+
+## 8. Practice - pick the right small word
+
+Say each English sentence in German, choosing schon / noch / noch nicht / noch kein / erst / nur / immer / oft / manchmal / nie. Expand to check.
+
+- I already ate.
+- I have not eaten yet.
+- I have not had time yet. (noun - noch kein)
+- I am still tired.
+- The course starts only at 9 o'clock. (later than expected)
+- I only have 5 euros.
+- I always drink coffee.
+- I often work at the weekend.
+- Sometimes I go for a walk.
+- I never eat meat.
+- I am still waiting. (immer noch)
+- Can you say that again? (noch mal)
+- I would like another coffee. (noch ein)
+- Tomorrow I am driving to Munich.
+- Yesterday I was tired.
+- I am coming right away. (sofort)
+- See you soon! (bald)
+
+??? success "Antworten - expand to check"
+
+    1. Ich habe schon gegessen.
+    2. Ich habe noch nicht gegessen.
+    3. Ich habe noch keine Zeit gehabt.
+    4. Ich bin noch müde.
+    5. Der Kurs beginnt erst um 9 Uhr.
+    6. Ich habe nur 5 Euro.
+    7. Ich trinke immer Kaffee.
+    8. Ich arbeite oft am Wochenende.
+    9. Manchmal gehe ich spazieren.
+    10. Ich esse nie Fleisch.
+    11. Ich warte immer noch.
+    12. Kannst du das noch mal sagen?
+    13. Ich möchte noch einen Kaffee.
+    14. Morgen fahre ich nach München.
+    15. Gestern war ich müde.
+    16. Ich komme sofort!
+    17. Bis bald!

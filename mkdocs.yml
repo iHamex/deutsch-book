@@ -52,6 +52,7 @@ theme:
     - navigation.footer
     - content.code.copy
     - content.code.select
+    - content.tabs.link
     - search.suggest
     - search.highlight
     - search.share
@@ -173,13 +174,6 @@ nav:
         - "2026-08-19 (Telc)": levels/A1/08-Practice-Lab/04-daily-practice/2026-08-19-telc.md
         - "2026-08-19": levels/A1/08-Practice-Lab/04-daily-practice/2026-08-19.md
         - "2026-08-21": levels/A1/08-Practice-Lab/04-daily-practice/2026-08-21.md
-    - Fluency Speaking:
-      - Part Index: levels/A1/09-Fluency-Speaking/00-INDEX.md
-      - "Phase Start Here": levels/A1/09-Fluency-Speaking/START-HERE.md
-      - "Real-Life Situations": levels/A1/09-Fluency-Speaking/situations.md
-      - "Coach Rules (AGENTS)": levels/A1/09-Fluency-Speaking/AGENTS.md
-      - "Content Rules (RULES)": levels/A1/09-Fluency-Speaking/RULES.md
-      - "State & Memory (MEMORY)": levels/A1/09-Fluency-Speaking/MEMORY.md
   - A2 Level:
     - Overview: levels/A2/index.md
     - Verbs and Tenses:
@@ -192,18 +186,68 @@ nav:
       - "Partizipien": levels/A2/01-Verbs-Tenses/06-partizipien.md
     - Sentences and Clauses:
       - Part Index: levels/A2/02-Sentences-Clauses/00-INDEX.md
+      - "Time Clauses": levels/A2/02-Sentences-Clauses/01-zeitangaben-nebensaetze.md
+      - "Reason and Purpose": levels/A2/02-Sentences-Clauses/02-grund-zweck.md
+      - "dass, ob, Indirect Questions": levels/A2/02-Sentences-Clauses/03-dass-ob-indirekt.md
+      - "Relative Clauses": levels/A2/02-Sentences-Clauses/04-relativsaetze.md
+      - "Opinion Connectors": levels/A2/02-Sentences-Clauses/05-meinung-connectoren.md
+      - "man and Word Order": levels/A2/02-Sentences-Clauses/06-man-wortstellung.md
+      - "Comparative and Superlative": levels/A2/02-Sentences-Clauses/07-vergleiche-voll.md
     - Cases and Articles:
       - Part Index: levels/A2/03-Cases-Articles/00-INDEX.md
+      - "Wechselpräpositionen": levels/A2/03-Cases-Articles/01-wechsel.md
+      - "Full Adjective Declension": levels/A2/03-Cases-Articles/02-adjektive-voll.md
+      - "Verbs with Prepositions": levels/A2/03-Cases-Articles/03-verben-praepositionen.md
+      - "Nouns with Prepositions": levels/A2/03-Cases-Articles/04-nomen-praepositionen.md
+      - "Genitive": levels/A2/03-Cases-Articles/05-genitiv.md
+      - "Demonstratives and Indefinites": levels/A2/03-Cases-Articles/06-demo-indefinit.md
+      - "n-Deklination": levels/A2/03-Cases-Articles/07-n-deklination.md
+      - "Temporal Prepositions": levels/A2/03-Cases-Articles/08-zeit-praepositionen.md
     - Reflexive and Passive:
       - Part Index: levels/A2/04-Reflexive-Passive/00-INDEX.md
+      - "Reflexive Basics": levels/A2/04-Reflexive-Passive/01-reflexive-basis.md
+      - "Reflexive + Prepositions": levels/A2/04-Reflexive-Passive/02-reflexive-praepositionen.md
+      - "Passive Voice": levels/A2/04-Reflexive-Passive/03-passiv.md
+      - "Passive Alternatives": levels/A2/04-Reflexive-Passive/04-passiv-alternativen.md
     - Vocabulary Topics:
       - Part Index: levels/A2/05-Vocabulary-Topics/00-INDEX.md
+      - "Media, Weather, Appointments": levels/A2/05-Vocabulary-Topics/01-medien-wetter-termine.md
+      - "Transport and Travel": levels/A2/05-Vocabulary-Topics/02-verkehr-reisen.md
+      - "Housing and Moving": levels/A2/05-Vocabulary-Topics/03-wohnung-umzug.md
+      - "Offices and Government": levels/A2/05-Vocabulary-Topics/04-aemter-behoerden.md
+      - "Work and Job Application": levels/A2/05-Vocabulary-Topics/05-beruf-bewerbung.md
+      - "Shopping, Clothing, Restaurant": levels/A2/05-Vocabulary-Topics/06-einkaufen-kleidung.md
+      - "Work Communication": levels/A2/05-Vocabulary-Topics/07-arbeit-kommunikation.md
+      - "School and Education": levels/A2/05-Vocabulary-Topics/08-schule-ausbildung.md
+      - "Health and Doctor": levels/A2/05-Vocabulary-Topics/09-gesundheit-arzt.md
+      - "Bank and Money": levels/A2/05-Vocabulary-Topics/10-bank-geld.md
+      - "Leisure and Sports": levels/A2/05-Vocabulary-Topics/11-freizeit-sport.md
+      - "Noun-Verb Combinations": levels/A2/05-Vocabulary-Topics/12-nomen-verb-verbindungen.md
+      - "Nature and Environment": levels/A2/05-Vocabulary-Topics/13-natur-umwelt.md
+      - "Feelings and Moods": levels/A2/05-Vocabulary-Topics/14-gefuehle.md
+      - "Family and Relationships": levels/A2/05-Vocabulary-Topics/15-familie.md
     - Daily Communication:
       - Part Index: levels/A2/06-Daily-Communication/00-INDEX.md
+      - "Small Talk and Opinions": levels/A2/06-Daily-Communication/01-alltagsgespraech-meinung.md
+      - "Phone Calls": levels/A2/06-Daily-Communication/02-telefonieren.md
+      - "Complaints and Consultation": levels/A2/06-Daily-Communication/03-reklamation-beratung.md
+      - "Extended Doctor/Bank/Office": levels/A2/06-Daily-Communication/04-arzt-bank-amt-erweitert.md
+      - "Short Past Stories": levels/A2/06-Daily-Communication/05-kleine-geschichten.md
     - Exam Mastery:
       - Part Index: levels/A2/07-Exam-Mastery/00-INDEX.md
+      - "Exam Cheat Sheet": levels/A2/07-Exam-Mastery/01-exam-cheat-sheet.md
+      - "Lesen Survival": levels/A2/07-Exam-Mastery/02-lesen-survival.md
+      - "Hören Survival": levels/A2/07-Exam-Mastery/03-hoeren-survival.md
+      - "Schreiben Survival": levels/A2/07-Exam-Mastery/04-schreiben-survival.md
+      - "Sprechen Survival": levels/A2/07-Exam-Mastery/05-sprechen-survival.md
+      - "Telc Sample Tests": levels/A2/07-Exam-Mastery/06-telc-sample-tests.md
+      - "Exam Day Pack (print)": levels/A2/07-Exam-Mastery/07-exam-day-pack.md
+      - "Timed Mock Test": levels/A2/07-Exam-Mastery/08-timed-mock-test.md
     - Practice Lab:
       - Part Index: levels/A2/08-Practice-Lab/00-INDEX.md
+      - "Mistake Log": levels/A2/08-Practice-Lab/01-mistakes.md
+      - "Sentence Bank": levels/A2/08-Practice-Lab/02-sentences.md
+      - "Sentence Skeletons": levels/A2/08-Practice-Lab/03-sentence-skeletons.md
 
 # Copyright Text
 copyright: © 2026 Hamed Okhovvat

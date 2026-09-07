@@ -1,6 +1,6 @@
 # Deutsch Book
 
-Your complete German course from zero to A2 - grammar, verbs, sentence building, vocabulary, daily communication, exam mastery, practice, and fluency. Built from your own knowledge base, organized like a real book.
+Your complete German course from zero to A2 - grammar, verbs, sentence building, vocabulary, daily communication, exam mastery, and practice. Built from your own knowledge base, organized like a real book.
 
 ## Welcome
 
@@ -8,7 +8,7 @@ This book takes you from zero to A2 solid - A1 fundamentals first, then A2 Aufba
 
 ## Book Structure
 
-### A1 Level - The 9 Parts
+### A1 Level - The 8 Parts
 
 | Part | What it covers | Goal |
 |---|---|---|
@@ -20,10 +20,9 @@ This book takes you from zero to A2 solid - A1 fundamentals first, then A2 Aufba
 | **[Part 06 - Daily Communication](levels/A1/06-Daily-Communication/00-INDEX.md)** | 210+ spoken phrases, survival German, question bank | Sound natural, not textbook |
 | **[Part 07 - Exam Mastery](levels/A1/07-Exam-Mastery/00-INDEX.md)** | Telc A1 cheat sheet, writing, hören, lesen, sample tests | Pass the exam with tactics |
 | **[Part 08 - Practice Lab](levels/A1/08-Practice-Lab/00-INDEX.md)** | Mistake log, sentence bank, skeletons, daily practice | Turn knowing into doing - where mistakes die |
-| **[Part 09 - Fluency Speaking](levels/A1/09-Fluency-Speaking/00-INDEX.md)** | Speaking phase: situations, coach rules, your state | Become comfortable, not perfect |
 
 - **Total core:** Parts 01-05.
-- **Application:** Parts 06-09.
+- **Application:** Parts 06-08.
 
 ### A2 Level - The 8 Parts (requires A1 solid)
 

@@ -68,29 +68,39 @@ Your family, your apartment, your work - you can't describe them without these.
 
 ## 2. Articles - der/die/das + ein/eine + kein/keine
 
-**der/die/das (all 3 cases):**
+**All 3 systems (der / ein / kein) - pick a gender tab:**
 
-| | m | f | n | plural |
-|---|---|----|---|--------|
-| Nominative | der | die | das | die |
-| Accusative | **den** | die | das | die |
-| Dative | **dem** | **der** | **dem** | **den** |
+=== "Masculine"
 
-**ein / eine (indefinite articles - all 3 cases):**
+    | article | Nominative | Accusative | Dative |
+    | --- | --- | --- | --- |
+    | der | der Mann | **den** Mann | **dem** Mann |
+    | ein | ein Mann | **einen** Mann | **einem** Mann |
+    | kein | kein Mann | **keinen** Mann | **keinem** Mann |
 
-| | m | f | n | plural |
-|---|---|----|---|--------|
-| Nominative | ein | eine | ein | - (no plural for "ein") |
-| Accusative | **einen** | eine | ein | - |
-| Dative | **einem** | **einer** | **einem** | - |
+=== "Feminine"
 
-**kein / keine (negation - all 3 cases):**
+    | article | Nominative | Accusative | Dative |
+    | --- | --- | --- | --- |
+    | der | die Frau | die Frau | **der** Frau |
+    | ein | eine Frau | eine Frau | **einer** Frau |
+    | kein | keine Frau | keine Frau | **keiner** Frau |
 
-| | m | f | n | plural |
-|---|---|----|---|--------|
-| Nominative | kein | keine | kein | keine |
-| Accusative | **keinen** | keine | kein | keine |
-| Dative | **keinem** | **keiner** | **keinem** | **keinen** |
+=== "Neuter"
+
+    | article | Nominative | Accusative | Dative |
+    | --- | --- | --- | --- |
+    | der | das Kind | das Kind | **dem** Kind |
+    | ein | ein Kind | ein Kind | **einem** Kind |
+    | kein | kein Kind | kein Kind | **keinem** Kind |
+
+=== "Plural"
+
+    | article | Nominative | Accusative | Dative |
+    | --- | --- | --- | --- |
+    | der | die Kinder | die Kinder | **den** Kindern |
+    | ein | - (no ein) | - | - |
+    | kein | keine Kinder | keine Kinder | **keinen** Kindern |
 
 **Rules to live by:**
 
@@ -763,5 +773,57 @@ These connect two sentences where the second is a CONSEQUENCE or CONTRAST.
 - [ ] Last verbs: brauchen, verstehen, wiederholen, bestellen
 - [ ] Glue words + Tageszeiten + mögen/gern
 - [ ] zu + Infinitiv: "Ich habe keine Chance, in Deutschland zu fahren." (never participle after Chance/Zeit/Lust)
+
+---
+
+## 26. Practice - reference speed drill
+
+Mix of the reference topics above. Translate each chunk. Say it out loud, then check.
+
+- My wife is called Sara.
+- I have a son and a daughter.
+- I go with my wife to the cinema. (mit + dative)
+- I drive with my car to work.
+- Can you help me, please?
+- There is a pharmacy nearby. (es gibt + akk)
+- Is there a station here? (Gibt es ...?)
+- There is no park in my city. (keinen)
+- Do you have no money? - Yes, actually, I do have money. (doch)
+- I am from Iran. I am Iranian. (no article!)
+- I speak Persian, English and a little German.
+- I get up at 7 o'clock. (separable)
+- The course starts at 9. (anfangen)
+- I'll call you. (anrufen, du)
+- Come with me! (mitkommen, du)
+- It is cold. It is 25 degrees.
+- The sofa stands in the living room.
+- Excuse me, where is the supermarket?
+- I get tired. (werden)
+- I do not know. (wissen)
+
+??? success "Antworten - expand to check"
+
+    1. Meine Frau heißt Sara.
+    2. Ich habe einen Sohn und eine Tochter.
+    3. Ich gehe mit meiner Frau ins Kino.
+    4. Ich fahre mit meinem Auto zur Arbeit.
+    5. Kannst du mir bitte helfen?
+    6. Es gibt eine Apotheke in der Nähe.
+    7. Gibt es hier einen Bahnhof?
+    8. Es gibt keinen Park in meiner Stadt.
+    9. Haben Sie kein Geld? - Doch, ich habe Geld.
+    10. Ich komme aus dem Iran. Ich bin Iraner.
+    11. Ich spreche Persisch, Englisch und ein bisschen Deutsch.
+    12. Ich stehe um 7 Uhr auf.
+    13. Der Kurs fängt um 9 Uhr an.
+    14. Ich rufe dich an.
+    15. Komm mit!
+    16. Es ist kalt. Es sind 25 Grad.
+    17. Das Sofa steht im Wohnzimmer.
+    18. Entschuldigung, wo ist der Supermarkt?
+    19. Ich werde müde.
+    20. Ich weiß nicht.
+
+---
 
 That's the last content gap - your A1 material is now complete. From here on it's practice: timed sample tests, speaking drills, and the mistake notebook. Viel Erfolg! 

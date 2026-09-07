@@ -28,6 +28,21 @@
 - Compare: Mein Bruder ist größer als ich. Sie ist älter als er.
 - Choose wenn (present) vs als (single past: Als ich ein Kind war).
 
+## Timed Practice (weekly, 20-25 min)
+
+1. Set a timer for 20-25 minutes.
+2. Do the weil clauses block in [02-sentences.md section 3](../08-Practice-Lab/02-sentences.md#3-weil-clauses-verb-last) (4 items) and Main clause V2 block section 4 (5 items).
+3. Do the Question words block in [02-sentences.md section 8](../08-Practice-Lab/02-sentences.md#8-question-words-chunks) (10 items).
+4. Say aloud 5 weil-sentences and 5 V2-sentences from memory - verb position is the point.
+5. Self-score: count correct answers in the drill blocks.
+
+!!! warning "Self-score rule"
+    If less than 80% correct, mark the 5 hardest items, wait 24 hours, and re-do exactly those 5.
+
+- [ ] 3 drill blocks done within time.
+- [ ] 5 weil + 5 V2 sentences spoken aloud.
+- [ ] Score >= 80% or re-test list made.
+
 ## Tip
 
 For weil/dass/wenn/ob/als/damit: always check "Is the verb at the END of that clause?" If not, fix it.

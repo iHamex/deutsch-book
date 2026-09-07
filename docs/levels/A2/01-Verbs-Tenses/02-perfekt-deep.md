@@ -6,7 +6,7 @@
 
 ## 1. Mischverben - full table (weak ending, strong vowel)
 
-You met these in [prateritum.md §6](01-prateritum.md#6-mischverben-mixed-verbs-weak-ending-vowel-change). Here is the complete A2 set with Perfekt:
+You met these in [prateritum.md section 6](01-prateritum.md#6-mischverben-mixed-verbs-weak-ending-vowel-change). Here is the complete A2 set with Perfekt:
 
 | Infinitive | Präteritum | Partizip II | Example | English |
 | --- | --- | --- | --- | --- |
@@ -20,6 +20,9 @@ You met these in [prateritum.md §6](01-prateritum.md#6-mischverben-mixed-verbs-
 
 !!! tip "The mixed fingerprint"
     Vowel change + **-t** ending (no -en): gebracht, gedacht, gekannt. If it ends in -t but the vowel changed, it is mixed.
+
+!!! tip "Chunk to memorize"
+    *Ich habe das nicht gewusst.* (I did not know that.) / *Er hat an dich gedacht.* (He thought of you.)
 
 ---
 
@@ -55,6 +58,9 @@ Common separable prefixes (stress ALWAYS on the prefix, ge goes in the middle):
 
 !!! tip "The stress test"
     Say the infinitive out loud. Stress on the PREFIX (ANkommen, AUFstehen) = separable = ge in the middle. Stress on the STEM (beSUchen, verSTEhen) = inseparable = no ge. Your ear already knows - trust it.
+
+!!! tip "Chunk to memorize"
+    *Wir haben die Oma besucht.* (We visited grandma.) / *Ich habe das Buch vergessen.* (I forgot the book.)
 
 ---
 
@@ -93,7 +99,12 @@ The ge-forms (gekonnt, gemusst, gewollt) appear ONLY when the modal stands alone
 - Ich **habe** das nicht **gewollt**. (no second verb - ge-form ok)
 - Er **hat** es nicht **gekonnt**. (no second verb - ge-form ok)
 
-At A2 in stories you still prefer Präteritum (musste, konnte, wollte) - see [prateritum.md §3](01-prateritum.md#3-modal-verbs-in-prateritum-full-tables).
+At A2 in stories you still prefer Präteritum (musste, konnte, wollte) - see [prateritum.md section 3](01-prateritum.md#3-modal-verbs-in-prateritum-full-tables).
+
+!!! tip "Chunk to memorize"
+    *Ich habe arbeiten müssen.* (I had to work.) / *Er hat nicht kommen können.* (He could not come.)
+
+- Log slips in [mistakes.md](../08-Practice-Lab/01-mistakes.md).
 
 ---
 
@@ -116,6 +127,9 @@ At A2 in stories you still prefer Präteritum (musste, konnte, wollte) - see [pr
 !!! tip "fahren: sein or haben?"
     Movement to somewhere = sein: Ich **bin** nach Berlin **gefahren**. Driving a vehicle as object = haben: Ich **habe** das Auto **gefahren**.
 
+!!! tip "Chunk to memorize"
+    *Was ist passiert?* (What happened?) / *Ich bin zu Hause geblieben.* (I stayed at home.) / *Er ist Lehrer geworden.* (He became a teacher.)
+
 ---
 
 ## 6. seit + present vs vor + past (never mix)
@@ -123,7 +137,7 @@ At A2 in stories you still prefer Präteritum (musste, konnte, wollte) - see [pr
 | Time word | Tense | Example | English |
 | --- | --- | --- | --- |
 | seit (since/for, still going) | PRESENT | Ich lerne **seit** zwei Jahren Deutsch. | I have been learning German for two years. |
-| vor (ago, finished) | PERFEKT or PRÄTERITUM | Ich habe **vor** zwei Jahren angefangen. | I started two years ago. |
+| vor (ago, finished) | PERFEKT or PRATERITUM | Ich habe **vor** zwei Jahren angefangen. | I started two years ago. |
 
 - **Seit** Montag **bin** ich krank. (still sick now)
 - **Vor** einer Woche **war** ich krank. (over now)
@@ -140,9 +154,58 @@ vor-times (always Dativ, always finished):
 !!! warning "seit never takes Perfekt for ongoing states"
     ~~Ich habe seit zwei Jahren gelernt.~~ Still learning = present tense. Finished period = Perfekt.
 
+!!! tip "Chunk to memorize"
+    *Ich lerne seit zwei Jahren Deutsch.* (I have been learning German for two years.) / *Ich habe vor zwei Jahren angefangen.* (I started two years ago.)
+
+- Log slips in [mistakes.md](../08-Practice-Lab/01-mistakes.md).
+
 ---
 
-## 7. Cheat sheet
+## 7. Practice - cover the German, say the Perfekt
+
+Build each sentence in Perfekt from the English. Say it out loud, then check.
+
+- I brought cake with me.
+- He thought of you.
+- I did not know that.
+- We visited grandma.
+- I did not understand him.
+- That pleased me.
+- I had to work yesterday.
+- He could not come.
+- She was allowed to do that.
+- What happened?
+- I stayed at home.
+- He became a teacher.
+- I got up at 6 o'clock.
+- We moved to Vienna.
+- I have been learning German for two years.
+- I started two years ago.
+- I ran over the tree. / I drove around the traffic jam.
+
+??? success "Antworten - expand to check"
+
+    1. Ich habe Kuchen mitgebracht.
+    2. Er hat an dich gedacht.
+    3. Ich habe das nicht gewusst.
+    4. Wir haben die Oma besucht.
+    5. Ich habe ihn nicht verstanden.
+    6. Das hat mir gefallen.
+    7. Ich habe gestern arbeiten müssen.
+    8. Er hat nicht kommen können.
+    9. Sie hat das machen dürfen.
+    10. Was ist passiert?
+    11. Ich bin zu Hause geblieben.
+    12. Er ist Lehrer geworden.
+    13. Ich bin um 6 Uhr aufgestanden.
+    14. Wir sind nach Wien umgezogen.
+    15. Ich lerne seit zwei Jahren Deutsch.
+    16. Ich habe vor zwei Jahren angefangen.
+    17. Ich habe den Baum umgefahren. / Ich habe den Stau umfahren.
+
+---
+
+## 8. Cheat sheet
 
 | Job | Form | Example | English |
 | --- | --- | --- | --- |

@@ -6,7 +6,7 @@
 
 ## 1. Partizip I - the -d form (ongoing action)
 
-Formation: Infinitiv + **-d**: lachen → lachend, weinen → weinend, kommen → kommend.
+Formation: Infinitiv + **-d**: lachen -> lachend, weinen -> weinend, kommen -> kommend.
 
 | Example | English |
 | --- | --- |
@@ -29,6 +29,9 @@ Partizip I also works adverbially (how someone does something):
 - Er kam **weinend** nach Hause. (He came home crying.)
 - **Lachend** verließ sie das Zimmer. (Laughing, she left the room.)
 
+!!! tip "Chunk to memorize"
+    *Die kommende Woche habe ich Urlaub.* (Next week I have holiday.) / *Er kam weinend nach Hause.* (He came home crying.)
+
 ---
 
 ## 2. Partizip II - the -t/-en form (finished action)
@@ -48,6 +51,9 @@ Formation: the same Partizip II you know from Perfekt: gekauft, geschrieben, geb
 | ein **belegtes** Brötchen | a topped roll (sandwich) |
 
 Meaning is usually PASSIVE and FINISHED: the book that was bought, the letter that was written.
+
+!!! tip "Chunk to memorize"
+    *Das gekaufte Buch ist interessant.* (The bought book is interesting.) / *Ein erfahrener Fahrer.* (An experienced driver.)
 
 ---
 
@@ -76,9 +82,53 @@ Participles decline exactly like adjectives (see A1 adjective endings and A2 Par
 !!! warning "Read the ending, not just the stem"
     steigenden vs gestiegenen differ by ONE syllable (ge-) and flip the meaning from ongoing to finished. In Lesen this distinction is a classic trap.
 
+- Log slips in [mistakes.md](../08-Practice-Lab/01-mistakes.md).
+
 ---
 
-## 5. Cheat sheet
+## 5. Practice - describe with participles
+
+- the laughing man
+- the crying child
+- the coming week
+- a moving train
+- the bought book
+- a broken leg
+- a reserved table
+- the written letter
+- an experienced driver
+- the stolen bag
+- the rising prices (ongoing)
+- the risen prices (finished)
+- the past week
+- a topped roll (sandwich)
+- the leading role
+- He came home crying.
+- Laughing, she left the room.
+
+??? success "Antworten - expand to check"
+
+    1. der lachende Mann
+    2. das weinende Kind
+    3. die kommende Woche
+    4. ein fahrender Zug
+    5. das gekaufte Buch
+    6. ein gebrochenes Bein
+    7. ein reservierter Tisch
+    8. der geschriebene Brief
+    9. ein erfahrener Fahrer
+    10. die gestohlene Tasche
+    11. die steigenden Preise
+    12. die gestiegenen Preise
+    13. die vergangene Woche
+    14. ein belegtes Brötchen
+    15. die führende Rolle
+    16. Er kam weinend nach Hause.
+    17. Lachend verließ sie das Zimmer.
+
+---
+
+## 6. Cheat sheet
 
 | Job | Form | Example | English |
 | --- | --- | --- | --- |

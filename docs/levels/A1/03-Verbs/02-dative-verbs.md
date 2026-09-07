@@ -245,6 +245,46 @@ More natural examples: **Du fehlst mir.** = I miss you. / **Er fehlt mir.** = I 
 9. **Das passt mir.** - That suits me.
 10. **Ich höre dir zu.** - I listen to you.
 
+## Practice - the dative verb + its person
+
+Complete each sentence in German with the right pronoun (mir/dir/ihm/ihr/uns/euch/Ihnen) and verb form. Say it out loud, then check. Every verb here forces dative - never use mich/dich after these!
+
+- Can you help me? (helfen)
+- I thank you. (danken, du)
+- The book belongs to me. (gehören)
+- The film pleases me. (gefallen)
+- That tastes good to me. (schmecken)
+- That suits you. (passen, du)
+- I answer him. (antworten)
+- I congratulate you. (gratulieren, du)
+- You (du) are missing from me. I miss you. (fehlen)
+- I believe you. (glauben, du)
+- I listen to you. (zuhören, du)
+- Does it hurt you? (wehtun, du)
+- I contradict you. (widersprechen, du)
+- That helps us a lot.
+- The shoes fit me well. (passen)
+
+??? success "Antworten - expand to check"
+
+    1. Kannst du mir helfen?
+    2. Ich danke dir.
+    3. Das Buch gehört mir.
+    4. Der Film gefällt mir.
+    5. Das schmeckt mir.
+    6. Das passt dir.
+    7. Ich antworte ihm.
+    8. Ich gratuliere dir.
+    9. Du fehlst mir.
+    10. Ich glaube dir.
+    11. Ich höre dir zu.
+    12. Tut dir das weh?
+    13. Ich widerspreche dir.
+    14. Das hilft uns sehr.
+    15. Die Schuhe passen mir gut.
+
+---
+
 ## Important reminder
 
 The dative is not always a receiver. With some verbs, German simply requires dative:

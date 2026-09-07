@@ -298,6 +298,56 @@ Useful chunk: **Ich mag Kaffee.** = I like coffee.
 13. **Ich besuche meine Eltern.** - I visit my parents.
 14. **Ich mag Kaffee.** - I like coffee.
 
+## Practice - the accusative verb + its object
+
+Translate each sentence. Say it out loud, then check. Watch the masculine object: den/einen/meinen.
+
+- I see the man.
+- I have a brother.
+- I buy bread.
+- I need help.
+- I look for the station.
+- I find that good.
+- I listen to music. (hören)
+- I ask the teacher.
+- I visit my parents.
+- I understand that.
+- I repeat the word.
+- I order coffee.
+- I pay the bill.
+- I open the window.
+- I close the door.
+- I explain the word.
+- I bring the book.
+- I get the bread. (holen)
+- I like coffee. (mögen)
+- I would like a coffee. (möchten)
+
+??? success "Antworten - expand to check"
+
+    1. Ich sehe den Mann.
+    2. Ich habe einen Bruder.
+    3. Ich kaufe Brot.
+    4. Ich brauche Hilfe.
+    5. Ich suche den Bahnhof.
+    6. Ich finde das gut.
+    7. Ich höre Musik.
+    8. Ich frage den Lehrer.
+    9. Ich besuche meine Eltern.
+    10. Ich verstehe das.
+    11. Ich wiederhole das Wort.
+    12. Ich bestelle Kaffee.
+    13. Ich bezahle die Rechnung.
+    14. Ich öffne das Fenster.
+    15. Ich schließe die Tür.
+    16. Ich erkläre das Wort.
+    17. Ich bringe das Buch.
+    18. Ich hole das Brot.
+    19. Ich mag Kaffee.
+    20. Ich möchte einen Kaffee.
+
+---
+
 ## Important reminder
 
 The accusative is usually the direct object, but the most useful approach is still to learn each verb with a sentence chunk:

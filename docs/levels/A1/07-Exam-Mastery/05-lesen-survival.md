@@ -45,6 +45,40 @@
 
 ## Your last-week plan
 
+## Quick practice - read the sign
+
+Read each sign/notice and say what it means in English. This is Lesen Part 1 exactly.
+
+- geöffnet von 8 bis 18 Uhr
+- Rauchen verboten
+- Eingang / Ausgang
+- Nur mit Ticket
+- Ausverkauf
+- Betreten verboten
+- Parken verboten
+- Anmeldung
+- Erdgeschoss
+- Ermäßigung
+- Hunde verboten
+- Bitte nicht stören
+
+??? success "Antworten - expand to check"
+
+    1. open from 8 to 6 (18 Uhr)
+    2. no smoking
+    3. entrance / exit
+    4. ticket only
+    5. sale
+    6. no entry
+    7. no parking
+    8. registration
+    9. ground floor
+    10. discount
+    11. no dogs
+    12. please do not disturb
+
+---
+
 - Do the official Übungstest 1 Lesen twice (links in [06-telc-sample-tests.md](06-telc-sample-tests.md)).
 - Daily 2 min: skim the sign list in [07-grammar-essentials.md §20](../02-Grammar-Core/07-grammar-essentials.md#20-schilder-verkehrsmittel-signs-and-transport-lesen-loves-signs).
 - Read one message template from [exam-writing.md](02-exam-writing.md) daily - you are training Lesen and Schreiben at the same time.

@@ -29,6 +29,19 @@
 - Write 20-30 words in present tense with correct word order.
 - Survive Hören numbers/times and Lesen signs.
 
+## Timed Practice (weekly, 60 min - full mock run)
+
+1. Set a timer for 60 minutes and work through one full sample test in [telc-sample-tests.md](06-telc-sample-tests.md) in one sitting.
+2. Hören: digits, names, times. Lesen: signs, short texts. Schreiben: form + 20-30 words present tense. Sprechen: identity script aloud.
+3. Score yourself against the official solutions.
+
+!!! warning "Self-score rule"
+    Below 80% on any part? Re-do that part's drills in [08-Practice-Lab](../08-Practice-Lab/00-INDEX.md), then repeat the mock after 24 hours. The night before the real exam, read ONLY [exam-cheat-sheet.md](01-exam-cheat-sheet.md).
+
+- [ ] Full mock done in one timed sitting.
+- [ ] All parts self-scored.
+- [ ] Re-test plan made for any part under 80%.
+
 ## Tip
 
 Exam German is stricter than daily German: use Sie, full forms (ich habe not ich hab), and present tense in Schreiben. Daily shortcuts from Part 06 are welcome in life, not in exam.

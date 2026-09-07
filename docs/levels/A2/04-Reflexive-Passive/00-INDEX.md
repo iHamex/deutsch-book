@@ -1,6 +1,6 @@
 # Part 04 - Reflexive Verbs and Passive (A2)
 
-> Goal: use reflexive verbs naturally (with and without prepositions) and understand Passive when you read and hear it.
+> Use reflexive verbs naturally (with and without prepositions) and understand Passive when you read and hear it.
 
 ---
 
@@ -8,10 +8,10 @@
 
 | # | File | What you learn | Time |
 |---|---|---|---|
-| 01 | **reflexive-basis.md** (planned) | Reflexive Akk (sich freuen, sich ausruhen, sich treffen) and Dat (sich etwas wünschen, sich die Hände waschen), position of sich | 45 min |
-| 02 | **reflexive-praepositionen.md** (planned) | Reflexive + fixed preposition: sich freuen auf/über, sich interessieren für, sich ärgern über, sich kümmern um, sich entschuldigen bei/für | 45 min |
-| 03 | **passiv.md** (planned) | Passiv Präsens: werden + Partizip (Das wird gemacht), von/durch, Präteritum passive receptive | 45 min |
-| 04 | **passiv-alternativen.md** (planned) | Alternatives: man-Sätze, -bar adjectives receptive (machbar, lesbar), sein + zu + Infinitiv receptive | 30 min |
+| 01 | [reflexive-basis.md](01-reflexive-basis.md) | Reflexive Akk (sich freuen, sich ausruhen, sich treffen) and Dat (sich etwas wünschen, sich die Hände waschen), position of sich | 45 min |
+| 02 | [reflexive-praepositionen.md](02-reflexive-praepositionen.md) | Reflexive + fixed preposition: sich freuen auf/über, sich interessieren für, sich ärgern über, sich kümmern um, sich entschuldigen bei/für | 45 min |
+| 03 | [passiv.md](03-passiv.md) | Passiv Präsens: werden + Partizip (Das wird gemacht), von/durch, Präteritum passive receptive | 45 min |
+| 04 | [passiv-alternativen.md](04-passiv-alternativen.md) | Alternatives: man-Sätze, -bar adjectives receptive (machbar, lesbar), sein + zu + Infinitiv receptive | 30 min |
 
 ---
 
@@ -28,6 +28,17 @@
 - Read news and signs: Hier wird gebaut / Die Straße wird gesperrt.
 - Paraphrase: Man spricht hier Deutsch = Hier wird Deutsch gesprochen.
 
-## Tip
+## Timed Practice (weekly, 15-20 min)
 
-Reflexive verbs are CHUNKS: always memorize verb + sich + preposition + case together (sich freuen auf + Akk). Never separate the chunk.
+1. Set a timer for 15-20 minutes.
+2. Do the Practice drill in [reflexive-basis.md section 5](01-reflexive-basis.md#5-practice-reflexive-verbs) (16 items).
+3. Do the Practice drill in [passiv.md section 8](03-passiv.md#8-practice-say-it-actively-read-it-passively) (10 items).
+4. Say your morning routine aloud with 8 reflexive verbs - timer on, no notes.
+5. Self-score: count correct answers in both drills.
+
+!!! warning "Self-score rule"
+    If less than 80% correct, mark the 5 hardest items, wait 24 hours, and re-do exactly those 5.
+
+- [ ] 2 drills done within time.
+- [ ] Morning routine with 8 reflexive verbs.
+- [ ] Score >= 80% or re-test list made.

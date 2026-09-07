@@ -25,7 +25,21 @@
 ## How this connects
 
 - To fix a mistake: find its file in Parts 01-04 (e.g., M2 weil -> [04-Sentence-Building](../04-Sentence-Building/00-INDEX.md)01-word-order.md)
-- After drill: go to [09-Fluency-Speaking](../09-Fluency-Speaking/00-INDEX.md) to use it live.
+- After drill: use the phrases from [06-Daily-Communication](../06-Daily-Communication/00-INDEX.md) live in real situations.
+
+## Timed Practice (daily, 10-15 min)
+
+1. Set a timer for 10-15 minutes.
+2. Do ONE block of [sentences.md](02-sentences.md) (5-10 EN to DE pairs) - say the German aloud, then check.
+3. Pick 3-5 open mistakes from [mistakes.md](01-mistakes.md) at random and re-test them from memory.
+4. Fill ONE skeleton from [sentence-skeletons.md](03-sentence-skeletons.md) 5 times with different words.
+
+!!! warning "Self-score rule"
+    If less than 80% of the sentences came out correct, log the slips in mistakes.md and re-do the same block after 24 hours. Consistency beats intensity.
+
+- [ ] 1 sentence-bank block done aloud.
+- [ ] 3-5 random mistakes re-tested.
+- [ ] 1 skeleton filled 5 times.
 
 ## Tip
 
