@@ -61,6 +61,7 @@
 | hören | hear | +AKK |
 | fragen | ask | +AKK |
 | besuchen | visit | +AKK |
+| bleiben | stay | - |
 | antworten | answer | +DAT |
 | danken | thank | +DAT |
 | öffnen | open | +AKK |
@@ -318,6 +319,23 @@
 | you all | Ihr kommt. | Ihr kommt aus dem Iran. | You (all) come from Iran. |
 | they | Sie kommen. | Sie kommen aus dem Iran. | They come from Iran. |
 | you (formal) | Sie kommen. | Sie kommen aus dem Iran. | You come from Iran. |
+
+### bleiben (stay)
+> Present tense is regular — but the past is irregular: Perfekt **ist geblieben** (with sein!), Präteritum **blieb**. bleiben belongs to the sein-team with sein and werden: *Ich bin zu Hause geblieben.* See [05-tenses.md](05-tenses.md).
+
+| Person | Form | Example sentence | English |
+| --- | --- | --- | --- |
+| I | Ich bleibe. | Ich bleibe zu Hause. | I stay at home. |
+| you | Du bleibst. | Bleibst du hier? | Are you staying here? |
+| he | Er bleibt. | Er bleibt im Büro. | He stays at the office. |
+| she | Sie bleibt. | Sie bleibt bei ihrer Mutter. | She stays with her mother. |
+| it | Es bleibt. | Das bleibt geheim. | That stays secret. |
+| we | Wir bleiben. | Wir bleiben heute zu Hause. | We are staying home today. |
+| you all | Ihr bleibt. | Ihr bleibt noch eine Stunde. | You (all) are staying another hour. |
+| they | Sie bleiben. | Sie bleiben zwei Wochen. | They stay for two weeks. |
+| you (formal) | Sie bleiben. | Bleiben Sie hier! | Stay here! |
+
+> **Chunk to memorize:** *Ich bleibe zu Hause.* / *Bleib ruhig!* (Stay calm!) / *Ich bin zu Hause geblieben.*
 
 ### lesen (read, +AKK)
 | Person | Form | Example sentence | English |
