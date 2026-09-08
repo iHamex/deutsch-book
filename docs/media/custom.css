@@ -189,12 +189,12 @@ gStack Layout */
 	font-weight: 400;
 }
 
-/* Inline Code */
-p code, 
-td code, 
-strong code, 
-li code,
-.md-typeset code {
+/* Inline Code - Light */
+[data-md-color-scheme="default"] p code,
+[data-md-color-scheme="default"] td code,
+[data-md-color-scheme="default"] strong code,
+[data-md-color-scheme="default"] li code,
+[data-md-color-scheme="default"] .md-typeset code {
 	background-color: #f1f5f9 !important;
 	color: #dc2626 !important;
 	padding: 0.2em 0.5em !important;
@@ -202,6 +202,21 @@ li code,
 	font-family: 'Source Code Pro', 'Monaco', 'Menlo', 'Consolas', monospace;
 	font-weight: 500;
 	border: 1px solid #e2e8f0;
+}
+
+/* Inline Code - Dark */
+[data-md-color-scheme="slate"] p code,
+[data-md-color-scheme="slate"] td code,
+[data-md-color-scheme="slate"] strong code,
+[data-md-color-scheme="slate"] li code,
+[data-md-color-scheme="slate"] .md-typeset code {
+	background-color: transparent !important;
+	color: inherit !important;
+	border: none !important;
+	padding: 0.2em 0.5em !important;
+	border-radius: 4px !important;
+	font-family: 'Source Code Pro', 'Monaco', 'Menlo', 'Consolas', monospace;
+	font-weight: 500;
 }
 
 .md-typeset li {
