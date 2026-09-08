@@ -56,7 +56,7 @@
 | die E-Mail | email | Ich schreibe **eine** E-Mail. |
 | die Absenderin | sender (f) | **Die** Absenderin ist die Behörde. |
 | der Empfänger | recipient | **Der** Empfänger ist mein Arbeitgeber. |
-| das Betreff | subject | **Der** Betreff ist "Anmeldung". |
+| der Betreff | subject | **Der** Betreff ist "Anmeldung". |
 | die Anrede | salutation | **Die** Anrede ist "Sehr geehrte Damen und Herren". |
 | der Gruß | greeting/closing | **Der** Gruß ist "Mit freundlichen Grüßen". |
 | die Unterschrift | signature | **Die** Unterschrift ist wichtig. |

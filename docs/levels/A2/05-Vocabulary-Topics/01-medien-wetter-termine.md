@@ -50,7 +50,7 @@
 | der Wind | wind | **Der** Wind ist stark. |
 | die Wolke | cloud | **Die** Wolken sind dunkel. |
 | der Sturm | storm | **Der** Sturm kommt bald. |
-| die Gewitter | thunderstorm | **Das** Gewitter ist gefährlich. |
+| das Gewitter | thunderstorm | **Das** Gewitter ist gefährlich. |
 | bewölkt | cloudy | Heute ist es **bewölkt**. |
 | sonnig | sunny | Morgen wird es **sonnig**. |
 | regnerisch | rainy | Die Woche ist **regnerisch**. |

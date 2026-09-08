@@ -96,13 +96,13 @@ Each sentence shows an n-Deklination noun. Say which form it is (Akk or Dat) and
 
 | Form | Example | English |
 | --- | --- | --- | --- |
-| Nominativ (bare) | der **Mann** | the man |
-| Akkusativ (+n) | Ich sehe den **Mann-en** | I see the man. |
-| Dativ (+n) | Ich helfe dem **Mann-en** | I help the man. |
-| Genitiv (+n) | das Auto des **Mann-en** | the man's car |
-| Plural (+n) | die **Mann-en** | the men |
+| Nominativ (bare) | der **Kunde** | the customer |
+| Akkusativ (+n) | Ich kenne den **Kunden** | I know the customer. |
+| Dativ (+n) | Ich helfe dem **Kunden** | I help the customer. |
+| Genitiv (+n) | das Auto des **Kunden** | the customer's car |
+| Plural (+n) | die **Kunden** | the customers |
 
-**The n-Deklination nouns:** masculine, weak, end in -e (der Junge, der Name, der Kunde, der Kollege, der Franzose) or the set without -e (der Herr, der Mensch, der Polizist, der Student, der Tourist, der Nachbar, der Kunde).
+**The n-Deklination nouns:** masculine, weak, end in -e (der Junge, der Name, der Kunde, der Kollege, der Franzose) or the set without -e (der Herr, der Mensch, der Polizist, der Student, der Tourist, der Nachbar).
 
 - [ ] Nominative bare, all other cases add -n.
 - [ ] Recognize in reading; you mainly need den/dem + -n.

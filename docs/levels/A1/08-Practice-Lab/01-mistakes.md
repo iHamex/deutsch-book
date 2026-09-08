@@ -230,7 +230,7 @@
 ## M35 - wiederholen (repeat) vs wider (against) (VOCAB/WORD FORM)
 - **Rule:** wiederholen = to repeat (wieder = again). wider = against / contrary. "repeat that" = das wiederholen (not widerholen).
 - **Wrong:** Konnen sie bitte das ==widerholen==?
-- **Right:** Konnen Sie bitte das ==wiederholen==?
+- **Right:** Können Sie bitte das ==wiederholen==?
 - **Re-test:** session [FAIL]; Day+1, Day+3
 
 ## M36 - Tee as object: Akkusativ (CASE)

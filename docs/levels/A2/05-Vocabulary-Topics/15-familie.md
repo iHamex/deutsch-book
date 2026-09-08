@@ -129,7 +129,7 @@
 | das Verhältnis | relationship (quality) | Ich habe **ein** gutes Verhältnis zu meiner Mutter. |
 | eng | close | Meine Familie ist sehr **eng** verbunden. |
 | die Generation | generation | Drei **Generationen** leben zusammen. |
-| der Familientradition | family tradition | Es ist **unsere Familientradition**, zusammen zu essen. |
+| die Familientradition | family tradition | Es ist **unsere Familientradition**, zusammen zu essen. |
 
 ### Describing-family sentences
 

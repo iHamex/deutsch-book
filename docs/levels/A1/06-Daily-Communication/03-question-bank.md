@@ -210,7 +210,7 @@ That's it. That's the whole exam for Teil 2.
 | Kuchen | Backen Sie gern Kuchen? | Do you like to bake cake? |
 | Karte | Möchten Sie eine Spielkarte? | Do you want a playing card? |
 
-**Answer pattern:** "Am Wochenende entspanne ich mich." / "Mein Geburtstag ist am 21. September." / "Ja, ich feiern gern."
+**Answer pattern:** "Am Wochenende entspanne ich mich." / "Mein Geburtstag ist am 21. September." / "Ja, ich feiere gern."
 
 ---
 

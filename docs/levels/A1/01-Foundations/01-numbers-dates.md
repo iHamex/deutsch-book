@@ -274,7 +274,7 @@ In German, at 8:30 you say "halb NEUN" (looking forward to 9).
 |----------|-----------|---------|
 | fünf nach acht | 8:05 | five past eight |
 | zehn nach acht | 8:10 | ten past eight |
-| fünf vor neun | 8:50 | five to nine |
+| fünf vor neun | 8:55 | five to nine |
 | zehn vor neun | 8:50 | ten to nine |
 | fünf nach halb neun | 8:35 | five past half past eight |
 | zehn nach halb neun | 8:40 | ten past half past eight |

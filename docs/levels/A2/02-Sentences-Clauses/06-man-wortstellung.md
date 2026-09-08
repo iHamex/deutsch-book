@@ -13,7 +13,7 @@ man replaces a general "one" or "you" (people in general). It is always the subj
 | Präsens | **Man** spricht hier Deutsch. | One speaks German here. |
 | Perfekt | **Man** hat viel **gegessen**. | A lot was eaten. (People ate a lot.) |
 | Präteritum | **Man** ging ins Kino. | People went to the cinema. |
-| Konjunktiv II | **Man** würde nicht **angenommen**. | One would not be accepted. |
+| Konjunktiv II | **Man** würde nicht angenommen **werden**. | One would not be accepted. |
 
 !!! warning "man is always subject"
     Man is always Nominative. The verb is always 3rd person singular. Never change the verb form.

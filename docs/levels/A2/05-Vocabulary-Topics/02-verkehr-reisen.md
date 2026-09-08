@@ -37,8 +37,8 @@
 | die Abfahrt | departure | **Die** Abfahrt ist um 8 Uhr. |
 | die Ankunft | arrival | **Die** Ankunft ist um 12 Uhr. |
 | die Rückfahrt | return trip | **Die** Rückfahrt ist am Sonntag. |
-| die Hin und Rückfahrt | round trip | **Die** Hin und Rückfahrt kostet 50 Euro. |
-| die Einfache Fahrkarte | one-way ticket | Ich kaufe **eine** einfache Fahrkarte. |
+| die Hin- und Rückfahrt | round trip | **Die** Hin- und Rückfahrt kostet 50 Euro. |
+| die einfache Fahrkarte | one-way ticket | Ich kaufe **eine** einfache Fahrkarte. |
 | die Reservierung | reservation | Ich habe **eine** Reservierung. |
 
 ### Booking sentences
@@ -46,7 +46,7 @@
 | German | English |
 | --- | --- |
 | Ich möchte eine Fahrkarte nach Berlin. | I would like a ticket to Berlin. |
-| Hin und Rückfahrt, bitte. | Round trip, please. |
+| Hin- und Rückfahrt, bitte. | Round trip, please. |
 | Einfach oder retour? | One-way or return? |
 | Wie lange dauert die Fahrt? | How long does the trip take? |
 | Muss ich umsteigen? | Do I have to change? |

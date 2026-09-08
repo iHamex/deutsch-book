@@ -69,7 +69,7 @@ The examiner may ask any of these. Know every answer cold.
 | Wie lange lernen Sie schon Deutsch? | Ich lerne Deutsch seit zwei Wochen. | I have been learning German for two weeks. |
 | Was machen Sie am Wochenende? | Am Wochenende entspanne ich mich. | At the weekend I relax. |
 | Was kochen Sie gern? | Ich koche nicht, aber meine Frau kocht sehr gut! | I don’t cook, but my wife cooks very well! |
-| Mogen Sie Musik? | Ja, ich mag Musik. Ich hore ruhige Musik, aber manchmal auch Techno und Rock. | Yes, I like music. I listen to calm music, but sometimes techno and rock too. |
+| Mögen Sie Musik? | Ja, ich mag Musik. Ich höre ruhige Musik, aber manchmal auch Techno und Rock. | Yes, I like music. I listen to calm music, but sometimes techno and rock too. |
 | Treiben Sie Sport? | Mein Lieblingssport ist Fitness-Training, und im Winter fahre ich Ski. | My favourite sport is fitness training, and in winter I ski. |
 
 ### Extended work story (if they ask about your career)
@@ -115,7 +115,7 @@ slot, and ask.
 
 | Card word type | Skeleton | Example |
 |---|---|---|
-| person (Lehrer, Chef, Name) | **Wie heisst** ___? | Wie heisst Ihr Lehrer? |
+| person (Lehrer, Chef, Name) | **Wie heißt** ___? | Wie heißt Ihr Lehrer? |
 | activity (Essen, Hobby, Trinken) | **Was** ___ Sie **gern**? | Was essen Sie gern? |
 | place (Wohnort, Stadt) | **Wo** ___ Sie? | Wo wohnen Sie? |
 | time (Kurs, Zug, Termin) | **Wann** ___ ___? | Wann beginnt der Kurs? |
@@ -131,14 +131,14 @@ slot, and ask.
 | Frühstück | Was essen Sie gern zum Frühstück? |
 | Essen | Was essen Sie gern? |
 | Trinken / Kaffee | Was trinken Sie gern? |
-| Lieblingsgetrank | Was ist Ihr Lieblingsgetrank? |
+| Lieblingsgetränk | Was ist Ihr Lieblingsgetränk? |
 
 **Deutschkurs / Lernen (German course / Learning)**
 
 | Card | Your question |
 |---|---|
 | Kurs / Deutschkurs | Wann beginnt der Kurs? / Wann haben Sie Deutschkurs? |
-| Lehrer | Wie heisst Ihr Lehrer / Ihre Lehrerin? |
+| Lehrer | Wie heißt Ihr Lehrer / Ihre Lehrerin? |
 | Hausaufgabe | Was ist die Hausaufgabe? |
 | Buch | Wie viel kostet das Buch? |
 
@@ -154,7 +154,7 @@ slot, and ask.
 | Card | Your question |
 |---|---|
 | Arbeit | Was machen Sie beruflich? / Wo arbeiten Sie? |
-| Chef | Wie heisst Ihr Chef? |
+| Chef | Wie heißt Ihr Chef? |
 
 **Freizeit (Free time)**
 
@@ -214,7 +214,7 @@ slot, and ask.
 | Question | Answer pattern | English |
 | --- | --- | --- |
 | Wie viel kostet das Buch? | Es kostet 16,95 Euro. | It costs 16.95 euros. |
-| Was ist die Hausaufgabe? | Die Hausaufgabe ist Ubung 9 auf Seite 13. | The homework is exercise 9 on page 13. |
+| Was ist die Hausaufgabe? | Die Hausaufgabe ist Übung 9 auf Seite 13. | The homework is exercise 9 on page 13. |
 | Wie lange leben Sie schon in Frankfurt? | Seit 2 Jahren. | For 2 years. |
 | Wann fährt der nächste Zug nach München? | Er fährt um 11:15 Uhr. | It leaves at 11:15. |
 
@@ -223,7 +223,7 @@ slot, and ask.
 | Skeleton | Example | English |
 | --- | --- | --- |
 | Haben Sie ___? | Haben Sie Kinder? | Do you have children? |
-| Mochten Sie ___? | Mochten Sie einen Kaffee? | Would you like a coffee? |
+| Möchten Sie ___? | Möchten Sie einen Kaffee? | Would you like a coffee? |
 | Sind Sie ___? | Sind Sie verheiratet? | Are you married? |
 | Kochen Sie gern? | Kochen Sie gern? | Do you like cooking? |
 | Treiben Sie Sport? | Treiben Sie Sport? | Do you do sports? |
@@ -252,7 +252,7 @@ Then it is their turn. 2 rounds.
 | Formula | Example | English |
 | --- | --- | --- |
 | [Thing] + bitte! | Ein Glas Wasser, bitte! | A glass of water, please! |
-| Konnte ich bitte + [thing] + haben? | Konnte ich bitte einen Kaffee haben? | Could I please have a coffee? |
+| Könnte ich bitte + [thing] + haben? | Könnte ich bitte einen Kaffee haben? | Could I please have a coffee? |
 | Ich möchte bitte + [thing]. | Ich möchte bitte ein Stück Kuchen. | I would like a piece of cake, please. |
 | Kannst du mir bitte + [verb]? | Kannst du mir bitte helfen? | Can you please help me? |
 | Können Sie mir bitte + [verb at END]? | Können Sie mir bitte die Speisekarte bringen? | Can you please bring me the menu? |
@@ -263,14 +263,14 @@ Then it is their turn. 2 rounds.
 | Formula | Example | English |
 | --- | --- | --- |
 | Lass uns + [activity]! | Lass uns Obst essen! / Lass uns spazieren gehen! | Let’s eat fruit! / Let’s go for a walk! |
-| Wir konnen + [activity]. | Wir konnen ins Kino gehen. | We can go to the cinema. |
+| Wir können + [activity]. | Wir können ins Kino gehen. | We can go to the cinema. |
 | Wir treffen uns + [time/place]. | Wir treffen uns am Montag um 15 Uhr. | We meet on Monday at 3 p.m. |
 
 ### Angebot (offer)
 
 | Formula | Example | English |
 | --- | --- | --- |
-| Mochtest du + [thing]? | Mochtest du einen Kaffee? | Would you like a coffee? |
+| Möchtest du + [thing]? | Möchtest du einen Kaffee? | Would you like a coffee? |
 | Soll ich + [activity]? | Soll ich dir helfen? | Should I help you? |
 | Ich kann + [activity] + für dich. | Ich kann das für dich machen. | I can do that for you. |
 
@@ -278,12 +278,12 @@ Then it is their turn. 2 rounds.
 
 | Situation | React with | English |
 | --- | --- | --- |
-| Yes to a request | Ja, naturlich. Hier, bitte. / Ja, gerne! / Kein Problem! | Yes, of course. Here you are! / Yes, gladly! / No problem! |
+| Yes to a request | Ja, natürlich. Hier, bitte. / Ja, gerne! / Kein Problem! | Yes, of course. Here you are! / Yes, gladly! / No problem! |
 | No to a request | Tut mir leid, ich habe keins. / Tut mir leid, das geht nicht. | I’m sorry, I don’t have any. / I’m sorry, that doesn’t work. |
 | Yes to a suggestion | Gute Idee! / Ja, gerne. Ich habe Hunger. | Good idea! / Yes, gladly. I am hungry. |
 | Yes to an offer | Ja, danke! Das ist sehr nett. / Ja, bitte! | Yes, thanks! That is very nice. / Yes, please! |
 | No to an offer | Nein, danke. / Danke, ich habe schon. | No, thanks. / Thanks, I already have. |
-| You do not understand | Entschuldigung, konnen Sie das bitte wiederholen? | Excuse me, can you please repeat that? |
+| You do not understand | Entschuldigung, können Sie das bitte wiederholen? | Excuse me, can you please repeat that? |
 
 ### Teil 3 - Full practice cards (simulate the exam)
 
@@ -323,7 +323,7 @@ communicating in German.
 | Moment, bitte. | "One moment, please." - buys you 3 seconds |
 | Hm... ich glaube... | "Hmm, I think..." - shows you are thinking |
 | Lassen Sie mich nachdenken. | "Let me think." - formal, safe |
-| Ich muss kurz uberlegen. | "I need to think briefly." |
+| Ich muss kurz überlegen. | "I need to think briefly." |
 
 ### When you do not know the answer
 
@@ -368,7 +368,7 @@ before the exam.
 **The 3 things that lose you the most speaking points:**
 
 1. **Using "Sie" for yourself.** Always "Ich", never "Sie" when talking about yourself.
-2. **Wrong case after the verb.** With helfen/gehoren/danken/antworten/gefallen = DATIVE.
+2. **Wrong case after the verb.** With helfen/gehören/danken/antworten/gefallen = DATIVE.
 3. **Main verb not in position 2.** "Ich kauft das Auto" is wrong. "Sie kauft das Auto" is right.
 
 ---
@@ -393,7 +393,7 @@ before the exam.
 ### Teil 3 (~4 min) - FORMULA and REACT
 
 - Look at the picture. Pick Bitte (easiest), Vorschlag, or Angebot.
-- Use the formula: [Thing] + bitte! or Konnte ich bitte... haben?
+- Use the formula: [Thing] + bitte! or Könnte ich bitte... haben?
 - When your partner asks you: react immediately with Ja gerne / Tut mir leid / Gute Idee.
 - Target: 2 requests + 2 reactions = done.
 
@@ -411,10 +411,10 @@ Memorize these. They are worth points by themselves.
 
 | Situation | You say | English |
 | --- | --- | --- |
-| Any wish (Gute Reise, Gute Besserung, Schones Wochenende) | **Gleichfalls!** | Likewise! |
+| Any wish (Gute Reise, Gute Besserung, Schönes Wochenende) | **Gleichfalls!** | Likewise! |
 | On the phone (ending) | **Auf Wiederhören** (NOT Wiedersehen) | Goodbye on the phone. |
-| To "Danke schon" | **Bitte schon!** / **Gern geschehen!** | You are welcome! |
-| Yes to a request | **Ja, gerne!** / **Ja, naturlich!** | Yes, gladly! |
+| To "Danke schön" | **Bitte schön!** / **Gern geschehen!** | You are welcome! |
+| Yes to a request | **Ja, gerne!** / **Ja, natürlich!** | Yes, gladly! |
 | No to a request | **Tut mir leid, ich habe keins.** | I am sorry, I don’t have any. |
 | You accept an offer | **Ja, danke! Das ist sehr nett.** | Yes, thanks! That is very nice. |
 | You decline an offer | **Nein, danke.** / **Danke, ich habe schon.** | No, thanks. |
@@ -501,7 +501,7 @@ Memorize these. They are worth points by themselves.
 === "A: Cafe"
 
     > Sie: Guten Tag! Ich möchte einen Kaffee, bitte.  
-    > Kellner: Mochten Sie auch etwas essen?  
+    > Kellner: Möchten Sie auch etwas essen?  
     > Sie: Ich möchte ein Stück Kuchen, bitte.  
     > Kellner: Wie ist der Kuchen?  
     > Sie: Der Kuchen ist sehr gut, er ist frisch.  
@@ -513,7 +513,7 @@ Memorize these. They are worth points by themselves.
 
     > Verkäufer: Guten Tag! Kann ich Ihnen helfen?  
     > Sie: Hallo, guten Tag. Ich suche ein T-Shirt in Größe XL.  
-    > Verkäufer: Hier, bitte. Mochten Sie es anprobieren?  
+    > Verkäufer: Hier, bitte. Möchten Sie es anprobieren?  
     > Sie: Vielen Dank, aber das ist zu klein.  
     > Sie: Können Sie mir bitte eine größere Größe bringen?  
     > Verkäufer: Hier, bitte - Größe 2XL. Passt das?  
@@ -528,13 +528,13 @@ Memorize these. They are worth points by themselves.
     > Schalter: Das macht 72,90 Euro.  
     > Sie: Mit Karte, bitte.  
     > Schalter: Hier ist Ihre Fahrkarte. Der Zug fährt ab Gleis 12. Gute Reise!  
-    > Sie: Danke sehr! Schones Wochenende! Tschuss!
+    > Sie: Danke sehr! Schönes Wochenende! Tschüss!
 === "D: Doctor"
 
     > Arzt: Guten Tag! Was fehlt Ihnen?  
     > Sie: Ich habe Kopfschmerzen und Fieber.  
     > Arzt: Sind Sie erkaltet?  
-    > Sie: Ja, ich brauche etwas gegen die Erkaltung.  
+    > Sie: Ja, ich brauche etwas gegen die Erkältung.  
     > Arzt: Hier ist das Rezept.  
     > Sie: Vielen Dank!  
     > Arzt: Gern geschehen! Und gute Besserung!  
@@ -545,7 +545,7 @@ Memorize these. They are worth points by themselves.
     > Passant: Der Edeka ist links, der Lidl ist rechts.  
     > Sie: Und wie komme ich zum Edeka?  
     > Passant: Gehen Sie geradeaus, dann links. Der Edeka ist neben der Bank.  
-    > Sie: Danke schon, Tschuss!
+    > Sie: Danke schön, Tschüss!
 === "F: Phone call"
 
     > Sie: Hallo, hier ist Hamed. Kann ich bitte mit Frau Schmidt sprechen?  
@@ -553,8 +553,8 @@ Memorize these. They are worth points by themselves.
     > Sie: Danke.  
     > Kollegin: Sie ist leider nicht da.  
     > Sie: Kann ich eine Nachricht hinterlassen?  
-    > Kollegin: Ja, naturlich.  
-    > Sie: Bitte sagen Sie ihr, ich rufe spater noch mal an.  
+    > Kollegin: Ja, natürlich.  
+    > Sie: Bitte sagen Sie ihr, ich rufe später noch mal an.  
     > Kollegin: Gern geschehen!  
     > Sie: Auf Wiederhören!
 === "G: Small talk (Teil 1 extension)"
@@ -562,11 +562,11 @@ Memorize these. They are worth points by themselves.
     > Kollege: Hallo Hamed! Wie geht's dir?  
     > Sie: Mir geht es gut. Und dir?  
     > Kollege: Was machst du am Freitag? Können wir ein Bier trinken?  
-    > Sie: Am Freitag habe ich Zeit. Ein Bier hort sich gut an!  
+    > Sie: Am Freitag habe ich Zeit. Ein Bier hört sich gut an!  
     > Kollege: Kennst du einen Biergarten?  
     > Sie: Ja, das klingt gut. Aber wann? Hast du um 18 Uhr Zeit?  
     > Kollege: Ja, perfekt! Bis Freitag!  
-    > Sie: Bis dann! Tschuss!
+    > Sie: Bis dann! Tschüss!
 ---
 
 ## 10. The Word-Order Master (speaking essentials)
@@ -695,7 +695,7 @@ Translate each phrase. Say it out loud in under 5 seconds each, then check. Thes
 - [ ] Teil 1: identity script memorized, name + city + job in ONE breath
 - [ ] Teil 2: card word -> W-word question (Wo/Was/Wie/Wann/Wie viel/Wie lange)
 - [ ] Teil 2: short answers ready (5-10 words, not essays)
-- [ ] Teil 3: "Ein Glas Wasser, bitte!" / "Konnte ich bitte... haben?"
+- [ ] Teil 3: "Ein Glas Wasser, bitte!" / "Könnte ich bitte... haben?"
 - [ ] Teil 3: reactions: "Ja, gerne." / "Tut mir leid, ich habe keins." / "Gleichfalls!"
 - [ ] Emergency: "Wie bitte?" / "Können Sie das bitte wiederholen?" / "Also..."
 - [ ] Anti-mistakes: ich (NOT Sie for yourself), dir (NOT dich with helfen), dem Kind (NOT den Kind)
@@ -709,13 +709,13 @@ Translate each phrase. Say it out loud in under 5 seconds each, then check. Thes
 ## Quick reference card (print this, carry to the exam)
 
 ```
-TEIL 1: Ich heisse ___. Ich komme aus ___. Ich wohne in ___.
+TEIL 1: Ich heiße ___. Ich komme aus ___. Ich wohne in ___.
         Ich bin ___ Jahre alt. Ich bin verheiratet.
         Ich bin ___ bei ___. Ich spreche ___.
 
 TEIL 2: [W-word] + [verb] + Sie?   ->  Short answer (5-10 words)
 
-TEIL 3: [Thing] + bitte!  /  Konnte ich bitte ___ haben?
+TEIL 3: [Thing] + bitte!  /  Könnte ich bitte ___ haben?
         Reactions: Ja, gerne!  /  Tut mir leid, ich habe keins.
         Gleichfalls!  /  Auf Wiederhören!
 

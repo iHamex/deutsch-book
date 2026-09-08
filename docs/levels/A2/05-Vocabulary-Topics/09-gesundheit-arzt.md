@@ -98,7 +98,7 @@
 | die Krankmeldung | sick note | Ich brauche **eine** Krankmeldung. |
 | krank sein | to be sick | Ich bin **krank**. |
 | sich krank melden | to call in sick | Ich **melde mich krank**. |
-| die Arbeitsunfähigkeit | inability to work | Ich habe **Arbeitsunfähigkeit**. |
+| die Arbeitsunfähigkeit | inability to work | Ich bin **arbeitsunfähig**. |
 | Bettruhe | bed rest | Der Arzt hat **Bettruhe** verordnet. |
 
 !!! tip "Chunk to memorize"

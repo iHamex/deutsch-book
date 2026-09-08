@@ -63,7 +63,7 @@
 | die Grundschule | primary school | Das Kind geht **auf die** Grundschule. |
 | die Oberschule | secondary school | Das Kind geht **auf die** Oberschule. |
 | die Schulpflicht | compulsory education | In Deutschland gibt es **Schulpflicht**. |
-| das Hort | after-school care | Das Kind ist **im** Hort. |
+| der Hort | after-school care | Das Kind ist **im** Hort. |
 | die Ferien | holidays | In den **Ferien** bin ich zu Hause. |
 | das Schuljahr | school year | Das **Schuljahr** beginnt im August. |
 | das Halbjahr | half-year | Im **Halbjahr** gibt es einen Bericht. |
