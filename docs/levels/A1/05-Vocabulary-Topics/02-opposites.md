@@ -174,15 +174,15 @@ Give the opposite of each German word, then use it in a short phrase. Say it out
     4. heiß - Der Kaffee ist heiß, der Tee ist kalt.
     5. jung - Er ist alt, sie ist jung.
     6. langsam - Der Zug ist schnell, das Fahrrad ist langsam.
-    8. alt - ein neues Auto / ein altes Haus
-    9. rechts - links oder rechts?
-    10. unten - oben oder unten?
-    11. morgen - heute oder morgen
-    12. spät - früh oder spät
-    13. teuer - Das Hemd ist billig, die Jacke ist teuer.
-    14. kurz - der lange Weg / der kurze Weg
-    15. hässlich - schön oder hässlich
-    16. unglücklich - glücklich oder unglücklich
+    7. alt - ein neues Auto / ein altes Haus
+    8. rechts - links oder rechts?
+    9. unten - oben oder unten?
+    10. morgen - heute oder morgen
+    11. spät - früh oder spät
+    12. teuer - Das Hemd ist billig, die Jacke ist teuer.
+    13. kurz - der lange Weg / der kurze Weg
+    14. hässlich - schön oder hässlich
+    15. unglücklich - glücklich oder unglücklich
 
 ---
 

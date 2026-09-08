@@ -54,9 +54,9 @@ Letztes Jahr fuhr ich nach Italien. Eines Tages kam ein Brief von meinem Freund.
 
     1. Nachdem ich gegessen hatte, ging ich spazieren.
     2. Nachdem ich geschlafen hatte, fühlte ich mich besser.
-    3. Nachdem er angekommen war, haben wir angefangen.
+    3. Nachdem er angekommen war, fingen wir an.
     4. Nachdem sie die Arbeit beendet hatte, ging sie nach Hause.
-    5. Nachdem wir den Film gesehen hatten, haben wir darüber gesprochen.
+    5. Nachdem wir den Film gesehen hatten, sprachen wir darüber.
 
 ---
 

@@ -34,8 +34,8 @@
 
 ## Timed Practice (weekly, 45-55 min - full mock run)
 
-1. Set a timer for 45-55 minutes and work through [08-timed-mock-test.md](08-timed-mock-test.md) in one sitting - mini Hören, Lesen, Schreiben, Sprechen, exactly like the real exam.
-2. Hören: 10 min (announcements + talk). Lesen: 15 min (ads + richtig/falsch). Schreiben: 15 min (Formular + one 60-80 word Brief using the 3 Punkte = 3 Sätze frame). Sprechen: 10 min aloud (Teil 2/3 role-play card, both roles).
+1. Set a timer for 45-55 minutes and work through [08-timed-mock-test.md](08-timed-mock-test.md) in one sitting - mini Hören, Lesen, Schreiben, Sprechen. This is a shortened practice sprint in the style of the real exam (the real written part is 70 minutes, the oral ~15).
+2. Hören: 10 min (announcements + talk). Lesen: 15 min (ads + richtig/falsch). Schreiben: 15 min (Formular + one ca. 40-Wort Brief using the 3 Punkte = 3 Sätze frame). Sprechen: 10 min aloud (Teil 2/3 role-play card, both roles).
 3. Score yourself against the hidden answers.
 
 !!! warning "Self-score rule"

@@ -8,12 +8,12 @@
 
 | Part | Teile | Time | What happens | Points |
 |------|-------|------|--------------|--------|
-| **Hören** (Listening) | 3 Teile | ca. 20 min | You hear short conversations, announcements, phone calls. Multiple choice + matching. | 34 |
-| **Lesen** (Reading) | 3 Teile | 45 min total (shared with Schreiben) | Signs, short notes, one longer text. Multiple choice + matching. | 30 |
-| **Schreiben** (Writing) | 2 Teile | (same 45 min) | (1) Fill a form. (2) Write a 20-30 word message. | 14 |
-| **Sprechen** (Speaking) | 3 Teile | ca. 15 min | (1) Introduce yourself. (2) Card game - ask questions. (3) Make requests. | 22 (group of 4) |
+| **Hören** (Listening) | 3 Teile | ca. 20 min | 6 short dialogues (a/b/c), 4 announcements (richtig/falsch), 5 phone messages (a/b/c). | 15 |
+| **Lesen** (Reading) | 3 Teile | 45 min total (shared with Schreiben) | 5 short notes/letters (richtig/falsch), 5 ads (a/b), 5 signs (richtig/falsch). | 15 |
+| **Schreiben** (Writing) | 2 Teile | (same 45 min) | (1) Fill a form. (2) Write a short message (official: ca. 30 Wörter). | 15 |
+| **Sprechen** (Speaking) | 3 Teile | ca. 15 min | (1) Introduce yourself. (2) Card game - ask questions. (3) Make requests. | 15 (group of 4) |
 
-**Total: 100 points. Passing: 60 points (60%). No minimum per section.**
+**Total: 60 points. Passing: 36 points (60%). No minimum per section. Each part is scored separately 0-15, and the scores are added.**
 
 ---
 
@@ -73,32 +73,32 @@
 
 ### Horen (Listening) - 3 Teile, ca. 20 min
 
-**Teil 1:** You hear 8 short conversations. Match each to a picture or statement. (Multiple choice)
-**Teil 2:** You hear 7 short announcements or statements. Decide if the statement is correct or incorrect.
-**Teil 3:** You hear a longer conversation. Answer 5 multiple choice questions.
+**Teil 1:** You hear 6 short conversations. Cross the matching option (a/b/c). You never write - the answer options are printed.
+**Teil 2:** You hear 4 short announcements (Durchsagen: station, store, airport). Decide richtig or falsch for each statement. This Teil plays only ONCE.
+**Teil 3:** You hear 5 telephone messages. Cross the matching option (a/b/c).
 
 **Strategy (from horen-survival.md):**
 1. Read the questions BEFORE the audio plays.
 2. Listen for KEY words, not every word. Numbers, prices, times, names carry the answer.
 3. If you miss something, let it go. The audio does not stop.
-4. Numbers 1-20 and the alphabet are your weapon for Teil 1.
+4. Numbers 1-20 and the alphabet are your weapon - names and addresses are spelled in Teil 1.
 
-### Lesen (Reading) - 3 Teile, 30 min
+### Lesen (Reading) - 3 Teile, part of the 45 min shared with Schreiben
 
-**Teil 1:** Match 5 signs or short notices to the correct meaning. (Multiple choice)
-**Teil 2:** Read 8 short texts (notes, messages, signs). Match each to a statement.
-**Teil 3:** Read a longer text (email, letter, notice). Answer 5 multiple choice questions.
+**Teil 1:** Read 5 short notes or letters. Decide richtig or falsch for each statement (5 items).
+**Teil 2:** Read 5 ads (Anzeigen). Choose which ad (a or b) fits the situation (5 items).
+**Teil 3:** Read 5 signs/notices. Decide richtig or falsch for each statement (5 items).
 
 **Strategy (from lesen-survival.md):**
-1. Look at the pictures/signs FIRST, then read the options.
+1. Look at the signs FIRST, then read the options.
 2. Key vocabulary: geöffnet, geschlossen, verboten, kosten, Bitte.
 3. Read one message template from writing-survival.md daily - you train Lesen and Schreiben at the same time.
 
-### Schreiben (Writing) - 2 Teile, 15 min
+### Schreiben (Writing) - 2 Teile, part of the 45 min shared with Lesen
 
 **Teil 1:** Fill a form with personal data (name, address, birthday, nationality, family status, job). Every empty box loses points.
 
-**Teil 2:** Write a short message (20-30 words): greeting + 2-3 sentences + closing + name. PRESENT TENSE ONLY.
+**Teil 2:** Write a short message (official: ca. 30 Wörter - 20-30 words is a safe target): greeting + 2-3 sentences + closing + name. PRESENT TENSE ONLY.
 
 **Your data (memorize for Teil 1):**
 
@@ -135,19 +135,21 @@
 
 ## 4. Scoring breakdown
 
-| Part | Points | What counts |
-|------|--------|-------------|
-| Hören Teil 1 | 8 | Correct matches |
-| Hören Teil 2 | 7 | Correct right/wrong |
-| Hören Teil 3 | 5 | Correct answers |
-| Lesen Teil 1 | 5 | Correct sign meanings |
-| Lesen Teil 2 | 8 | Correct matches |
-| Lesen Teil 3 | 5 | Correct answers |
-| Schreiben Teil 1 | ~7 | Every filled box |
-| Schreiben Teil 2 | ~7 | Content + grammar + length |
-| Sprechen | 22 | Group assessment (all 4 test takers) |
+Each of the 4 parts is scored **0-15 raw points** (60 total). Pass = **36 points (60%)**, no minimum per section.
 
-**60 points = pass. No minimum per section.**
+| Part | Items/points | What counts |
+|------|-------------|-------------|
+| Hören Teil 1 | 6 | Correct a/b/c answers |
+| Hören Teil 2 | 4 | Correct richtig/falsch |
+| Hören Teil 3 | 5 | Correct a/b/c answers |
+| Lesen Teil 1 | 5 | Correct richtig/falsch |
+| Lesen Teil 2 | 5 | Correct a/b answers |
+| Lesen Teil 3 | 5 | Correct richtig/falsch |
+| Schreiben Teil 1 | ~7 | Every filled box |
+| Schreiben Teil 2 | ~8 | Content + grammar + length |
+| Sprechen | 15 | Teil 1 + Teil 2 + Teil 3 (group of 4) |
+
+**36 of 60 = pass. No minimum per section.**
 
 ---
 
@@ -198,7 +200,7 @@
 | Empty boxes in Schreiben Teil 1 | Fill EVERY box, even if you guess |
 | Using past tense in Schreiben | Present tense ONLY |
 | Forgetting "Sie" in Sprechen | Always "Sie" with examiner, never "du" |
-| Writing too many words in Task 2 | 20-30 words, no more |
+| Writing too many words in Task 2 | Official: ca. 30 Wörter - keep it 20-35 words |
 | Panic when you don't understand | "Können Sie das bitte wiederholen?" |
 | Using "Wiedersehen" on phone | Say "Auf Wiederhören" |
 | Forgetting "Gleichfalls!" | When examiner wishes you well, say "Gleichfalls!" |

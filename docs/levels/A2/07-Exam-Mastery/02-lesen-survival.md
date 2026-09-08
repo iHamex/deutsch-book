@@ -1,6 +1,6 @@
 # Lesen Survival (telc A2)
 
-> Lesen has 3 Teile in 50 minutes (shared with Schreiben). 30 points total. Train: scanning for keywords, traps (immer/nie/nur/alle), matching.
+> Lesen has 3 Teile in the 50-minute written block (shared with Schreiben). It counts 15 of the 60 exam points. Train: scanning for keywords, traps (immer/nie/nur/alle), matching.
 
 ---
 

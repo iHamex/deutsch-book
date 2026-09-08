@@ -1,6 +1,6 @@
 # A2 Timed Mock Test - 45-55 minutes
 
-> One mini exam in one sitting, exactly like telc A2 but shorter. Set a timer, work through the 4 parts in order, then expand the answers and score yourself. See [00-INDEX.md](00-INDEX.md) for the weekly routine this belongs to.
+> One mini exam in one sitting, in the style of telc A2 but shortened: the real exam has a 70-minute written part (Hören + Lesen + Schreiben) and a ~15-minute oral, so treat this mock as a practice sprint, not a timing rehearsal. Set a timer, work through the 4 parts in order, then expand the answers and score yourself. See [00-INDEX.md](00-INDEX.md) for the weekly routine this belongs to.
 
 ---
 
@@ -115,7 +115,7 @@
 
 Fill the form with your own data: Name / Vorname / Geburtsdatum / Straße, Hausnummer / PLZ, Ort / Telefonnummer / Beruf.
 
-### Aufgabe 2 - Brief (60-80 words, 3 Punkte = 3 Sätze)
+### Aufgabe 2 - Brief (official: ca. 40 Wörter, 3 Punkte = 3 Sätze)
 
 > Situation: You bought a jacket last week. It is already broken. Write to the shop: (1) what you bought and when, (2) what is wrong, (3) what you want (exchange or money back). Add a friendly close.
 
@@ -128,7 +128,7 @@ Write it, then compare with the model.
     Mit freundlichen Grüßen
     Hamed Okhovvat
 
-> Check with the 3-point checklist: (1) Anrede present? (2) all 3 Punkte as 3 Sätze? (3) Gruß present? ca. 40-80 words?
+> Check with the 3-point checklist: (1) Anrede present? (2) all 3 Punkte as 3 Sätze? (3) Gruß present? ca. 40 Wörter (30-50 is safe)?
 
 ---
 

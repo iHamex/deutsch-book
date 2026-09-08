@@ -37,8 +37,8 @@
 - **am + adj + (e)sten** → am größten, am besten.
 - **der / die / das + adj + (e)ste** → der beste, die größte.
 
-!!! note "Umlaut rule"
-    a/o/u take umlaut: alt->älter, groß->größer, jung->jünger.
+!!! note "Umlaut rule (with limits)"
+    a/o/u often take an umlaut: alt -> älter, groß -> größer, jung -> jünger. BUT not always: **laut -> lauter**, **froh -> froher**, **stolz -> stolzer**, **falsch -> falscher** keep the plain vowel. If you are unsure, use the form without umlaut - most adjectives are regular (kleiner, schneller, schöner).
 
 ---
 

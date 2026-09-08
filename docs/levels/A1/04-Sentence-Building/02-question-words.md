@@ -22,7 +22,7 @@
 ## Notes
 - **wer / was** start a question → verb in position 2: *Wer **ist** das?*
 - **wo** + preposition contracts: womit (wo + mit), wofür (wo + für), worüber. A1 light: *Womit schreibst du?*
-- **warum** = formal; spoken A1 also uses *wieso*.
+- **warum** is the standard, neutral "why" - use it in writing and speaking. **wieso** is the informal spoken variant (same meaning). **weshalb / weswegen** are the formal written variants - recognize them when you read.
 
 !!! tip "wer vs wen vs wem"
     wer (nom) -> wen (akk) -> wem (dat). Who -> whom -> to whom.

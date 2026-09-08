@@ -147,6 +147,9 @@ Each tab shows ONE gender across all three systems (after der, after ein/mein, a
 
 > **Key:** after der -> adjective **-e** (or **-en** in dative/plural). After ein -> adjective **-er** (m nom), **-es** (n nom/akk), **-e** (f), **-en** elsewhere. No article -> the adjective itself carries the ending (-er, -e, -es, -en).
 
+!!! info "A2 bridge - the 'no article' column"
+    The **no article** row (alt**er** Mann / alt**em** Kind) is strong declension - that is A2. At A1 you need it only in a few fixed chunks: **kaltes Wasser, frisches Brot, gute Freunde**. Do not memorize the whole no-article table now; the full system is taught in [A2 03-Cases-Articles 02-adjektive-voll](../../A2/03-Cases-Articles/02-adjektive-voll.md). Focus at A1 on the after-der and after-ein rows (see [04-adjective-endings.md](04-adjective-endings.md)).
+
 ### 7d. Adjective + preposition (the "in einem kleinen Haus" rule)
 
 **Dative prepositions + adjective = always -en:** mit, bei, zu, von, aus, nach, seit -> **-en**

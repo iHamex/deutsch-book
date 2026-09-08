@@ -27,7 +27,7 @@
 ### Teil 2 - Radio-Infos / Ansagen
 - Listen for: where, when, what, who.
 - Match each announcement to the right picture/statement.
-- Listen TWICE. Write during first play, check during second.
+- Teil 2 plays only ONCE - decide on the first play.
 
 ### Teil 3 - Längeres Gespräch
 - Listen for: opinions, decisions, reasons.

@@ -10,6 +10,8 @@
 |---|---|---|---|
 | 01 | [numbers-dates.md](01-numbers-dates.md) | 1-1000, prices, days/months/seasons, ordinals 1-31, halb/Viertel/nach/vor, 24h clock, opening hours, spelling alphabet | 60 min |
 | 02 | [time-words.md](02-time-words.md) | noch/schon/erst/nur, noch nicht vs noch kein, immer/oft/manchmal/nie, gestern/heute/morgen, immer noch/noch mal | 30 min |
+| 03 | [pronunciation-spelling.md](03-pronunciation-spelling.md) | umlauts, ß, ch/sch/sp/st/z, vowel length, word stress, sentence melody - the sounds of German | 45 min |
+| 04 | [grammar-terms.md](04-grammar-terms.md) | the grammar words used in this book (subject, object, cases, verb forms) explained in plain English | 30 min |
 
 ---
 

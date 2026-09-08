@@ -13,7 +13,7 @@ You hear phone messages and announcements. Write down names, numbers, times, add
 1. Read the questions BEFORE the audio starts.
 2. Write DIGITS, not words (8:00, not "acht Uhr").
 3. Listen for KEY words: Termin, Montag, Nummer, Uhr.
-4. The audio is played TWICE. Write during first, check during second.
+4. Teil 1 is played TWICE. Write during the first play, check during the second.
 
 ### What to listen for
 
@@ -40,7 +40,7 @@ You hear radio announcements or public announcements. Match each to the right pi
 1. Read the pictures/statements first.
 2. Listen for WHERE, WHEN, WHAT, WHO.
 3. Match: one keyword = one answer.
-4. Audio is played TWICE.
+4. Teil 2 (Ansagen) is played only ONCE - decide on the first play.
 
 ### Common announcement topics
 
@@ -75,7 +75,7 @@ Read each announcement aloud like a station speaker, then answer the question un
 ## Teil 3 - Längeres Gespräch
 
 ### What happens
-You hear a longer conversation. Answer richtig/falsch or multiple choice.
+You hear a longer conversation. Answer richtig/falsch or multiple choice. Teil 3 is played TWICE.
 
 ### Strategy
 1. Read the questions first.
@@ -107,7 +107,7 @@ You hear a longer conversation. Answer richtig/falsch or multiple choice.
 
 - [ ] Write digits, not words.
 - [ ] Read questions BEFORE audio starts.
-- [ ] Audio is played TWICE.
+- [ ] Teil 1 + 3 played twice, Teil 2 (Ansagen) only once.
 - [ ] immer/nie/nur/alle = usually traps.
 - [ ] Never leave anything empty.
 

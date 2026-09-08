@@ -5,18 +5,18 @@
 ---
 
 !!! tip "Hören Part 1 trick"
-    Numbers are easiest points. Listen twice, write once after repeat. Don't panic on cents.
+    Numbers and names are easiest points. You never write in telc A1 Hören - every answer is a, b or c (or richtig/falsch). Don't panic on cents.
 
 ## What each part tests
 
-**Teil 1 - you WRITE what you hear.** Numbers, prices, times, dates, and names spelled letter by letter.
+**Teil 1 - 6 short dialogues, cross a/b/c.** Prices, times, dates, and names spelled letter by letter.
 - This is the easiest points in the whole exam if you know numbers and the alphabet (see [numbers-dates.md](../01-Foundations/01-numbers-dates.md)).
-- Your name and city: H-A-M-E-D / M-Ü-N-C-H-E-N (the Ü is "U-Umlaut").
+- Your name and city: H-A-M-E-D / M-Ü-N-C-H-E-N (the Ü is "U-Umlaut"). The answer options are printed - you only cross.
 
-**Teil 2 - short dialogues and announcements** (shop, train station, opening hours). Multiple choice.
+**Teil 2 - 4 announcements (Durchsagen): station, shop, airport.** richtig/falsch. Plays only ONCE.
 - Listen for: opening hours (geöffnet von ... bis ...), prices, days, directions (geradeaus, links, rechts).
 
-**Teil 3 - telephone conversations.** richtig/falsch.
+**Teil 3 - 5 telephone messages, cross a/b/c.**
 - Know the phone chunks by heart: "Hallo, hier ist ...", "Einen Moment, bitte", "Sie ist leider nicht da", "Ich rufe später noch mal an" (see [07-grammar-essentials.md §19](../02-Grammar-Core/07-grammar-essentials.md#19-telefonieren-phone-chunks-horen-part-3-loves-this)).
 
 ---
@@ -24,8 +24,8 @@
 ## The 6 rules that save points
 
 1. **Read the task BEFORE the audio starts.** You get reading time - use it to know what you are listening for.
-2. **Write during the first play, check during the second.** The audio is played twice.
-3. **Write numbers as digits, not words.** Faster and no spelling risk.
+2. **Teil 1 and Teil 3 play TWICE** - cross during the first play, check during the second. **Teil 2 plays only ONCE** - decide on the first play.
+3. **Read the answer options, not the blanks.** All answers are a/b/c or richtig/falsch - you never write.
 4. **One missed item = one missed item.** Never lose the next one because you are still thinking about the last one.
 5. **Listen for the KEY word, not the whole sentence.** "geöffnet", "kostet", "Gleis", "um 8 Uhr" carry the answer.
 6. **Never leave a box empty.** A guess can be right, an empty box never is.

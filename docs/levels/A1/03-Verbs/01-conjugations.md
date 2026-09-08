@@ -147,7 +147,7 @@
 
 ### werden (to become, + adjective / noun)
 > The third auxiliary! You need it for "to become / get": *Ich werde müde.* (I get tired.)  
-> NOT the future tense (that's B1) - at A1 it just means "become".
+> NOT the future tense yet - at A1 it just means "become". The future job (werden + Infinitiv) is your A2 bridge, see [06-future-werden.md](06-future-werden.md).
 
 | Person | Form | Example sentence | English |
 | --- | --- | --- | --- |

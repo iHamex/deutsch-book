@@ -83,7 +83,7 @@ These take **accusative** for movement (Wohin? where to) or **dative** for locat
 | **seit** | since / for | seit Montag / seit zwei Jahren | since Monday |
 | **von** | from / of | von meinem Vater / von der Arbeit | from my father |
 | **zu** | to | zu Hause / zum Arzt / zur Arbeit | at home / to the doctor |
-| **gegenüber** | opposite | gegenüber dem Bahnhof | opposite the station |
+| **gegenüber** | opposite (A2) | gegenüber dem Bahnhof | opposite the station |
 | **außer** | except | außer dir | except you |
 
 - Ich wohne **bei** meinen Eltern.
@@ -91,6 +91,8 @@ These take **accusative** for movement (Wohin? where to) or **dative** for locat
 - **Zu** always takes Dativ: mit **meinem** Bruder, bei **meiner** neuen Arbeit.
 
 > **Memory song:** aus, bei, mit, nach, seit, von, zu - learn this song. Add gegenüber/außer when you meet them.
+>
+> *gegenüber is marked A2 - at A1 just recognize it when you read. außer is easy, learn it now.*
 
 ---
 

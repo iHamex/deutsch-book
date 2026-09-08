@@ -70,9 +70,9 @@
 ## 4. Lesen - Reading
 
 ### What each Teil tests
-- **Teil 1 - two short letters/e-mails:** richtig/falsch statements about the text. Compare word for word. Watch immer, nie, nur, alle.
-- **Teil 2 - ads (Anzeigen), a or b:** read what you need first (train, hotel, course), then compare the two ads - the correct one states it directly, the wrong one looks similar.
-- **Teil 3 - signs/notices, richtig/falsch:** opening hours, no smoking, no parking. One key word is usually enough.
+- **Teil 1 - 5 short notes/letters:** richtig/falsch statements about the text. Compare word for word. Watch immer, nie, nur, alle.
+- **Teil 2 - 5 ads (Anzeigen), a or b:** read what you need first (train, hotel, course), then compare the two ads - the correct one states it directly, the wrong one looks similar.
+- **Teil 3 - 5 signs/notices, richtig/falsch:** opening hours, no smoking, no parking. One key word is usually enough.
 
 ### Sign vocabulary - memorize this table
 

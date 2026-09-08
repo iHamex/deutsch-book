@@ -26,7 +26,7 @@ level: "A1"
 
 | Part | Folder | Goal | Time | When |
 |---|---|---|---|---|
-| **01** | [Foundations](01-Foundations/00-INDEX.md) | Numbers, dates, time, and time words | 2 hours | First day |
+| **01** | [Foundations](01-Foundations/00-INDEX.md) | Numbers, dates, time, time words, pronunciation, grammar terms | 2.5 hours | First day |
 | **02** | [Grammar-Core](02-Grammar-Core/00-INDEX.md) | Articles, cases, pronouns, prepositions, negation - the skeleton | 4 hours | Week 1 |
 | **03** | [Verbs](03-Verbs/00-INDEX.md) | All verb conjugation, modals, tenses, imperative, future | 4 hours | Week 1-2 |
 | **04** | [Sentence-Building](04-Sentence-Building/00-INDEX.md) | Build correct sentences: word order, questions, comparison, da/wo | 3 hours | Week 2 |
@@ -62,6 +62,8 @@ Root files `AGENTS.md`, `RULES.md`, `MEMORY.md` stay at root for agent protocols
 
 ## Quick Links
 
+- Never heard the German sounds? -> [Pronunciation and Spelling](01-Foundations/03-pronunciation-spelling.md)
+- Grammar words confusing you (subject, accusative, Partizip)? -> [Grammar Terms](01-Foundations/04-grammar-terms.md)
 - Need numbers or time? -> [01-Foundations](01-Foundations/00-INDEX.md)
 - Need der/die/das or mit/dem? -> [02-Grammar-Core](02-Grammar-Core/00-INDEX.md)
 - Need verb conjugation? -> [03-Verbs](03-Verbs/00-INDEX.md)

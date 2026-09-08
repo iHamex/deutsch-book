@@ -2,7 +2,7 @@
 
 > You never build sentences word-by-word. You MATCH a pattern and fill ONE slot.  
 > This file is the whole engine: every skeleton you need for the exam + daily life.  
-> Add new skeletons here as we discover them in our conversations.
+> Collect your own skeletons here too - every time a sentence pattern works, add it to the right slot.
 
 ---
 

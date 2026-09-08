@@ -1,6 +1,6 @@
 # Schreiben Survival (telc A2)
 
-> Schreiben has 2 Aufgaben in 50 minutes (shared with Lesen). 14 points total. Aufgabe 1: Formular. Aufgabe 2: Brief (40 Wörter, 3 of 4 Punkte).
+> Schreiben has 2 Aufgaben in the 50-minute written block (shared with Lesen). It counts 15 of the 60 exam points. Aufgabe 1: Formular. Aufgabe 2: Brief (ca. 40 Wörter, 3 of 4 Punkte).
 
 ---
 

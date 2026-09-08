@@ -35,7 +35,7 @@
 
 1. Set a timer for 20-25 minutes.
 2. Do the Dative verbs block in [02-sentences.md section 2](../08-Practice-Lab/02-sentences.md#2-dative-verbs-gehoren-helfen-geben-danken-antworten) (7 items).
-3. Do the Adjective endings block in [02-sentences.md section 6](../08-Practice-Lab/02-sentences.md#6-adjective-endings-after-derdiedas-e) (6 items) and Negation block section 13 (8 items).
+3. Do the Adjective endings block in [02-sentences.md section 6](../08-Practice-Lab/02-sentences.md#6-adjective-endings-after-der-e-after-einno-article-es-for-neuter) (6 items) and Negation block section 13 (8 items).
 4. Say aloud 5 Dativ chunks from memory: Das Buch gehört mir, Sie hilft dem Kind, ...
 5. Self-score: count correct answers in the drill blocks.
 

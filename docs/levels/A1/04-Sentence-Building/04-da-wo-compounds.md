@@ -1,6 +1,10 @@
-# da-/wo-Compounds - dafür / damit / worauf ... - A1
+# da-/wo-Compounds - dafür / damit / worauf ... - A2 bridge
 
 > When English says "for it / with it / about it", German does NOT say "für es". It says **dafür**. When English asks "for what?", German does NOT say "für was" in writing, it says **wofür**. This is the glue for natural German.
+
+!!! info "A2 bridge"
+    The da-/wo-compound system is fully productive from **A2** (see [A2 03-Cases-Articles 03-verben-praepositionen](../../A2/03-Cases-Articles/03-verben-praepositionen.md)). At A1, learn these **five spoken chunks** and recognize the rest when you read:
+    **dafür, damit, darüber, darauf, davon** + questions **wofür, womit, worüber, worauf**. Do not memorize the full table below - it is reference for later.
 
 ---
 
@@ -19,22 +23,22 @@
 
 ---
 
-## 2. Complete table - the 10 you will hear at A1
+## 2. Reference table - the 10 (read through, memorize 5)
 
 | preposition | da-compound (it) | meaning | wo-compound (what) | meaning |
 |---|---|---|---|---|
-| für | **dafür** | for it | **wofür** | for what |
-| mit | **damit** | with it | **womit** | with what |
-| über | **darüber** | about it | **worüber** | about what |
-| auf | **darauf** | on it / looking forward to it | **worauf** | on what |
+| für | **dafür** ★ | for it | **wofür** ★ | for what |
+| mit | **damit** ★ | with it | **womit** ★ | with what |
+| über | **darüber** ★ | about it | **worüber** ★ | about what |
+| auf | **darauf** ★ | on it / looking forward to it | **worauf** ★ | on what |
 | an | **daran** | on it / at it | **woran** | on what |
-| von | **davon** | of it / about it | **wovon** | of what |
+| von | **davon** ★ | of it / about it | **wovon** | of what |
 | zu | **dazu** | to it / for it | **wozu** | for what (purpose) |
 | bei | **dabei** | with it / there | **wobei** | where / while |
 | nach | **danach** | after it | **wonach** | after what |
 | um | **darum** | around it / therefore | **worum** | around what |
 
-> **Highlight the 5 you need first:** dafür, damit, darüber, darauf, davon + wofür, womit, worüber.
+> **★ = the 5 you memorize at A1:** dafür, damit, darüber, darauf, davon + the question forms wofür, womit, worüber, worauf. The rest you recognize from A2 on.
 
 ---
 
@@ -52,7 +56,7 @@
 
 ---
 
-## 4. Real sentences - A1 level (memorize as chunks)
+## 4. Real sentences (memorize the starred chunks at A1, rest at A2)
 
 **dafür / wofür (for it / for what):**
 

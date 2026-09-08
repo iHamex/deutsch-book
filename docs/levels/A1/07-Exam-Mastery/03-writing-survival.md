@@ -1,6 +1,6 @@
 # Writing Survival - Schreiben Überleben (telc A1)
 
-> **Why this file exists:** In the exam you have 30 minutes for 2 tasks. This file gives you every phrase, every template, every shortcut. Open this file, find what you need, write it. No thinking required - just copy, adjust, done.
+> **Why this file exists:** In the exam you have about 15 minutes for the 2 writing tasks (the written part is 45 minutes total, shared with Lesen). This file gives you every phrase, every template, every shortcut. Open this file, find what you need, write it. No thinking required - just copy, adjust, done.
 
 ---
 
@@ -8,11 +8,11 @@
 
 | Task | What you get | What you write | Points |
 |------|-------------|----------------|--------|
-| **Task 1: Formular** | Empty boxes with labels | Your personal data | 15 |
-| **Task 2: Mitteilung** | One sentence prompt | 20-30 word message | 15 |
-| **Total** | | | 30 points |
+| **Task 1: Formular** | Empty boxes with labels | Your personal data | ~7 of the 15 |
+| **Task 2: Mitteilung** | One sentence prompt | Short message (official: ca. 30 Wörter) | ~8 of the 15 |
+| **Total (Schreiben)** | | | 15 points (of the 60 exam points) |
 
-**Passing rule:** Write something in every box, write the message. ==Empty = 0 points.==
+**Passing rule:** Write something in every box, write the message. ==Empty = 0 points.== (Pass = 36 of 60 overall, no minimum per section.)
 
 ---
 

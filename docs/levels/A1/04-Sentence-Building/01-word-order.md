@@ -1,6 +1,6 @@
 # Word Order - The Complete Guide (A1 - A2)
 
-> Why this matters: German word order decides if you are correct. One rule - verb at position 2 - and two exceptions (verb at end after weil, verb first in yes/no) cover 95% of A1. This chapter teaches the whole system top to bottom, with every connector you need.
+> Why this matters: German word order decides if you are correct. One rule - verb at position 2 - and two exceptions (verb at end after weil, verb first in yes/no) cover 95% of A1. This chapter teaches the whole system for A1-A2; the connectors you actively produce at A1 are marked ✓, the rest are your A2 bridge.
 
 ---
 
@@ -110,17 +110,20 @@ With a modal verb or Perfekt, the helper is at position 2 and the main verb goes
 
 Connectors **weil, dass, wenn, ob, als, damit, bevor** send the verb to the END of their clause. The main clause verb stays at position 2.
 
-**The complete list you need at A1/A2:**
+!!! info "Learn now vs A2 bridge"
+    At A1 you actively use **weil** and **wenn**. The rest (**dass, ob, als, damit, bevor, um ... zu**) are your **A2 bridge** - recognize them when you read, produce them from A2 on. They are all taught properly in [A2 02-Sentences-Clauses](../../A2/02-Sentences-Clauses/00-INDEX.md).
 
-| Connector | Meaning | Example | English |
-|---|---|---|---|
-| **weil** | because | Ich bleibe zu Hause, **weil** ich krank **bin**. | because I am sick |
-| **dass** | that | Ich glaube, **dass** er **kommt**. | that he comes |
-| **wenn** | if / when (present/future) | **Wenn** ich Zeit **habe**, komme ich. | if/when I have time |
-| **als** | when (past, one time) | **Als** ich ein Kind **war**, ... | when I was a child |
-| **ob** | whether / if | Ich weiß nicht, **ob** er **kommt**. | whether he comes |
-| **damit** | so that | Ich lerne Deutsch, **damit** ich **arbeiten kann**. | so that I can work |
-| **bevor** | before | **Bevor** ich **gehe**, rufe ich an. | before I go |
+**The complete list (A1 core marked ✓, A2 bridge marked →):**
+
+| Connector | Meaning | Level | Example | English |
+|---|---|---|---|---|
+| **weil** | because | ✓ A1 | Ich bleibe zu Hause, **weil** ich krank **bin**. | because I am sick |
+| **wenn** | if / when (present/future) | ✓ A1 | **Wenn** ich Zeit **habe**, komme ich. | if/when I have time |
+| **dass** | that | → A2 | Ich glaube, **dass** er **kommt**. | that he comes |
+| **als** | when (past, one time) | → A2 | **Als** ich ein Kind **war**, ... | when I was a child |
+| **ob** | whether / if | → A2 | Ich weiß nicht, **ob** er **kommt**. | whether he comes |
+| **damit** | so that | → A2 | Ich lerne Deutsch, **damit** ich **arbeiten kann**. | so that I can work |
+| **bevor** | before | → A2 | **Bevor** ich **gehe**, rufe ich an. | before I go |
 
 **Examples in sentences:**
 
@@ -132,6 +135,7 @@ Connectors **weil, dass, wenn, ob, als, damit, bevor** send the verb to the END 
 
 !!! info "The weil rule"
     After weil/dass/wenn/ob/als/damit/bevor, the conjugated verb of THAT clause sits at its end. A comma separates it from the main clause.
+    At A1, practise the rule with **weil** and **wenn** only - the others follow the exact same pattern from A2 on.
 
 ### 6b. wenn vs wann
 
@@ -140,7 +144,7 @@ Connectors **weil, dass, wenn, ob, als, damit, bevor** send the verb to the END 
 | **wann** | question word | **Wann** kommst du? - When do you come? |
 | **wenn** | connector (if/when) | Ich komme, **wenn** ich Zeit habe. - I come when I have time. |
 
-### 6c. wenn vs als (past)
+### 6c. wenn vs als (past) - A2 bridge
 
 | German | When to use | Example | English |
 |---|---|---|---|
@@ -155,14 +159,14 @@ Connectors **weil, dass, wenn, ob, als, damit, bevor** send the verb to the END 
 !!! tip "A1 trick"
     At A1 use **wenn** for everything except "Als ich ein Kind war". That one sentence covers 90% of als you need.
 
-### 6d. ob vs wenn
+### 6d. ob vs wenn - A2 bridge
 
 | German | Use | Example |
 |---|---|---|
 | **ob** | whether (I do not know if) | Ich weiß nicht, **ob** er kommt. |
 | **wenn** | if (condition) | **Wenn** er kommt, freue ich mich. |
 
-### 6e. damit and um ... zu - so that / in order to
+### 6e. damit and um ... zu - so that / in order to (A2 bridge)
 
 Both express purpose (why you do something). The difference is the subject:
 
@@ -176,8 +180,8 @@ Both express purpose (why you do something). The difference is the subject:
 - Er gibt mir Geld, **damit** ich das Ticket **kaufe**. (different subjects, must use damit)
 - Ich gehe in den Supermarkt, **um** Brot **zu kaufen**.
 
-!!! tip "A1 use"
-    Start with **um ... zu** (no new subject needed), like English "to + verb". See also [07-grammar-essentials.md §25](../02-Grammar-Core/07-grammar-essentials.md#25-zu-infinitiv-the-chance-to-drive-chance-zeit-lust-zu-verb) for Chance/Zeit/Lust + zu + Infinitiv.
+!!! tip "A2 use"
+    From A2 on, start with **um ... zu** (no new subject needed), like English "to + verb". See also [07-grammar-essentials.md §25](../02-Grammar-Core/07-grammar-essentials.md#25-zu-infinitiv-the-chance-to-drive-chance-zeit-lust-zu-verb) for Chance/Zeit/Lust + zu + Infinitiv, and [A2 02-Sentences-Clauses 02-grund-zweck](../../A2/02-Sentences-Clauses/02-grund-zweck.md) for the full lesson.
 
 ---
 

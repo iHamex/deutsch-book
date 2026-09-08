@@ -19,8 +19,8 @@
 | Format | Group exam, usually **4 test takers** + examiner |
 | Duration | ~15 minutes total, no preparation time |
 | Parts | 3: Teil 1 (identity), Teil 2 (card game), Teil 3 (requests) |
-| Scoring | 15 points out of 100 total (1/4 of your exam) |
-| Passing | 60 of 100 points overall (no minimum per section) |
+| Scoring | 15 points out of 60 total (1/4 of your exam) |
+| Passing | 36 of 60 points overall (no minimum per section) |
 | Partner | You interact with your PARTNER (not just the examiner) |
 | telc = Goethe | Same exam, same tasks, same points - only the logo differs |
 | Key rule | Always "Sie" with the examiner. Speak slowly and clearly. |

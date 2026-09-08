@@ -1,31 +1,32 @@
 # Lesen Survival - telc A1 Reading (The Easy Way)
 
-> The official format (telc page): **Lesen has 3 Teile and Schreiben 2 Teile, together 45 min**. Task types: matching (Zuordnung) and multiple choice. Your sign vocabulary ([07-grammar-essentials.md §20](../02-Grammar-Core/07-grammar-essentials.md#20-schilder-verkehrsmittel-signs-and-transport-lesen-loves-signs)) is the weapon for Teil 1.
+> The official format (telc page): **Lesen has 3 Teile and Schreiben 2 Teile, together 45 min**. Task types: richtig/falsch and choosing between two ads (a/b). Your sign vocabulary ([07-grammar-essentials.md §20](../02-Grammar-Core/07-grammar-essentials.md#20-schilder-verkehrsmittel-signs-and-transport-lesen-loves-signs)) is the weapon for Teil 3.
 
 ---
 
-!!! tip "Signs are key"
-    Lesen Part 1 is full of signs: geöffnet/geschlossen, Eingang/Ausgang, verboten. Memorize the table.
+!!! tip "Know your Teile"
+    Lesen Teil 1 = short notes/letters (richtig/falsch), Teil 2 = ads (a/b), Teil 3 = signs (richtig/falsch). Don't confuse them: the sign table below serves Teil 3.
 
 ## What each part tests
 
-**Teil 1 - signs and notices (Zuordnung).** You match each Schild/Anzeige to its meaning or to the situation.
-- Know the sign words cold: geöffnet/geschlossen, Eingang/Ausgang, Notausgang, verboten, Rauchen verboten, Bitte nicht stören, Ausverkauf, Ermäßigung, Toilette, geöffnet von ... bis ...
+**Teil 1 - 5 short notes and letters (richtig/falsch).** You read each statement and check it against the short text.
+- Compare word for word. Watch for "immer, nie, nur, alle" - they often make a statement false.
+- Useful words: geöffnet/geschlossen, Eingang/Ausgang, Notausgang, verboten, Rauchen verboten, Bitte nicht stören, Ausverkauf, Ermäßigung, Toilette, geöffnet von ... bis ...
 
-**Teil 2 - short everyday texts** (notes, emails, ads, announcements). Multiple choice (a/b/c).
-- Wrong options often LOOK like the text. Find the exact sentence in the text that answers the question.
+**Teil 2 - 5 ads (Anzeigen), a or b.** A short situation, then two ads - which one fits?
+- Wrong ad often LOOKS similar. Find the detail that decides: price, time, place.
 
-**Teil 3 - one longer text** (a letter or a longer email). richtig/falsch.
-- Compare each statement word for word with the text. Watch for "immer, nie, nur, alle" - they often make a statement false.
+**Teil 3 - 5 signs/notices (richtig/falsch).** One sign = one fact.
+- Compare each statement word for word with the sign. Watch for "immer, nie, nur, alle" - they often make a statement false.
 
 ---
 
 ## The 6 rules that save points
 
-1. **Read the task instruction first** - what are you matching or deciding?
-2. **Teil 1: read the sign, then scan the situations.** One key word is usually enough.
-3. **Teil 2: locate the sentence in the text, then compare.** The correct answer paraphrases the text; the wrong ones repeat parts of it.
-4. **Teil 3: one statement = one fact.** Mark "richtig" only if the text says it exactly. "Immer" and "nie" are usually traps.
+1. **Read the task instruction first** - richtig/falsch or a/b?
+2. **Teil 1 and 3: find the exact sentence in the text/sign, then compare.** One key word is usually enough.
+3. **Teil 2: read what you need, then compare the two ads.** The right one states it directly; the wrong one looks similar.
+4. **One statement = one fact.** Mark "richtig" only if the text says it exactly. "Immer" and "nie" are usually traps.
 5. **Watch the negatives:** nicht, kein, nie change everything.
 6. **Never leave anything empty.** A guess has a chance; an empty box has none.
 
@@ -47,7 +48,7 @@
 
 ## Quick practice - read the sign
 
-Read each sign/notice and say what it means in English. This is Lesen Part 1 exactly.
+Read each sign/notice and say what it means in English. This is Lesen Teil 3 exactly.
 
 - geöffnet von 8 bis 18 Uhr
 - Rauchen verboten

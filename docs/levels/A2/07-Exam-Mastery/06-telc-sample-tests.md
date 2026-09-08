@@ -8,12 +8,12 @@
 
 | Resource | Where | What |
 | --- | --- | --- |
-| telc Übungstest 1 | telc.net/deutsch-a2 | Complete test with audio + solutions |
-| Goethe Übungstest | goethe.de A2 | Similar format, free download |
+| telc Übungstest 1 (Start Deutsch 2) | https://www.telc.net/sprachpruefungen/deutsch/start-deutsch-2-telc-deutsch-a2/ | Complete test with audio + solutions. Click "Übungstest herunterladen". |
+| Goethe-Zertifikat A2 Modellsatz | goethe.de (search "Goethe-Zertifikat A2 Modellsatz") | Different exam from telc: good language practice, but the format differs - use it for reading/listening practice, not as a telc format rehearsal |
 | Prüfungstraining A2 | various publishers | More practice tests |
 
 !!! tip "Download the telc Übungstest"
-    Go to telc.net, download "Start Deutsch 2 Übungstest 1" + audio files. Do it timed. Score yourself.
+    Go to the telc A2 page (link above), download "Übungstest 1" + audio files. Do it timed. Score yourself with the included solutions.
 
 ---
 
@@ -65,7 +65,7 @@
 
 ## 5. Score tracking
 
-Use the solutions in the Übungstest and count your points per task (each task gives 1 point in the raw scoring). Track your percentage per part - aim for 60%+ in each.
+Use the solutions in the official Übungstest and follow its published scoring table - it shows the raw points per subtest (Hören, Lesen, Schreiben, Sprechen each contribute to the 60 total; the letter is scored 0-3 on content and form, not item by item). Track your percentage per part - aim for 60%+ in each.
 
 | Part | Attempt 1 (%) | Attempt 2 (%) | Target |
 | --- | --- | --- | --- |

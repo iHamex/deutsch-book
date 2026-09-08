@@ -72,7 +72,7 @@
     2. Ich bin zu Hause.
     3. Wann fährst du nach Hause?
 
-## 6. Adjective endings (after der/die/das → -e)
+## 6. Adjective endings (after der → -e, after ein/no article → -es for neuter)
 - The small child drinks water.
 - We read the old book.
 - He buys the expensive car.

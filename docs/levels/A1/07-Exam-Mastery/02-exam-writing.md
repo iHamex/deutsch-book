@@ -3,7 +3,7 @@
 > telc A1 Schreiben has exactly 2 tasks. Both are predictable.  
 > Task 1: fill in a form (personal data).  
 > Task 2: write a short message (like an SMS/note) about an everyday situation.  
-> There is NO long essay. You cannot fail if you learn the templates below.
+> There is NO long essay. The templates below cover the situations that actually appear - learn them and you will be ready for almost any prompt.
 
 ---
 
@@ -121,13 +121,20 @@ You get one sentence like: "Sie haben am Samstag Geburtstag. Schreiben Sie eine 
 ### Do NOT write too much.
 Keep it 3-4 lines. Clear and correct beats long and wrong. Every "Viele Grüße" + greeting + 2 sentences = pass.
 
+!!! info "How Task 2 is scored (official telc criteria)"
+    The examiner marks three things, each worth roughly a third of the task:
+    1. **Inhalt** - did you do what the prompt asked (invite / apologize / thank / arrange)?
+    2. **Kommunikative Gestaltung** - greeting, closing, and signature present? (Liebe Anna, ... Viele Grüße, Hamed)
+    3. **Sprachliche Richtigkeit** - is it understandable? Simple present-tense German with a few small errors still scores.
+    So the structure matters as much as the grammar: greeting + message + closing + name is half the task before you even write a sentence.
+
 ---
 
 ## Don't waste time
 - No essays, no past tense, no complex sentences.
 - The check is: did you cover the main point (invite / apologize / thank / arrange) + is it understandable?
 
-## Final checklist for the writing 30 minutes:
+## Final checklist for the writing part (shared 45 minutes with Lesen - spend roughly 15 on writing):
 - [ ] Task 1: every box filled with YOUR data (spelling doesn't matter, being empty does)
 - [ ] Task 2: greeting + 2-3 sentences + closing + name
 - [ ] Write numbers/dates in the German order (tag.monat.jahr)

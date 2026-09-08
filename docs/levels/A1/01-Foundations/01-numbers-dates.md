@@ -350,7 +350,7 @@ Germans use the 24-hour clock for trains, appointments, opening hours.
 
 ---
 
-## 9. Spelling / Buchstabieren (give me my name: HOT TEST AREA)
+## 9. Spelling / Buchstabieren
 
 !!! tip "Hören almost always spells someone's name"
     You must recognize the letters.
@@ -362,13 +362,15 @@ Key letters that Germans spell differently than you expect:
 - **ß** = "Eszett"
 - **Ü** = "U-Umlaut", **Ö** = "O-Umlaut", **Ä** = "A-Umlaut"
 
-!!! example "Practice one"
-    - "Ich buchstabiere: H-A-M-E-D." → hmm, but H isn't the issue, it's similar.
-
-!!! example "Actually saying the alphabet (listen for challenging ones)"
+!!! example "Say the alphabet (listen for the challenging letters)"
     A=a, B=beh, C=tseh, D=deh, E=eh, F=eff, G=geh, H=hah, I=ee, J=yoht, K=kah, L=ell, M=emm, N=enn, O=oh, P=peh, Q=koo, R=err, S=ess, T=teh, U=oo, V=fau, W=veh, X=iks, Y=uepsilon, Z=tset
 
+!!! example "Practice one"
+    Say your own name out loud: "Ich buchstabiere: H-A-M-E-D." Then spell your city and your street the same way. Letters with umlauts are spelled "A-Umlaut, O-Umlaut, U-Umlaut".
+
 **Why this matters:** In Sprechen Part 1 you spell YOUR name and YOUR city. In Hören you hear somebody else's spelled name.
+
+**More sounds?** The full system - umlauts, ß, ch/sch/sp/st, vowel length, stress - is in [03-pronunciation-spelling.md](03-pronunciation-spelling.md).
 
 **Your own words to practice OUT LOUD daily:**
 
