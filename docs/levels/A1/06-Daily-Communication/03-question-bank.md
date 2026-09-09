@@ -5,7 +5,7 @@
 !!! info "Source verified"
     All questions verified against official telc A1 and Goethe-Zertifikat A1 practice materials.
 
-> **Source:** Official telc A1 format (telc.net), Goethe-Zertifikat A1 (same exam), [07-grammar-essentials.md §20](../02-Grammar-Core/07-grammar-essentials.md#20-schilder-verkehrsmittel-signs-and-transport-lesen-loves-signs), vocabulary-modules.md. All content verified against official practice materials.
+> **Source:** Official telc A1 format (telc.net), Goethe-Zertifikat A1 (same exam), [07-grammar-essentials.md §20](../02-Grammar-Core/07-grammar-essentials.md#20-schilder-verkehrsmittel-signs-and-transport-lesen-loves-signs), the [Vocabulary Topics part](../05-Vocabulary-Topics/00-INDEX.md). All content verified against official practice materials.
 
 ---
 

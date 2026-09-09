@@ -1,6 +1,6 @@
 # Idioms and Wordplay (A2) - Redewendungen und Wortspiele
 
-> At A2 you can start having fun with German. This file gives you the playful side of the language: compound words that tell little stories (Kummerspeck, Torschlusspanik), the everyday idioms Germans really use, and playful questions that only work between friends. A1 gave you the survival idioms - [A1 idioms and wordplay](../../A1/05-Vocabulary-Topics/03-idioms-wordplay.md) - this file adds the A2 set.
+> At A2 you can start having fun with German. This file gives you the playful side of the language: compound words that tell little stories (Kummerspeck, Torschlusspanik), the everyday idioms Germans really use, and playful questions that only work between friends. A1 gave you the survival idioms - [A1 idioms and wordplay](../../A1/05-Vocabulary-Topics/17-idioms-wordplay.md) - this file adds the A2 set.
 
 ---
 

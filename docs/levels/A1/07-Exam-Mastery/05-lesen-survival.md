@@ -39,7 +39,7 @@
 | Signs and transport | [07-grammar-essentials.md §20](../02-Grammar-Core/07-grammar-essentials.md#20-schilder-verkehrsmittel-signs-and-transport-lesen-loves-signs) |
 | Places in the city | [07-grammar-essentials.md §14](../02-Grammar-Core/07-grammar-essentials.md#14-orte-in-der-stadt-places-for-directions-lesen) |
 | Opening hours and time | [numbers-dates.md §8](../01-Foundations/01-numbers-dates.md#8-time-die-uhrzeit-the-complete-guide) |
-| Food, health, train station | [vocabulary-modules.md §§3/5/6](../05-Vocabulary-Topics/01-vocabulary-modules.md#3-food-drinks-expand-your-food-vocabulary-beyond-bread-milk) |
+| Food, health, train station | [Food and Drinks](../05-Vocabulary-Topics/04-essen-trinken.md), [Health and Doctor](../05-Vocabulary-Topics/06-gesundheit.md), [Transport and Directions](../05-Vocabulary-Topics/07-verkehr.md) |
 | Invitations and notes | [exam-writing.md](02-exam-writing.md) (the templates ARE reading texts) |
 
 ---
