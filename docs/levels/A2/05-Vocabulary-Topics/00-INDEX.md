@@ -1,6 +1,6 @@
 # Part 05 - Vocabulary Topics (A2)
 
-> Own the 15 telc A2 daily-life themes as speakable chunks - Medien, Verkehr, Wohnung, Ämter, Beruf, Einkaufen, Gesundheit, Bank, Freizeit, Natur, Gefühle, Familie.
+> Own the 15 telc A2 daily-life themes as speakable chunks - Medien, Verkehr, Wohnung, Ämter, Beruf, Einkaufen, Gesundheit, Bank, Freizeit, Natur, Gefühle, Familie - plus idioms and wordplay for real conversations.
 
 ---
 
@@ -23,6 +23,7 @@
 | 13 | [natur-umwelt.md](13-natur-umwelt.md) | Natur und Umwelt: Landschaft, Tiere, Pflanzen, Mülltrennung, Umweltschutz, Klimawandel | 25 min |
 | 14 | [gefuehle.md](14-gefuehle.md) | Gefühle und Stimmungen: Grundgefühle, Adjektive + Gegenteile, sich freuen/ärgern, Reaktionen | 25 min |
 | 15 | [familie.md](15-familie.md) | Familie erweitert: Familienstand, Verwandte, Schwiegereltern, Beziehungen, Familie beschreiben | 25 min |
+| 16 | [idioms-wordplay.md](16-idioms-wordplay.md) | Compound-word humor (Kummerspeck, Torschlusspanik), everyday idioms, playful double meanings | 25 min |
 
 ---
 
@@ -40,13 +41,13 @@
 
 ## Timed Practice (weekly, 15 min per theme)
 
-1. Pick ONE theme file (01-15) and set a timer for 15 minutes.
+1. Pick ONE theme file (01-16) and set a timer for 15 minutes.
 2. Do that file's Practice drill from memory - cover the answers, say the German aloud.
 3. Speak 5 sentences about YOUR life using that theme (e.g., for Bank: Ich möchte 200 Euro abheben ...).
 4. Self-score: count correct answers in the drill.
 
 !!! warning "Self-score rule"
-    If less than 80% correct, mark the 5 hardest items, wait 24 hours, and re-do exactly those 5. Rotate themes so all 15 are covered every 4 weeks.
+    If less than 80% correct, mark the 5 hardest items, wait 24 hours, and re-do exactly those 5. Rotate themes so all 16 are covered every 4 weeks.
 
 - [ ] 1 theme drill done within time.
 - [ ] 5 personal sentences spoken aloud.

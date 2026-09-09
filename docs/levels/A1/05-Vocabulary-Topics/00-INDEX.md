@@ -10,6 +10,7 @@
 |---|---|---|---|
 | 01 | [vocabulary-modules.md](01-vocabulary-modules.md) | Greetings, family, food/drinks, colors/sizes, health/doctor dialogue, Bahnhof/travel, hobbies, der/die/das quick list, kein/nicht, useful words (nämlich/Auskunft/dauern...) | 60 min |
 | 02 | [opposites.md](02-opposites.md) | Opposite pairs: groß/klein, billig/teuer, vorne/hinten... for fast recall | 15 min |
+| 03 | [idioms-wordplay.md](03-idioms-wordplay.md) | Tongue twisters, everyday idioms (Frosch im Hals, Daumen drücken...), memory frames, cheat sheet | 20 min |
 
 > Plus vocabulary inside [../02-Grammar-Core/07-grammar-essentials.md](../02-Grammar-Core/07-grammar-essentials.md): Wetter, Wohnen, Kleidung, Stadt, Transport - read those sections as topic 03-05 supplement.
 
