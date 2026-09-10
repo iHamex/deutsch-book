@@ -35,7 +35,7 @@
 | die Mütze | cap / beanie | der Hut | hat |
 | der Schal | scarf | der Handschuh | glove |
 | der Gürtel | belt | die Brille | glasses |
-| der Anzug | suit | der Krawatte | tie |
+| der Anzug | suit | die Krawatte | tie |
 | die Unterwäsche | underwear | der BH | bra |
 | der Pyjama | pyjamas | das Badetuch | towel |
 | die Badehose | swimming trunks | der Badeanzug | swimsuit |
@@ -135,8 +135,8 @@
 | die Wolle | wool |
 | das Leder | leather |
 | der Baumwollstoff | cotton fabric |
-| der Polyester | polyester |
-| der Seide | silk |
+| das Polyester | polyester |
+| die Seide | silk |
 | der Stoff | fabric / material |
 | das Nylon | nylon |
 
@@ -152,7 +152,7 @@
 | die Ohrringe | earrings |
 | die Uhr | watch / clock |
 | der Goldring | gold ring |
-| der Silberkette | silver necklace |
+| die Silberkette | silver necklace |
 | Das ist aus Gold. | That's made of gold. |
 | Das ist aus Silber. | That's made of silver. |
 
@@ -209,7 +209,7 @@ Translate each sentence. Say it out loud, then check.
 - I'm looking for a blue shirt, size M.
 - Do you have that in green?
 - Can I try that on? - The fitting room is there.
-- That fits well. How much does it costs?
+- That fits well. How much does it cost?
 - That's too expensive. Is there a discount?
 - I'll take that. Can I pay by card?
 - Where is the men's section?

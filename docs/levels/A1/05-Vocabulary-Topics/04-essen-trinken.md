@@ -13,8 +13,8 @@
 | die Milch | milk | das Bier | beer |
 | der Wein | wine | die Limonade | lemonade |
 | der Orangensaft | orange juice | der Apfelsaft | apple juice |
-| der Heißee | hot chocolate | der Kakao | cocoa |
-| der Capuccino | cappuccino | der Espresso | espresso |
+| die heiße Schokolade | hot chocolate | der Kakao | cocoa |
+| der Cappuccino | cappuccino | der Espresso | espresso |
 | das Mineralwasser | mineral water | das Sprudelwasser | sparkling water |
 | das Leitungswasser | tap water | der Eistee | iced tea |
 | der Cocktail | cocktail | der Smoothie | smoothie |
@@ -35,10 +35,10 @@
 | der Fisch | fish | das Brötchen | bread roll |
 | das Hähnchen | chicken | der Schinken | ham |
 | die Wurst | sausage | das Müsli | muesli |
-| der Joghurt | yogurt | das Müsli | cereal |
+| der Joghurt | yogurt | der Quark | quark |
 | die Tomate | tomato | die Gurke | cucumber |
 | die Zwiebel | onion | der Knoblauch | garlic |
-| die Paprika | bell pepper | die Champignon | mushroom |
+| die Paprika | bell pepper | der Champignon | mushroom |
 | die Bohne | bean | die Erbse | pea |
 | der Kuchen | cake | die Torte | torte / layer cake |
 | das Gebäck | pastries | die Brezel | pretzel |
@@ -109,7 +109,7 @@
 | Ein Brötchen, bitte. | A bread roll, please. |
 | Zwei Brötchen, bitte. | Two bread rolls, please. |
 | Ein Croissant, bitte. | A croissant, please. |
-| Ein Butterbrot, please. | A buttered bread, please. |
+| Ein Butterbrot, bitte. | A buttered bread, please. |
 | Ein belegtes Brötchen, bitte. | A filled bread roll, please. |
 | Was möchten Sie? | What would you like? |
 | Was darf es sein? | What can I get you? |
@@ -190,7 +190,7 @@
 | Um wie viel Uhr ist das Frühstück? | What time is breakfast? |
 | Das Frühstück ist von 7 bis 10 Uhr. | Breakfast is from 7 to 10. |
 | Wo ist das Frühstück? | Where is breakfast? |
-| Im Erdgeschoß. | On the ground floor. |
+| Im Erdgeschoss. | On the ground floor. |
 | Danke, auf Wiedersehen. | Thank you, goodbye. |
 
 ---

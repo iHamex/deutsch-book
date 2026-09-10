@@ -73,7 +73,7 @@
 |--------|---------|
 | Danke! | Thank you! |
 | Danke schön! | Thank you very much! |
-| Danke/dir vielmals! | Thanks a lot! |
+| Danke vielmals! | Thanks a lot! |
 | Vielen Dank! | Many thanks! |
 | Bitte! | Please! / You're welcome! |
 | Bitte schön! | You're welcome! / Here you go! |
@@ -137,7 +137,7 @@
 | German | English |
 |--------|---------|
 | Welche Nationalität haben Sie? | What nationality are you? |
-| Ich bin Iranianer. | I am Iranian. |
+| Ich bin Iraner. | I am Iranian. |
 | Ich spreche Persisch. | I speak Farsi. |
 | Sprechen Sie Deutsch? | Do you speak German? |
 | Ja, ich spreche ein bisschen Deutsch. | Yes, I speak a little German. |
@@ -179,7 +179,7 @@
 | Ich bin hier neu. | I'm new here. |
 | Ich habe eine Frage. | I have a question. |
 | Ist das richtig? | Is that correct? |
-| Wie bitte? | Pardon? / How please? |
+| Wie bitte? | Pardon? / What did you say? |
 | Was ist das? | What is that? |
 | Was macht das? | How much is that? |
 | Das ist toll! | That's great! |

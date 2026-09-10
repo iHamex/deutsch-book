@@ -12,10 +12,10 @@
 | der Zug | train | die Bahn | train (system) |
 | die U-Bahn | subway | die Straßenbahn | tram |
 | das Fahrrad | bicycle | das Motorrad | motorbike |
-| der Taxi | taxi | das Flugzeug | airplane |
+| das Taxi | taxi | das Flugzeug | airplane |
 | das Schiff | ship | die Fähre | ferry |
 | der LKW | truck | der Lieferwagen | van |
-| der Roller | scooter | das E-Scooter | e-scooter |
+| der Roller | scooter | der E-Scooter | e-scooter |
 
 ---
 
@@ -51,7 +51,7 @@
 | Wo muss ich umsteigen? | Where do I have to change? |
 | Wie lange dauert die Fahrt? | How long does the journey take? |
 | Die Fahrt dauert zwei Stunden. | The journey takes two hours. |
-| Ich brauche ein Einzelfahrkarte. | I need a single ticket. |
+| Ich brauche eine Einzelfahrkarte. | I need a single ticket. |
 | Ich brauche eine Hin- und Rückfahrkarte. | I need a return ticket. |
 | Wie viel kostet eine Fahrkarte nach Berlin? | How much is a ticket to Berlin? |
 | Wo ist der Fahrkartenautomat? | Where is the ticket machine? |
@@ -192,8 +192,8 @@
 |--------|---------|
 | Wo ist der Check-in-Schalter? | Where is the check-in counter? |
 | Wo ist die Schlange? | Where is the queue? |
-| Wo ist die Gate? | Where is the gate? |
-| Wo ist der Gepäckausgabe? | Where is baggage claim? |
+| Wo ist das Gate? | Where is the gate? |
+| Wo ist die Gepäckausgabe? | Where is baggage claim? |
 | Wo ist die Toilette? | Where is the toilet? |
 | Wo ist der Duty-Free-Shop? | Where is the duty-free shop? |
 | Ich möchte einsteigen. | I want to board. |

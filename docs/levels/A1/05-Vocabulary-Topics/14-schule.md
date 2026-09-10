@@ -47,13 +47,13 @@
 | der Schreibtisch | desk |
 | der Stuhl | chair |
 | die Tafel | blackboard |
-| die Whiteboard | whiteboard |
-| der Kreide | chalk |
+| das Whiteboard | whiteboard |
+| die Kreide | chalk |
 | der Filzstift | felt-tip pen |
 | der Marker | marker |
 | der Radiergummi | eraser |
 | der Spitzer | sharpener |
-| der Lineal | ruler |
+| das Lineal | ruler |
 | die Schere | scissors |
 | der Kleber | glue |
 | das Klebeband | tape |
@@ -66,9 +66,6 @@
 | der Kugelschreiber / der Kuli | ballpoint pen |
 | der Füller | fountain pen |
 | der Textmarker | highlighter |
-| die Tafel | blackboard |
-| die Kreide | chalk |
-| das Buch | book |
 
 ---
 
@@ -104,7 +101,7 @@
 | die Vorlesung | lecture |
 | das Seminar | seminar |
 | die Übung | exercise / tutorial |
-| die Tutorium | tutorial |
+| das Tutorium | tutorial |
 | die Bibliothek | library |
 | der Hörsaal | lecture hall |
 | das Studentenwerk | student services |
@@ -126,11 +123,11 @@
 | die Immatrikulationsbescheinigung | enrolment certificate |
 | der Studiengang | degree programme |
 | die Fachrichtung | specialisation |
-| die Hauptfach | main subject |
-| die Nebenfach | minor subject |
+| das Hauptfach | main subject |
+| das Nebenfach | minor subject |
 | die Klausurenphase | exam period |
 | die Vorlesungszeit | lecture period |
-| die vorlesungsfrei | term-free |
+| die vorlesungsfreie Zeit | lecture-free period |
 | die Ferien | holidays |
 | die Weihnachtsferien | Christmas holidays |
 | die Osterferien | Easter holidays |
@@ -168,7 +165,6 @@
 | aufschreiben | to write down |
 | nachschlagen | to look up |
 | zusammenfassen | to summarize |
-| verstehen | to understand |
 | erkennen | to recognise |
 | bemerken | to notice |
 | erklären | to explain |
@@ -227,7 +223,6 @@
 | die Lehre | apprenticeship |
 | das Praktikum | internship |
 | die Berufserfahrung | work experience |
-| die Weiterbildung | further education |
 
 ---
 

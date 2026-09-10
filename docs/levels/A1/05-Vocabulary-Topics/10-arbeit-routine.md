@@ -22,7 +22,7 @@
 | Ich arbeite von 8 bis 17 Uhr. | I work from 8 to 5. |
 | Ich mache Mittagspause. | I take a lunch break. |
 | Ich esse zu Mittag. | I have lunch. |
- ich gehe nach Hause. | I go home. |
+| Ich gehe nach Hause. | I go home. |
 | Ich mache Hausaufgaben. | I do homework. |
 | Ich koche das Abendessen. | I cook dinner. |
 | Ich esse zu Abend. | I have dinner. |
@@ -111,7 +111,7 @@
 | letzten Monat | last month |
 | nächsten Monat | next month |
 | dieses Jahr | this year |
-| nächsten Jahr | next year |
+| nächstes Jahr | next year |
 | am Montag | on Monday |
 | am Dienstag | on Tuesday |
 | am Mittwoch | on Wednesday |
@@ -130,7 +130,7 @@
 | heute Abend | this evening |
 | in einer Woche | in a week |
 | in zwei Wochen | in two weeks |
-| seit drei Jahren | since three years |
+| seit drei Jahren | for three years |
 | seit letztem Monat | since last month |
 | seit letztem Jahr | since last year |
 | vor zwei Jahren | two years ago |
@@ -191,10 +191,8 @@
 | nie | never |
 | fast immer | almost always |
 | fast nie | almost never |
-|-normalerweise | usually |
+| normalerweise | usually |
 | gewöhnlich | normally |
-| normalerweise | normally |
-| normalerweise | normally |
 | zuerst | first |
 | dann | then |
 | danach | after that |
@@ -286,4 +284,4 @@ Translate each sentence. Say it out loud, then check.
     7. Was machst du am Wochenende?
     8. Nach der Arbeit gehe ich joggen.
     9. Ich stehe normalerweise um 6 Uhr auf.
-    10. Ich treffe manchmal Freunde abends.
+    10. Abends treffe ich manchmal Freunde.

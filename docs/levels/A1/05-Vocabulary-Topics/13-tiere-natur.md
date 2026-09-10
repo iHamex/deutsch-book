@@ -54,7 +54,7 @@
 
 ---
 
-## 3. Animal sounds - Ti-Laute
+## 3. Animal sounds - Tierlaute
 
 | German | English |
 |--------|---------|
@@ -147,7 +147,7 @@
 | der Regenwald | rainforest |
 | die Wüste | desert |
 | die Küste | coast |
-| die Hügel | hill |
+| der Hügel | hill |
 
 ---
 
@@ -161,8 +161,7 @@
 | der Müll | garbage |
 | der Müllsack | garbage bag |
 | die Mülltonne | trash can |
-| das Recycling Recycling. | the recycling |
-| der Mülltrennung | waste separation |
+| die Mülltrennung | waste separation |
 | die Müllverbrennung | waste incineration |
 | die Mülldeponie | landfill |
 | die Umweltverschmutzung | environmental pollution |
@@ -175,7 +174,7 @@
 | die Windenergie | wind energy |
 | die Wasserkraft | hydropower |
 | der Strom | electricity |
-| das Solarsystem | solar system |
+| das Sonnensystem | solar system |
 | die Sonne | sun |
 | die Erde | earth |
 | der Mond | moon |

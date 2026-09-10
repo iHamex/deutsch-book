@@ -137,7 +137,7 @@
 | German | English |
 |--------|---------|
 | Ich habe einen Termin um 10 Uhr. | I have an appointment at 10. |
-| Bin ich richtig? | Am I in the right place? |
+| Bin ich hier richtig? | Am I in the right place? |
 | Ist das die richtige Adresse? | Is this the right address? |
 | Hier ist mein Termin. | Here is my appointment. |
 | Ich habe einen Termin bei Dr. Weber. | I have an appointment with Dr. Weber. |
@@ -161,7 +161,7 @@
     ```
     Liebe Anna,
 
-    können wir uns am Samstag treffen? Um 15 Uhr im Café?
+    Können wir uns am Samstag treffen? Um 15 Uhr im Café?
     Schreib mir bitte, ob es dir passt.
 
     Viele Grüße
@@ -173,7 +173,7 @@
     ```
     Sehr geehrter Herr Weber,
 
-    könnten wir uns nächste Woche treffen? Ich hätte gerne einen Termin.
+    Könnten wir uns nächste Woche treffen? Ich hätte gerne einen Termin.
     Wann passt es Ihnen?
 
     Mit freundlichen Grüßen
@@ -185,7 +185,7 @@
     ```
     Sehr geehrte Damen und Herren,
 
-    es tut mir leid, ich muss meinen Termin am Freitag absagen.
+    Es tut mir leid, ich muss meinen Termin am Freitag absagen.
     Ich bin leider krank. Können wir einen neuen Termin machen?
 
     Mit freundlichen Grüßen

@@ -11,7 +11,7 @@
 | die Mutter / die Mama | mother / mom | der Bruder | brother |
 | der Vater / der Papa | father / dad | die Schwester | sister |
 | die Eltern | parents | der Sohn | son |
-| die Mutter | mother | die Tochter | daughter |
+| die Verwandten | relatives | die Tochter | daughter |
 | der Mann / der Ehemann | husband | das Kind | child |
 | die Frau / die Ehefrau | wife | die Kinder | children |
 | die Familie | family | das Baby | baby |
@@ -121,11 +121,11 @@
 | German | English | German | English |
 |--------|---------|--------|---------|
 | der Arzt / die Ärztin | doctor | der Lehrer / die Lehrerin | teacher |
-| der Ingenieur / die Ingenieurin | engineer | der Krankenpfleger / die Krankenschwester | nurse |
+| der Ingenieur / die Ingenieurin | engineer | der Krankenpfleger / die Krankenpflegerin | nurse |
 | der Koch / die Köchin | cook | der Polizist / die Polizistin | police officer |
 | der Student / die Studentin | student | der Verkäufer / die Verkäuferin | salesperson |
 | der Soldat / die Soldatin | soldier | der Fahrer / die Fahrerin | driver |
-| der Farmer / die Farmerin | farmer | der Beamte / die Beamtin | civil servant |
+| der Bauer / die Bäuerin | farmer | der Beamte / die Beamtin | civil servant |
 
 ---
 

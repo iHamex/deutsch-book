@@ -47,7 +47,7 @@
 | Mir ist schwindelig. | I feel dizzy. |
 | Ich bin müde. | I'm tired. |
 | Ich bin erschöpft. | I'm exhausted. |
-| Ich habe Appetitlosigkeit. | I have no appetite. |
+| Ich habe keinen Appetit. | I have no appetite. |
 | Ich habe Durchfall. | I have diarrhoea. |
 | Ich habe Verstopfung. | I'm constipated. |
 | Ich bin verletzt. | I'm injured. |
@@ -70,7 +70,7 @@
 | Wo tut es weh? | Where does it hurt? |
 | Ich habe Kopfschmerzen. | I have a headache. |
 | Seit wann haben Sie das? | Since when have you had that? |
-| Seit drei Tagen. | Since three days. |
+| Seit drei Tagen. | For three days. |
 | Haben Sie Fieber? | Do you have a fever? |
 | Haben Sie Schnupfen? | Do you have a runny nose? |
 | Haben Sie Husten? | Do you have a cough? |

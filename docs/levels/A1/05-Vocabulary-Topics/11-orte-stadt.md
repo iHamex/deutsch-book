@@ -24,9 +24,9 @@
 | der Marktplatz | market square | der Platz | square |
 | die Kirche | church | die Moschee | mosque |
 | das Schwimmbad | swimming pool | das Fitnessstudio | gym |
-| das Restaurant | restaurant | das Cafe | cafe |
+| das Restaurant | restaurant | das Café | cafe |
 | die Bar | bar | die Diskothek | nightclub |
-| das Hotel | hotel | das Jugendherberge | youth hostel |
+| das Hotel | hotel | die Jugendherberge | youth hostel |
 | das Wohnungsamt | housing office | das Bürgeramt | citizens' office |
 | das Einwohnermeldeamt | registration office | das Ausländeramt | foreigners' office |
 | die Ausländerbehörde | immigration office | die Steuerberatung | tax consultation |

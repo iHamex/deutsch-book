@@ -10,8 +10,7 @@
 |--------|---------|
 | Ich bin glücklich. | I'm happy. |
 | Ich bin froh. | I'm glad. |
-| Ich bin begeistert. | I'm thrilled. |
-| Ich bin begeistert. | I'm excited. |
+| Ich bin begeistert. | I'm thrilled / excited. |
 | Ich bin zufrieden. | I'm satisfied. |
 | Ich bin stolz. | I'm proud. |
 | Ich bin dankbar. | I'm grateful. |
@@ -25,8 +24,8 @@
 | Das macht mich glücklich. | That makes me happy. |
 | Das freut mich. | That makes me happy. / I'm glad. |
 | Ich habe Lust auf etwas. | I feel like doing something. |
-| Ich habe Courage. | I have courage. |
-| Ich bin in einer guten Laune. | I'm in a good mood. |
+| Ich habe Mut. | I have courage. |
+| Ich bin guter Laune. | I'm in a good mood. |
 | Ich bin überglücklich. | I'm overjoyed. |
 
 ---
@@ -54,9 +53,8 @@
 | Ich bin erschöpft. | I'm exhausted. |
 | Ich habe keine Energie. | I have no energy. |
 | Ich fühle mich einsam. | I feel lonely. |
-| Ich fühle mich kalt. | I feel cold. |
+| Mir ist kalt. | I feel cold. |
 | Ich bin deprimiert. | I'm depressed. |
-| Ich bin pessimistisch. | I'm pessimistic. |
 | Ich bin pessimistisch. | I'm pessimistic. |
 | Ich bin schlechter Laune. | I'm in a bad mood. |
 | Das macht mich traurig. | That makes me sad. |
@@ -69,7 +67,7 @@
 
 | German | English |
 |--------|---------|
-| Mir ist egal. | I don't care. |
+| Das ist mir egal. | I don't care. |
 | Ich bin unsicher. | I'm unsure. |
 | Ich bin überrascht. | I'm surprised. |
 | Ich bin verblüfft. | I'm amazed. |
@@ -79,8 +77,6 @@
 | Mir ist langweilig. | I'm bored. |
 | Ich bin verlegen. | I'm embarrassed. |
 | Ich bin schüchtern. | I'm shy. |
-| Ich bin stolz. | I'm proud. |
-| Ich bin genervt. | I'm annoyed. |
 
 ---
 
@@ -116,9 +112,9 @@
 | Mir geht es gut. | I'm doing well. |
 | Mir geht es nicht gut. | I'm not doing well. |
 | Mir geht es super! | I'm doing great! |
-| Ich bin in einer guten Laune. | I'm in a good mood. |
-| Ich bin in einer schlechten Laune. | I'm in a bad mood. |
-| Ich bin weder gut noch schlecht. | I'm neither good nor bad. |
+| Ich bin gut gelaunt. | I'm in a good mood. |
+| Ich bin schlecht gelaunt. | I'm in a bad mood. |
+| Mir geht es weder gut noch schlecht. | I'm neither good nor bad. |
 | Es geht. | It's OK. |
 | So lala. | So-so. |
 | Mir geht es ein bisschen besser. | I'm feeling a little better. |
@@ -191,7 +187,7 @@ Translate each sentence. Say it out loud, then check.
     4. Ich bin hungrig und durstig.
     5. Ich bin ein bisschen müde.
     6. Was ist los? - Ich bin ein bisschen ängstlich.
-    7. Mir ist egal. - Ich verstehe.
+    7. Das ist mir egal. - Ich verstehe.
     8. Ich bin begeistert! - Ich auch!
     9. Ich brauche Urlaub.
     10. Ich will allein sein.

@@ -156,12 +156,15 @@
 - **Angebot:** `Möchtest du einen Kaffee?`
 - **Reaktionen:** `Ja, gerne!` / `Gute Idee!` / `Tut mir leid, ich habe keins.` / `Das geht leider nicht.`
 
+!!! tip "A1 request chunk - memorize as one piece"
+    **Ich hätte gern ein Ticket, bitte.** - fixed phrase, exam-safe for Sprechen Teil 3 and Schreiben. The fuller polite forms (**Könnten Sie / Würden Sie / Dürfte ich**) are A2 - see the [A2 cheat sheet §14](../../A2/07-Exam-Mastery/01-exam-cheat-sheet.md).
+
 !!! tip "If you freeze"
     **Wie bitte?** / **Können Sie das bitte wiederholen?** / **Können Sie bitte langsamer sprechen?** - asking to repeat still earns points. Silence earns nothing.
 
 ---
 
-## 7. Word order - 5 checks
+## 7. Word order - 6 checks
 
 | Situation | Rule | Example |
 |---|---|---|
@@ -169,22 +172,35 @@
 | **W-question** | W-word + verb + subject | **Wo wohnen** Sie? |
 | **Yes/No question** | Verb first | **Kommen** Sie aus dem Iran? |
 | **Time before place** | Time, then place | Ich lerne am Montag in der Schule. |
-| **weil / wenn / dass** | Verb to END | **weil** ich müde **bin** / **wenn** ich Zeit **habe** |
+| **weil / wenn** | Verb to END | **weil** ich müde **bin** / **wenn** ich Zeit **habe** |
 | **Modal or Perfekt** | helper at 2, main verb to END | Ich **möchte** einen Kaffee **trinken**. / Ich **habe** gestern Deutsch **gelernt**. |
 
 **nicht position:** before the thing it negates - nicht gut, nicht mein Buch, Ich komme **nicht**.
 
+> **Connectors are A2** - denn/sondern (V2), deshalb/trotzdem/dann/also/außerdem (position 1), wenn vs als, and all Nebensatz connectors (weil, dass, ob, als, damit, bevor, nachdem) with the verb-at-END rule: full tables in the [A2 cheat sheet §7](../../A2/07-Exam-Mastery/01-exam-cheat-sheet.md). At A1 you only need the weil/wenn row above.
+
 ---
 
-## 8. Kein vs nicht
+## 8. Negation - kein / nicht / nothing family
 
-| Use | Example |
-|---|---|
-| **kein** + noun (ein/no article) | kein Geld, **keinen** Bruder, **keine** Zeit |
-| **nicht** + verb/adjective/definite | nicht kommen, nicht gut, nicht mein Buch |
+| Use | Rule | Example |
+|---|---|---|
+| **kein** + noun (ein/no article) | replaces ein | kein Geld, **keinen** Bruder, **keine** Zeit |
+| **nicht** + verb/adjective/definite | negates everything else | nicht kommen, nicht gut, nicht mein Buch |
+| **nicht** position | before the word it negates | Ich komme **nicht**. / Ich trinke **keinen** Kaffee. |
 
-!!! warning "Strengthen"
-    **gar nicht** = not at all: *Ich verstehe das gar nicht.* / **gar kein** = no … at all: *Ich habe gar keine Zeit.* / **noch nicht** = not yet: *Ich habe noch keine Kinder.*
+!!! warning "The full negation family"
+    - **nichts** = nothing: *Ich weiß **nichts**.* (I know nothing.)
+    - **noch nicht** = not yet: *Ich habe **noch keine** Kinder.* (I don't have children yet.)
+    - **noch nichts** = nothing yet: *Ich habe **noch nichts** gegessen.* (I haven't eaten anything yet.)
+    - **gar nicht** = not at all: *Ich verstehe das **gar nicht**.* (I don't understand that at all.)
+    - **gar kein** = no ... at all: *Ich habe **gar keine** Zeit.* (I have no time at all.)
+    - **nie** = never: *Ich trinke **nie** Kaffee.* (I never drink coffee.)
+    - **niemand** = nobody: *Da ist **niemand**.* (Nobody is there.)
+    - **nirgends / nirgendwo** = nowhere: *Ich finde das **nirgends**.* (I can't find that anywhere.)
+
+!!! tip "Order trap"
+    **noch** must come BEFORE **kein/nicht**: ~~Ich habe keine noch Zeit~~ -> *Ich habe **noch keine** Zeit.* / ~~Ich habe nicht noch gegessen~~ -> *Ich habe **noch nicht** gegessen.*
 
 ---
 
@@ -264,29 +280,56 @@
 
 ---
 
-## 14. Prepositions - time and place chunks
+## 14. Prepositions - time, place, direction
 
-**Time:**
+### Time prepositions
 
-| Chunk | Example |
-|---|---|
-| **um** + Uhrzeit | um 8 Uhr, um halb neun |
-| **am** + Tag | am Montag, am Wochenende, am Morgen |
-| **im** + Monat/Jahreszeit | im September, im Sommer, im Winter |
-| **von … bis** | von 9 bis 17 Uhr |
+| Chunk | Case | Example | Meaning |
+|---|---|---|---|
+| **um** + Uhrzeit | Akk | um 8 Uhr, um halb neun | at (clock time) |
+| **am** + Tag | Dat | am Montag, am Wochenende, am Morgen | on (day) |
+| **im** + Monat/Jahreszeit | Dat | im September, im Sommer, im Winter | in (month/season) |
+| **von … bis** | Dat | von 9 bis 17 Uhr | from … to |
+| **vor** + Dativ | Dat | vor 2 Tagen, vor einer Woche | ago (finished) |
+| **seit** + Dativ | Dat | seit 2 Tagen, seit Montag | since/for (still ongoing!) |
+| **ab** + Dativ | Dat | ab Montag, ab 8 Uhr | from (starting point) |
+| **für** + Akkusativ | Akk | für 2 Wochen, für den Sommer | for (planned duration) |
+| **bis** | - | bis 17 Uhr, bis morgen | until (endpoint) |
 
-**vor/seit/in:** *vor* 2 Tagen (ago) / *seit* 2 Tagen (since, still) / *in* 2 Tagen (future)
+!!! warning "vor vs seit vs für"
+    - **vor** = ago (finished): *Ich war **vor** zwei Wochen dort.* (I was there two weeks ago.)
+    - **seit** = since/for (started, still going): *Ich bin **seit** zwei Wochen da.* (I've been here for two weeks.) = **present tense!**
+    - **für** = for (planned): *Ich fahre **für** zwei Wochen.* (I'm going for two weeks.)
 
-**Place (Wo? vs Wohin?):**
+!!! warning "seit uses present tense"
+    "I have been learning German for two years" = *Ich lerne **seit** zwei Jahren Deutsch.* - ongoing = present tense, NOT Perfekt.
 
-| Wo? (location, Dativ) | Wohin? (to, Akkusativ) |
+### Direction prepositions - nach / zum / zur
+
+| Preposition | Use | Example | English |
+|---|---|---|---|
+| **nach** | cities, countries, nach Hause | nach Berlin, nach Deutschland, nach Hause | to Berlin, to Germany, home |
+| **zum** (zu + dem) | masculine + neuter places/buildings | zum Arzt, zum Bahnhof, zum Kino | to the doctor, to the station |
+| **zur** (zu + der) | feminine places/buildings | zur Arbeit, zur Schule, zur Apotheke | to work, to school, to the pharmacy |
+| **in die** | into (direction) | in die Stadt, in die Schule | into the city, into school |
+| **in der** | in (location) | in der Stadt, in der Schule | in the city, in school |
+
+!!! tip "nach vs zum vs zur - the city/country/building test"
+    - City or country? = **nach**: nach München, nach Japan, nach Hause
+    - Building/place? = **zum/zur** (depends on article): zum Arzt (der), zur Schule (die), zum Kino (das)
+
+### Place - Wo? (Dativ) vs Wohin? (Akkusativ)
+
+| Wo? (location, Dativ) | Wohin? (direction, Akkusativ) |
 |---|---|
 | Ich wohne **in der** Stadt. | Ich gehe **in die** Stadt. |
 | Das Buch liegt **auf dem** Tisch. | Er legt das Buch **auf den** Tisch. |
 | Ich bin **an der** Haltestelle. | Ich gehe **an die** Haltestelle. |
 | Ich bin **bei der** Arbeit. | Ich gehe **zur** Arbeit. |
+| Das Bild hängt **an der** Wand. | Ich hänge das Bild **an die** Wand. |
+| Er steht **vor der** Tür. | Er stellt sich **vor die** Tür. |
 
-**Fixed chunks:**
+### Fixed chunks
 
 - **in** = into (wohin: in die) / in (wo: in der) - *Ich gehe in die Stadt. / Ich wohne in der Stadt.*
 - **nach** = to city/country + nach Hause - *nach Berlin, nach Hause*
@@ -294,7 +337,8 @@
 - **aus** = from (origin) - *aus dem Iran*
 - **mit** = with/by - *mit dem Zug, mit meiner Frau*
 - **von** = from - *von der Arbeit*
-- **seit** = since - *seit zwei Jahren*
+- **bei** = at (person/place) - *bei meiner Frau, bei Check24*
+- **gegen** = toward/about (time) - *gegen 8 Uhr* (around 8)
 
 **Contractions:** am = an dem, im = in dem, zum = zu dem, zur = zu der
 
@@ -338,9 +382,161 @@
 
 ---
 
+## 18. Adjective endings - 3 rules that save points
+
+| Rule | When | Ending | Example |
+|---|---|---|---|
+| After **sein** | predicative | NO ending | Das Auto ist **rot**. / Er ist **müde**. |
+| After **mit / bei / zu / von** + **dem/der** | dative preposition + definite article | always **-en** | mit **dem** neuen Auto / bei **der** guten Laune / zu **dem** neuen Kurs / von **dem** kleinen Kind |
+| Before a noun | attributive | follows **ein/mein** pattern | ein **guter** Mann / eine **schöne** Frau / ein **kleines** Kind |
+
+!!! tip "After sein = no ending"
+    *Das Buch ist **alt**.* / *Das Auto ist **rot**.* / *Er ist **müde**.* - after sein, the adjective never changes.
+
+!!! tip "After mit/bei/zu/von = -en with dem/der"
+    With a definite article the ending is always **-en**: *mit **dem** neuen Auto* / *bei **dem** alten Chef* / *zu **der** guten Zeit* / *von **dem** kleinen Kind* - regardless of gender.
+    Without an article the adjective takes the strong ending: *mit **großem** Glück* / *bei **guter** Laune* / *zu **neuem** Kurs* / *von **kleinem** Kind*.
+
+---
+
+## 19. es gibt + Akk / es gefällt + Dat
+
+| Structure | Meaning | Example | English |
+|---|---|---|---|
+| **es gibt** + Akkusativ | there is/are | **Es gibt** ein Restaurant **in der** Nähe. | There is a restaurant nearby. |
+| **es gefällt** + Dativ | (something) pleases (someone) | Das Restaurant **gefällt mir**. | I like the restaurant. (lit. The restaurant pleases me.) |
+| **es schmeckt** + Dativ | (something) tastes good to (someone) | Das Essen **schmeckt uns**. | We like the food. (lit. The food tastes good to us.) |
+
+!!! warning "es gefällt - backwards from English"
+    English: "I like the restaurant." German: "Das Restaurant gefällt **mir**." (The restaurant pleases ME.) The thing you like is the SUBJECT.
+
+---
+
+## 20. Pronunciation weapon - read German out loud
+
+| Combination | Sound | Examples |
+|---|---|---|
+| **ei** | "eye" (like English "eye") | mein, zwei, klein, Eis |
+| **ie** | "ee" (long i) | die, Liebe, Biene, Tier |
+| **au** | "ow" (like English "cow") | Haus, Auto, auch, Frau |
+| **eu / äu** | "oy" (like English "boy") | neu, heute, Häuser, Fräulein |
+| **ch** after a/o/u | "Bach" (back of throat) | machen, hoch, suchen, Buch |
+| **ch** after e/i | "ich" (front of mouth) | ich, sprechen, China, dich |
+
+!!! tip "ei vs ie - one sound each"
+    **ei** sounds like English "eye": m-**ei**n, z-**wei**, kl-**ei**n.
+    **ie** is a long "ee": d-**ie**, L-**ie**be, B-**ie**ne. The e only marks the long i - it is not spoken.
+
+!!! warning "Train with pairs"
+    **Stadt** (short a) vs **Staat** (long aa) - vowel length changes meaning.
+    **Kamm** (short a, comb) vs **kam** (long a, came) - short vs long vowel.
+    **schon** (already) vs **schön** (beautiful) - umlaut changes meaning.
+    **Mutter** (mother) vs **Mütter** (mothers) - umlaut changes meaning.
+
+---
+
+## 21. Numbers - traps that cost points
+
+!!! danger "halb trap - the #1 listening mistake"
+    **halb vier** = 3:30 (half TOWARD four, NOT half past four!)
+    Rule: when you hear "halb X", the hour is **X minus 1**.
+    - halb neun = 8:30
+    - halb drei = 2:30
+    - halb eins = 12:30
+
+!!! warning "Numbers that lose letters"
+    - **sechzehn** (NOT ~~sechszehn~~) - loses the "s"
+    - **siebzehn** (NOT ~~siebenzehn~~) - loses the "en"
+    - **sechzig** (NOT ~~sechsig~~) - loses the "s"
+    - **siebzig** (NOT ~~siebenzig~~) - loses the "en"
+    - **dreißig** (NOT ~~drei-zig~~) - one word, one ß
+
+| Number | Watch out | Correct |
+|---|---|---|
+| 6 | not ~~sech~~ | sech**s** |
+| 16 | sechzehn (no -s-) | sech**zehn** |
+| 60 | sechzig (no -en) | sech**zig** |
+| 7 | not ~~sieb~~ | sieb**en** |
+| 17 | siebzehn (no -en) | sieb**zehn** |
+| 70 | siebzig (no -en) | sieb**zig** |
+| 30 | not drei-zig | dre**ißig** |
+
+---
+
+## 22. dass / ob / indirect questions
+
+> **A2 content** - the full table and rules now live in the [A2 cheat sheet §8](../../A2/07-Exam-Mastery/01-exam-cheat-sheet.md). At A1 you only need the weil/wenn verb-end row in §7.
+
+---
+
+## 23. Two-way prepositions (Wechselpräpositionen)
+
+> **A2 content** - the full Wo?/Wohin? system with liegen/legen and stehen/stellen now lives in the [A2 cheat sheet §12](../../A2/07-Exam-Mastery/01-exam-cheat-sheet.md). At A1 you need only the basic Wo?/Wohin? pairs in §14.
+
+---
+
+## 24. Reflexive verbs
+
+> **A2 content** - the full exam set (sich freuen, ärgern, treffen, vorstellen, erkälten, wünschen, ansehen, merken, kaufen + the preposition chunks) now lives in the [A2 cheat sheet §13](../../A2/07-Exam-Mastery/01-exam-cheat-sheet.md).
+
+---
+
+## 25. Passive
+
+> **A2 content (recognition only)** - werden/wurde + Partizip II, von + Dativ, durch + Akk, and man-sentences now live in the [A2 cheat sheet §15](../../A2/07-Exam-Mastery/01-exam-cheat-sheet.md).
+
+---
+
+## 26. Noun-verb chunks
+
+> **A2 content** - the frozen chunks (Angst haben, Lust haben, Spaß machen, sich Mühe geben, Acht geben, etc.) with their prepositions now live in the [A2 cheat sheet §19](../../A2/07-Exam-Mastery/01-exam-cheat-sheet.md).
+
+---
+
+## 27. Comparative traps
+
+### Irregulars (memorize these)
+
+| Positive | Comparative | Superlative |
+|---|---|---|
+| gut | **besser** | am **besten** |
+| viel | **mehr** | am **meisten** |
+| gern | **lieber** | am **liebsten** |
+| nah | **näher** | am **nächsten** |
+| hoch | **höher** | am **höchsten** |
+
+!!! warning "gut has NO regular form"
+    Never ~~guter~~ or ~~gutester~~. Only **besser** and **am besten**.
+
+### als vs wie
+
+| Use | Structure | Example |
+|---|---|---|
+| comparison (than) | adj + **als** | Er ist größer **als** sie. |
+| equality (as...as) | so + adj + **wie** | Er ist so groß **wie** sein Bruder. |
+| not as...as | nicht so + adj + **wie** | Das ist nicht so gut **wie** das andere. |
+
+!!! warning "als vs wie - never mix"
+    **als** = comparison (bigger THAN). **wie** = equality (AS tall AS).
+
+### Umlaut in comparatives
+
+a/o/u often take umlaut: alt -> älter, groß -> größer, jung -> jünger.
+BUT: laut -> **lauter**, froh -> **froher**, stolz -> **stolzer**, falsch -> **falscher** (no umlaut). If unsure, use without.
+
+---
+
+## 28. Separable vs inseparable
+
+> **A2 content** - the stress test and the full prefix tables (be-, er-, ver-, an-, auf-, mit-, zurück-...) now live in the [A2 cheat sheet §20](../../A2/07-Exam-Mastery/01-exam-cheat-sheet.md). At A1 you only need the imperative forms in §15 (*Steh auf! / Rufen Sie an!*).
+
+---
+
 ## Quick practice - the exam frames
 
 Translate each frame. Say it out loud, then check. Every one of these is a direct exam situation.
+
+### A1 frames
 
 - My name is Hamed. I am 40 years old. (self-intro)
 - I am married and have no children.
@@ -373,6 +569,8 @@ Translate each frame. Say it out loud, then check. Every one of these is a direc
 - Two tickets to Berlin, please. (kaufen)
 - The pharmacy is open on Saturdays from 8 to 12. (richtig/falsch statement: samstags 8-12 Uhr)
 
+> A2 practice frames (seit, reflexive verbs, Konjunktiv II, passive, connectors) live on the [A2 cheat sheet](../../A2/07-Exam-Mastery/01-exam-cheat-sheet.md) - drill them there.
+
 ??? success "Antworten - expand to check"
 
     1. Ich heiße Hamed. Ich bin 40 Jahre alt.
@@ -383,7 +581,7 @@ Translate each frame. Say it out loud, then check. Every one of these is a direc
     6. Wie viel kostet das Ticket?
     7. Ich möchte bitte ein Ticket kaufen.
     8. Können Sie das bitte wiederholen?
-    9. Was bedeutet „Apotheke“?
+    9. Was bedeutet „Apotheke"?
     10. Ich verstehe das nicht.
     11. Einen Moment, bitte.
     12. Ich rufe später noch mal an.

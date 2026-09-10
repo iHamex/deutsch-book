@@ -88,7 +88,7 @@
 |--------|---------|--------|---------|
 | der Frühling | spring | März - Mai | warm, sonnig |
 | der Sommer | summer | Juni - August | heiß, sonnig |
-| der Herbst | autumn | September - November | kühl,风ig |
+| der Herbst | autumn | September - November | kühl, windig |
 | der Winter | winter | Dezember - Februar | kalt, schneit |
 
 | German | English |
@@ -128,12 +128,12 @@
 
 | German | English |
 |--------|---------|
-| Schönheitswetter heute! | Beautiful weather today! |
+| Schönwetter heute! | Beautiful weather today! |
 | Das ist ja schön! | That's nice! |
 | Das wird besser! | It'll get better! |
 | Das wird schlechter! | It'll get worse! |
 | Hoffentlich wird es besser. | Hopefully it'll get better. |
-| Es ist zum Ausgehen perfekt. | It's perfect for going out. |
+| Es ist perfekt zum Ausgehen. | It's perfect for going out. |
 | Ich nehme einen Regenschirm mit. | I'll take an umbrella with me. |
 | Ich brauche eine Sonnenbrille. | I need sunglasses. |
 | Ich brauche einen Mantel. | I need a coat. |
@@ -147,11 +147,11 @@
 |--------|---------|
 | die Wettervorhersage | weather forecast |
 | die Prognose | forecast |
-| morgen wird es sonnig. | tomorrow it will be sunny. |
-| morgen wird es regnen. | tomorrow it will rain. |
-| morgen wird es schneien. | tomorrow it will snow. |
-| am Nachmittag wird es gewittern. | in the afternoon there will be thunderstorms. |
-| das Risiko von Regen ist 50%. | the risk of rain is 50%. |
+| Morgen wird es sonnig. | Tomorrow it will be sunny. |
+| Morgen wird es regnen. | Tomorrow it will rain. |
+| Morgen wird es schneien. | Tomorrow it will snow. |
+| Am Nachmittag wird es gewittern. | In the afternoon there will be thunderstorms. |
+| Das Risiko von Regen ist 50 %. | The risk of rain is 50 %. |
 | Es wird trocken bleiben. | It will stay dry. |
 
 ---
@@ -181,5 +181,5 @@ Translate each sentence. Say it out loud, then check.
     6. Die Temperatur sinkt. Es wird kalt.
     7. Der Himmel ist grau. - Hoffentlich klart es auf.
     8. Im Sommer ist es heiß. Im Winter ist es kalt.
-    9. Schönheitswetter heute! - Ja, die Sonne scheint.
+    9. Schönwetter heute! - Ja, die Sonne scheint.
     10. Ich brauche einen Mantel. Es ist sehr kalt.

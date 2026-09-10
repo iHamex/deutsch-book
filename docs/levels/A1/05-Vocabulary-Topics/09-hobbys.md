@@ -11,7 +11,7 @@
 | lesen | to read | schreiben | to write |
 | schwimmen | to swim | laufen | to run |
 | joggen | to jog | wandern | to hike |
-| fahren Rad | to ride a bike | kochen | to cook |
+| Rad fahren | to ride a bike | kochen | to cook |
 | backen | to bake | tanzen | to dance |
 | singen | to sing | malen | to paint |
 | zeichnen | to draw | fotografieren | to take photos |
@@ -22,10 +22,10 @@
 | reisen | to travel | campen | to camp |
 | angeln | to fish | jagen | to hunt |
 | Briefmarken sammeln | to collect stamps | Münzen sammeln | to collect coins |
-| Sammeln | to collect | Modellbau | model building |
-| Gärtnern | to garden | Yoga machen | to do yoga |
-| Meditieren | to meditate | Pilates machen | to do Pilates |
-| Stretching machen | to stretch | Fitnessstudio | gym |
+| sammeln | to collect | Modellbau | model building |
+| gärtnern | to garden | Yoga machen | to do yoga |
+| meditieren | to meditate | Pilates machen | to do Pilates |
+| Stretching machen | to stretch | ins Fitnessstudio gehen | to go to the gym |
 
 ---
 
@@ -81,20 +81,20 @@
 | fernsehen | to watch TV |
 | Videospiele spielen | to play video games |
 | lesen | to read |
-| Kochen | to cook |
+| kochen | to cook |
 | backen | to bake |
 | Musik hören | to listen to music |
 | Gitarre spielen | to play guitar |
-|棋牌 spielen | to play board games |
+| Brettspiele spielen | to play board games |
 | puzzeln | to do a puzzle |
 | basteln | to craft |
 | fotografieren | to take photos |
 | Online-Spiele spielen | to play online games |
 | im Internet surfen | to surf the internet |
 | E-Mails schreiben | to write emails |
-| Chatten | to chat |
+| chatten | to chat |
 | Videocalls machen | to make video calls |
-| Meditieren | to meditate |
+| meditieren | to meditate |
 | Yoga machen | to do yoga |
 
 ---
@@ -120,10 +120,10 @@
 
 | German | English |
 |--------|---------|
-| mit Freunden treffen | to meet friends |
+| sich mit Freunden treffen | to meet friends |
 | ausgehen | to go out |
 | feiern | to celebrate |
-| ein Party machen | to have a party |
+| eine Party machen | to have a party |
 | grillen | to barbecue |
 | Karten spielen | to play cards |
 | Schach spielen | to play chess |
@@ -131,7 +131,7 @@
 | einkaufen gehen | to go shopping |
 | Kaffee trinken | to have coffee |
 | einen Kaffee trinken | to have a coffee |
-| lunchen | to have lunch |
+| zu Mittag essen | to have lunch |
 | zu Abend essen | to have dinner |
 | Kino schauen | to watch a movie |
 | Musik machen | to make music |
@@ -153,14 +153,14 @@
 | Lass uns etwas unternehmen! | Let's do something! |
 | Wann haben wir Zeit? | When do we have time? |
 | Passt dir Samstag? | Does Saturday suit you? |
-| Passe ich dir? | Am I a good time for you? |
+| Passt es dir? | Does it work for you? |
 | Ich habe am Samstag Zeit. | I have time on Saturday. |
 | Ich habe keine Zeit. | I don't have time. |
 | Ich habe am Freitag keine Zeit. | I don't have time on Friday. |
 | Leider kann ich nicht. | Unfortunately I can't. |
 | Tut mir leid, ich bin beschäftigt. | Sorry, I'm busy. |
 | Das klingt toll! | That sounds great! |
-| super Idee! | great idea! |
+| Super Idee! | great idea! |
 | Gern! | Gladly! / With pleasure! |
 | Vielen Dank für die Einladung! | Thank you very much for the invitation! |
 
@@ -229,7 +229,7 @@ Translate each sentence. Say it out loud, then check.
     2. Ich interessiere mich für Fotografie.
     3. Was machst du in deiner Freizeit? - Ich gehe ins Kino und treffe mich mit Freunden.
     4. Wie oft gehst du schwimmen? - Zweimal pro Woche.
-    5. Hast du Lust, ins Kino zu gehen? - Ja, super Idee!
+    5. Hast du Lust, ins Kino zu gehen? - Ja, Super Idee!
     6. Was machst du am Wochenende? - Ich gehe wandern.
     7. Ich lese immer abends.
     8. Ich koche manchmal.

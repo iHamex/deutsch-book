@@ -21,8 +21,8 @@
 | das Einfamilienhaus | single-family house |
 | das Reihenhaus | townhouse |
 | die Etage | floor / storey |
-| der Stockwerk | storey |
-| das Erdgeschoß | ground floor |
+| das Stockwerk | storey |
+| das Erdgeschoss | ground floor |
 | der erste Stock | first floor |
 | der Aufzug | elevator |
 | die Treppe | stairs |
@@ -58,7 +58,7 @@
 | der Tisch | table |
 | der Stuhl | chair |
 | der Sessel | armchair |
-| das Sofa / das Sofa | couch / sofa |
+| das Sofa / die Couch | couch / sofa |
 | das Bett | bed |
 | der Schrank | wardrobe / cupboard |
 | der Kleiderschrank | wardrobe (for clothes) |
@@ -75,7 +75,6 @@
 | der Kühlschrank | fridge |
 | der Herd | stove |
 | die Spülmaschine | dishwasher |
-| der Herd | cooker / stove |
 | die Mikrowelle | microwave |
 
 ---
@@ -91,7 +90,6 @@
 | das Messer | knife |
 | der Löffel | spoon |
 | die Schüssel | bowl |
-| die Tasse | cup |
 | die Pfanne | pan |
 | der Topf | pot |
 | das Tablett | tray |
@@ -106,8 +104,8 @@
 | die Badewanne | bathtub |
 | die Dusche | shower |
 | die Toilette / das Klo | toilet |
-| die Waschbecken | washbasin |
-| der Handtuch | towel |
+| das Waschbecken | washbasin |
+| das Handtuch | towel |
 | die Zahnbürste | toothbrush |
 | die Zahnpasta | toothpaste |
 | die Seife | soap |
@@ -132,7 +130,7 @@
 | Die Küche ist neu. | The kitchen is new. |
 | Das Bad ist klein. | The bathroom is small. |
 | Das Schlafzimmer ist groß. | The bedroom is big. |
-| Ich habe ein/auto. | I have a car. |
+| Ich habe ein Auto. | I have a car. |
 | Die Miete kostet 800 Euro. | The rent costs 800 euros. |
 | Die Nebenkosten sind 200 Euro. | The additional costs are 200 euros. |
 
