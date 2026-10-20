@@ -267,5 +267,39 @@ nav:
       - "Sentence Bank": levels/A2/08-Practice-Lab/02-sentences.md
       - "Sentence Skeletons": levels/A2/08-Practice-Lab/03-sentence-skeletons.md
 
+  - Leben in Deutschland:
+    - Overview: leben-in-deutschland/index.md
+    - Mock Test: leben-in-deutschland/mock-test.md
+    - Mistake Log: leben-in-deutschland/mistakes.md
+    - States at a Glance: leben-in-deutschland/states-at-a-glance.md
+    - General Questions:
+      - "Questions 1-30": leben-in-deutschland/general/01-questions-001-030.md
+      - "Questions 31-60": leben-in-deutschland/general/02-questions-031-060.md
+      - "Questions 61-90": leben-in-deutschland/general/03-questions-061-090.md
+      - "Questions 91-120": leben-in-deutschland/general/04-questions-091-120.md
+      - "Questions 121-150": leben-in-deutschland/general/05-questions-121-150.md
+      - "Questions 151-180": leben-in-deutschland/general/06-questions-151-180.md
+      - "Questions 181-210": leben-in-deutschland/general/07-questions-181-210.md
+      - "Questions 211-240": leben-in-deutschland/general/08-questions-211-240.md
+      - "Questions 241-270": leben-in-deutschland/general/09-questions-241-270.md
+      - "Questions 271-300": leben-in-deutschland/general/10-questions-271-300.md
+    - State Questions:
+      - "Baden-Württemberg": leben-in-deutschland/states/01-baden-wuerttemberg.md
+      - "Bavaria (Bayern)": leben-in-deutschland/states/02-bayern.md
+      - "Berlin": leben-in-deutschland/states/03-berlin.md
+      - "Brandenburg": leben-in-deutschland/states/04-brandenburg.md
+      - "Bremen": leben-in-deutschland/states/05-bremen.md
+      - "Hamburg": leben-in-deutschland/states/06-hamburg.md
+      - "Hesse (Hessen)": leben-in-deutschland/states/07-hessen.md
+      - "Mecklenburg-Western Pomerania": leben-in-deutschland/states/08-mecklenburg-vorpommern.md
+      - "Lower Saxony (Niedersachsen)": leben-in-deutschland/states/09-niedersachsen.md
+      - "North Rhine-Westphalia": leben-in-deutschland/states/10-nordrhein-westfalen.md
+      - "Rhineland-Palatinate": leben-in-deutschland/states/11-rheinland-pfalz.md
+      - "Saarland": leben-in-deutschland/states/12-saarland.md
+      - "Saxony (Sachsen)": leben-in-deutschland/states/13-sachsen.md
+      - "Saxony-Anhalt": leben-in-deutschland/states/14-sachsen-anhalt.md
+      - "Schleswig-Holstein": leben-in-deutschland/states/15-schleswig-holstein.md
+      - "Thuringia (Thüringen)": leben-in-deutschland/states/16-thueringen.md
+
 # Copyright Text
 copyright: © 2026 Hamed Okhovvat
