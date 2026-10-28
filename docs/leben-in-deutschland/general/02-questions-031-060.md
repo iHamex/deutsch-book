@@ -351,7 +351,7 @@
 ## Frage 41
 
 > **Frage:** Warum gibt es in einer Demokratie mehr als eine Partei?  
-> **English:** Why are there more than one party in a democracy?
+> **English:** Why is there more than one party in a democracy?
 
 | # | Antwort | English |
 |---|---|---|

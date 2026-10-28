@@ -56,7 +56,7 @@
 ## Frage 2
 
 > **Frage:** Welches ist ein Stadtteil von Bremen?  
-> **English:** Which of these is a district (Bezirk) in Bremen?
+> **English:** Which of these is a district (Stadtteil) of Bremen?
 
 | # | Antwort | English |
 |---|---|---|
@@ -224,7 +224,7 @@
     **a) Bremen**  
     Bremen
 
-    **Warum / Why:** Bremen is one of Germany's three city-states (Stadtstaaten), along with Berlin and Bremen/Hamburg.
+    **Warum / Why:** Bremen is one of Germany's three city-states (Stadtstaaten), along with Berlin and Hamburg.
 
 ??? note "Wortschatz / Vocabulary"
 

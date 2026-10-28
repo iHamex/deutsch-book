@@ -111,7 +111,7 @@
 
 ## Frage 184
 
-> **Frage:** 184. Auf welcher rechtlichen Grundlage wurde der Staat Israel gegründet?  
+> **Frage:** Auf welcher rechtlichen Grundlage wurde der Staat Israel gegründet?  
 > **English:** On what legal basis was the State of Israel founded?
 
 | # | Antwort | English |
@@ -868,7 +868,7 @@
 
 ## Frage 206
 
-> **Frage:** 206. Woran erinnern die sogenannten „Stolpersteine“ in Deutschland?  
+> **Frage:** Woran erinnern die sogenannten „Stolpersteine“ in Deutschland?  
 > **English:** What do the so-called "Stolpersteine" (stumbling stones) in Germany commemorate?
 
 | # | Antwort | English |

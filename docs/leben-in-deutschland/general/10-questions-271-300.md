@@ -115,7 +115,7 @@
 ## Frage 274
 
 > **Frage:** Sie haben in Deutschland absichtlich einen Brief geöffnet, der an eine andere Person adressiert ist. Was haben Sie nicht beachtet?  
-> **English:** What does the "confidentiality of correspondence" protect in Germany?
+> **English:** You have deliberately opened a letter in Germany that is addressed to another person. What have you not respected?
 
 | # | Antwort | English |
 |---|---|---|
@@ -409,7 +409,7 @@
 ## Frage 282
 
 > **Frage:** Welches Ehrenamt müssen deutsche Staatsbürgerinnen und Staatsbürger übernehmen, wenn sie dazu aufgefordert werden?  
-> **English:** Which civic duty (honorary office) must German citizens take on if called upon to do so?
+> **English:** Which honorary office must German citizens take on if called upon to do so?
 
 | # | Antwort | English |
 |---|---|---|
@@ -766,7 +766,7 @@
 ## Frage 292
 
 > **Frage:** Die Menschen in Deutschland leben nach dem Grundsatz der religiösen Toleranz. Was bedeutet das?  
-> **English:** What applies to freedom of religion in Germany?
+> **English:** People in Germany live according to the principle of religious tolerance. What does that mean?
 
 | # | Antwort | English |
 |---|---|---|
@@ -780,7 +780,7 @@
     **c) Jeder kann glauben, was er möchte.**  
     Everyone can believe what they want.
 
-    **Warum / Why:** Freedom of religion (Religionsfreiheit) means everyone can believe what they choose - including no religion at all - without state interference.
+    **Warum / Why:** Religious tolerance means everyone can believe what they choose - including no religion at all - without state interference.
 
 ??? note "Wortschatz / Vocabulary"
 
@@ -804,7 +804,7 @@
 ## Frage 293
 
 > **Frage:** Was ist in Deutschland ein Brauch zu Ostern?  
-> **English:** What do many people in Germany do at Easter?
+> **English:** What is a custom at Easter in Germany?
 
 | # | Antwort | English |
 |---|---|---|

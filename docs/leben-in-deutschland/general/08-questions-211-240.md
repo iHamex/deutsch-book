@@ -157,7 +157,7 @@
 ## Frage 216
 
 > **Frage:** Welches Symbol ist im Plenarsaal des Deutschen Bundestages zu sehen?  
-> **English:** Which symbol can be seen in the German Bundestag?
+> **English:** Which symbol can be seen in the plenary chamber of the German Bundestag?
 
 <img src="../../../media/lid/216-1.jpg" alt="Abbildung zu Frage 216" width="440">
 
@@ -691,7 +691,7 @@
 ## Frage 232
 
 > **Frage:** Wer wird bei der Europawahl gewählt?  
-> **English:** What does the Maastricht Treaty establish?
+> **English:** Who is elected in the European election?
 
 | # | Antwort | English |
 |---|---|---|
@@ -705,7 +705,7 @@
     **c) die Abgeordneten des Europäischen Parlaments**  
     the members of the European Parliament
 
-    **Warum / Why:** The Maastricht Treaty (1992) established the European Union itself, including provisions for the European Parliament's members and structure.
+    **Warum / Why:** In the European election, voters elect the members of the European Parliament - not the European Commission, the constitution, or the countries that may join the EU.
 
 ??? note "Wortschatz / Vocabulary"
 
@@ -757,7 +757,7 @@
 ## Frage 234
 
 > **Frage:** Wo ist ein Sitz des Europäischen Parlaments?  
-> **English:** Where is the European Parliament mainly located?
+> **English:** Where is one seat of the European Parliament?
 
 | # | Antwort | English |
 |---|---|---|
@@ -854,7 +854,7 @@
 ## Frage 237
 
 > **Frage:** 2007 wurde das 50-jährige Jubiläum der "Römischen Verträge" gefeiert. Was war der Inhalt der Verträge?  
-> **English:** What was established by the Treaties of Rome in 1957?
+> **English:** In 2007, the 50th anniversary of the Treaties of Rome was celebrated. What was the content of the treaties?
 
 | # | Antwort | English |
 |---|---|---|
@@ -891,7 +891,7 @@
 ## Frage 238
 
 > **Frage:** An welchen Orten arbeitet das Europäische Parlament?  
-> **English:** Where are the institutions of the European Union headquartered?
+> **English:** In which places does the European Parliament work?
 
 | # | Antwort | English |
 |---|---|---|
@@ -905,7 +905,7 @@
     **b) Straßburg, Luxemburg und Brüssel**  
     Strasbourg, Luxembourg, and Brussels
 
-    **Warum / Why:** EU institutions are spread across Strasbourg (Parliament), Luxembourg (Court of Justice), and Brussels (Commission, Council).
+    **Warum / Why:** The European Parliament works in Strasbourg (its official seat), Luxembourg, and Brussels - not in Paris, London, The Hague, Rome, Bern, Vienna, Bonn, Zurich, or Milan.
 
 ??? note "Wortschatz / Vocabulary"
 
@@ -922,7 +922,7 @@
 ## Frage 239
 
 > **Frage:** Durch welche Verträge schloss sich die Bundesrepublik Deutschland mit anderen Staaten zur Europäischen Wirtschaftsgemeinschaft zusammen?  
-> **English:** How did the European Economic Community (EEC) come about?
+> **English:** Through which treaties did the Federal Republic of Germany join with other states to form the European Economic Community?
 
 | # | Antwort | English |
 |---|---|---|
